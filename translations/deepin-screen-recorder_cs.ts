@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="cs">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="cs">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ v oznamovací oblasti panelu nebo stiskněte klávesovou zkratku</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Pořídit záznam</translation>
+        <translation type="vanished">Pořídit záznam</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Pořídit snímek obrazovky</translation>
+        <translation type="vanished">Pořídit snímek obrazovky</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ v oznamovací oblasti panelu nebo stiskněte klávesovou zkratku</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Pořízení snímku obrazovky se nezdařilo.</translation>
+        <translation type="vanished">Pořízení snímku obrazovky se nezdařilo.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ v oznamovací oblasti panelu nebo stiskněte klávesovou zkratku</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ v oznamovací oblasti panelu nebo stiskněte klávesovou zkratku</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Obrazec byl dokončen a zkopírován do schránky</translation>
+        <translation>Snímek byl dokončen a zkopírován do schránky</translation>
     </message>
 </context>
 <context>
@@ -147,22 +149,22 @@ v oznamovací oblasti panelu nebo stiskněte klávesovou zkratku</translation>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Obrazec</translation>
+        <translation>Snímek</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Zaznamenat</translation>
+        <translation type="unfinished">Pořídit záznam</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Obrazec</translation>
+        <translation>Snímek</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Záznam</translation>
+        <translation type="unfinished">Nahrávání</translation>
     </message>
 </context>
 <context>
@@ -415,7 +417,7 @@ v oznamovací oblasti panelu nebo stiskněte klávesovou zkratku</translation>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Zaznamenat</translation>
+        <translation type="unfinished">Pořídit záznam</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Stiskněte a podržte klávesu Shift pro kreslení přímky</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Klepněte nebo táhněte
+        <translation type="vanished">Klepněte nebo táhněte
 pro vybrání oblasti k nahrávání</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Stiskněte a podržte klávesu Shift pro kreslení svislé nebo vodorovné šipk
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Nová nahrávka</translation>
+        <translation type="vanished">Nová nahrávka</translation>
     </message>
 </context>
 </TS>

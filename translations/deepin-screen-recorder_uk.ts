@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="uk">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="uk">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ or press the shortcut again to stop recording</source>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Записати</translation>
+        <translation type="vanished">Записати</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Знімок</translation>
+        <translation type="vanished">Знімок</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Не вдалося створити знімок.</translation>
+        <translation type="vanished">Не вдалося створити знімок.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Press and hold Shift to draw a straight line</source>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Натисніть або перетяніть,
+        <translation type="vanished">Натисніть або перетяніть,
 щоб вибрати область для запису</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Новий запис</translation>
+        <translation type="vanished">Новий запис</translation>
     </message>
 </context>
 </TS>

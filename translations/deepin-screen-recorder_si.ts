@@ -4,12 +4,12 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>Ấn biểu tượng khay
-hoặc nhấn phím tắt lại để dừng ghi hình</translation>
+        <translation>ක්‍රේඩ් ප්‍රාථමික අක්ෂරය පෙන්වන්න
+හෝ සිතින් අභ්‍යාසය අවසන් කරන්න</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>Đừng xoay màn hình trong lúc ghi hình</translation>
+        <translation>අභ්‍යාසය දිගටම ඔබගේ පර්ශනිය රෝටේට් කරන්න</translation>
     </message>
 </context>
 <context>
@@ -20,7 +20,7 @@ hoặc nhấn phím tắt lại để dừng ghi hình</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Đang ghi hình</translation>
+        <translation>අභ්‍යාසය</translation>
     </message>
 </context>
 <context>
@@ -38,60 +38,59 @@ hoặc nhấn phím tắt lại để dừng ghi hình</translation>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>Bắt hình màn hình</translation>
+        <translation>පර්ශනිය අභ්‍යාසය</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>Lưu không thành công. Vui lòng lưu vào thư mục nhà của bạn.</translation>
+        <translation>ස්ථානගත කරන සිදු වෙන්නේ නැත. ඔබගේ අභ්‍යාසය ඔබගේ ප්‍රධාන පුළුවන් දිරියේ සකසා ගන්න</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Xem</translation>
+        <translation>පර්ශනිය</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>Bắt hình màn hình hoàn tất</translation>
+        <translation>පර්ශනිය අභ්‍යාසය අවසන් විය</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*. bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
-        <translation>chọn khu vực</translation>
+        <translation>දිරිය අභ්‍යාසය තෝරන්න</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Lưu</translation>
+        <translation>ස්ථානගත කරන</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>Đã lưu vào %1</translation>
+        <translation>ස්ථානගත කරන විය %1 දිරියේ</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Bỏ qua</translation>
+        <translation>අවලංගු කරන්න</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Dán vào clipboard</translation>
+        <translation>ක්ලිප්බොර්ඩ්</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Đang lưu tệp ghi hình màn hình, vui lòng chờ...</translation>
+        <translation>පර්ශනිය අභ්‍යාසය අභ්‍යාසය අභ්‍යාසය අවසන් කරන අතර, ඔබ පෙන්වා ගන්න</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Như hiệu ứng cửa sổ bị vô hiệu hóa trong quá trình này, ghi hình phải
-được dừng lại</translation>
+        <translation>අභ්‍යාසය දිගටම පර්ශනිය අභ්‍යාසය අභ්‍යාසය අභ්‍යාසය අභ්‍යාසය අවසන් කරන අතර, ඔබ පෙන්වා ගන්න</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -99,86 +98,86 @@ hoặc nhấn phím tắt lại để dừng ghi hình</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Bắt hình màn hình thất bại.</translation>
+        <translation>පර්ශනිය අභ්‍යාසය සිදු වෙන්නේ නැත.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>Scrollshot</translation>
+        <translation>ස්ක්‍රොල් අභ්‍යාසය</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Ghim bắt hình</translation>
+        <translation>පර්ශනිය අභ්‍යාසය පෙන්වන්න</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Mở thư mục</translation>
+        <translation>ෆෝල්ඩර් පෙන්වන්න</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Bắt hình màn hình hoàn tất và sao chép vào clipboard</translation>
+        <translation>පර්ශනිය අභ්‍යාසය අවසන් විය සහ ක්ලිප්බොර්ඩ් එක් කරන</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>Hoàn tác</translation>
+        <translation>අත්හැරීම</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Lưu</translation>
+        <translation>ස්ථානගත කරන</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Thoát</translation>
+        <translation>අවසන් කරන</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Ghim bắt hình</translation>
+        <translation>පර්ශනිය අභ්‍යාසය පෙන්වන්න</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Bắt hình</translation>
+        <translation>පර්ශනිය අභ්‍යාසය</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Ghi hình</translation>
+        <translation>අභ්‍යාසය අරභ කරන</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Bắt hình</translation>
+        <translation>පර්ශනිය අභ්‍යාසය</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>ඇඳුම් කරන්න</translation>
+        <translation>ការថតរូប</translation>
     </message>
 </context>
 <context>
     <name>RecordProcess</name>
     <message>
         <source>View</source>
-        <translation>පෙනීම</translation>
+        <translation>មើល</translation>
     </message>
     <message>
         <source>Recording finished</source>
-        <translation>ඇඳුම් අවසන් විය</translation>
+        <translation>ការថតរូបបានបញ្ចប់</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>සුරාම් කරනු ලැබුණේ %1 එකේ</translation>
+        <translation>បានរក្សាទុកនៅ %1</translation>
     </message>
     <message>
         <source>Record</source>
@@ -186,211 +185,211 @@ hoặc nhấn phím tắt lại để dừng ghi hình</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>ෆෝල්ඩරය පෙනීම</translation>
+        <translation>បើកថត</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>%1 වින්දු පෙනීම දක්වා ඇඳුම් ආරම්භ විය</translation>
+        <translation>ការថតរូបអោយបើកនឹងចាប់ផ្តើមនៅ %1 វិនាទី</translation>
     </message>
 </context>
 <context>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>හෙල්ප් ගෙන යන්න</translation>
+        <translation>បានជួយ</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>සම්ප්‍රතිකරණය වීමට අසමර්ථ විය</translation>
+        <translation>បានបញ្ចប់ការថតរូបដោយគ្រប់គ្រង</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>ස්ක්‍රෝල් ඇති අවකාශයේ අවසන් කිරීමට පත්විය</translation>
+        <translation>ទាក់ទាញដោយផ្នែកដែលអាចបញ្ចប់</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>මාළිගා අවම ප්‍රමාණය පත්විය</translation>
+        <translation>បានបញ្ចប់ប្រវែងអាចទទួល</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>ඇඳුම් ඇති අවකාශය වෙනස් කරන්න</translation>
+        <translation>កែប្រែតំបន់ថតរូប</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>මියුස් රෝල් අභියෝගය හෝ ක්ලික් කරන්න ස්ක්‍රෝල් ඇඳුම් ආරම්භ කරන්න</translation>
+        <translation>ស្ទះដៃមូសឬចុចដើម្បីបើកការថតរូបដោយស្ទះ</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>ස්ක්‍රෝල් ස්පිඩ් අඩු කරන්න</translation>
+        <translation>បន្ថយល្បឿនស្ទះ</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>ලඟා නොගත් ඇති අවකාශය, ක්ලික් කරන්න </translation>
+        <translation>តំបន់មិនត្រឹមត្រូវ, ចុចដើម្បី </translation>
     </message>
 </context>
 <context>
     <name>ShapesWidget</name>
     <message>
         <source>Input text here</source>
-        <translation>මෙහි තැන් පිළිවෙලින් තැන් දෙන්න</translation>
+        <translation>បញ្ចូលអត្ថបទនៅទីនេះ</translation>
     </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>ඇඳුම් ආරම්භ/ඇඳුම්</translation>
+        <translation>ចាប់ផ្តើម/ថតរូប</translation>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>නිවේදනය/සුරාම් කරන්න</translation>
+        <translation>ចាកចេញ/រក្សាទុក</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>ප්‍රමාණය වෙනස් කරන්න</translation>
+        <translation>កែប្រែទំហំ</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>සැකසුම්</translation>
+        <translation>ការកំណត់តំបន់</translation>
     </message>
     <message>
         <source>Quick start</source>
-        <translation>සිංහල ආරම්භය</translation>
+        <translation>ចាប់ផ្តើមបន្ទាន់</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>විද්‍යුත් පෙනීම</translation>
+        <translation>ថតរូបប្រអប់</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>අවකාශය අවම ප්‍රමාණය පෙනීම</translation>
+        <translation>ថតរូបដោយផ្ទះ</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>සම්පූර්ණ පෙනීම</translation>
+        <translation>ថតរូបពេញ</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>නිවේදනය</translation>
+        <translation>ចាកចេញ</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>සුරාම් කරන්න</translation>
+        <translation>រក្សាទុក</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>සිත් පෙනීම</translation>
+        <translation>ប្រអប់</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation>අල්ලා පෙනීම</translation>
+        <translation>អង្កត់</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>ලිං පෙනීම</translation>
+        <translation>បន្ទាត់</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>පෙනීම</translation>
+        <translation>ប្រដាប់</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>පිළිවෙලින්</translation>
+        <translation>អត្ថបទ</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>උවුල් කරන්න</translation>
+        <translation>ඇති වන්න</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>අත෻රු කරන්න</translation>
+        <translation>අතිරික්ත කරන්න</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>උඩ වෙනි උස අඩු කරන්න</translation>
+        <translation>අල්ලා අඩු කරන්න</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>උඩ වෙනි උස අඩු කරන්න</translation>
+        <translation>අල්ලා අඩු කරන්න</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>මිනිස් වෙනි පිහිටීම අඩු කරන්න</translation>
+        <translation>අල්ලා අඩු කරන්න</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>මිනිස් වෙනි පිහිටීම අඩු කරන්න</translation>
+        <translation>අල්ලා අඩු කරන්න</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>උඩ වෙනි උස අඟුල් කරන්න</translation>
+        <translation>අල්ලා අඟුරු කරන්න</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>උඩ වෙනි උස අඟුල් කරන්න</translation>
+        <translation>අල්ලා අඟුරු කරන්න</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>මිනිස් වෙනි පිහිටීම අඟුල් කරන්න</translation>
+        <translation>අල්ලා අඟුරු කරන්න</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>මිනිස් වෙනි පිහිටීම අඟුල් කරන්න</translation>
+        <translation>අල්ලා අඟුරු කරන්න</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>උපදේශය</translation>
+        <translation>ඇති වෙනි</translation>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>උපදේශ අඩවි පෙන්වන්න</translation>
+        <translation>ඇති වන්න පෙන්වන්න</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>සෝන්ඩ්</translation>
+        <translation>සෝඳ්</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>කියෝස්ට්‍රො</translation>
+        <translation>කේස්ට්රො</translation>
     </message>
     <message>
         <source>Webcam</source>
-        <translation>වෙබ්කැම්</translation>
+        <translation>වෙබ් කාමේරා</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation>රීතිය ආරම්භ කරන්න</translation>
+        <translation>රිකෝඩ් ආරම්භ කරන්න</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>අවලංගු කරන්න</translation>
+        <translation>අවලංගු අවදානම</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>රීතිය/රීතිය ආරම්භ කරන්න</translation>
+        <translation>රිකෝඩ් ආරම්භ කරන්න</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation>මුස්</translation>
+        <translation>මෝස්</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>අවුල් කරන්න</translation>
+        <translation>අවලංගු</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>ගොඩනඟා තැන් අඩු කරන්න</translation>
+        <translation>ජ්‍යාම් අඩු කරන්න</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>ස්කොල්ෂොට්</translation>
+        <translation>ස්කෝල්ෂොට්</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>ස්කොර්ච් පින් කරන්න</translation>
+        <translation>ස්ක්රිෂ්න්ට් පින් කරන්න</translation>
     </message>
     <message>
         <source>Start OCR</source>
@@ -398,7 +397,7 @@ hoặc nhấn phím tắt lại để dừng ghi hình</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>ස්කොල්ෂොට් ආරම්භ කරන්න</translation>
+        <translation>ස්කෝල්ෂොට් ආරම්භ කරන්න</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -416,7 +415,7 @@ hoặc nhấn phím tắt lại để dừng ghi hình</translation>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>රීතිය</translation>
+        <translation>රිකෝඩ්</translation>
     </message>
 </context>
 <context>
@@ -424,32 +423,32 @@ hoặc nhấn phím tắt lại để dừng ghi hình</translation>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>සිත්‍රාංශු
- Shift පිටියාම වෙනි පිරිමි පිරිමි අඩු කරන්න</translation>
+        <translation>සිත්‍රාන්ග්
+ෂිෆ්ට් පෙන්වා තබා අර්රොවා නියම් කරන්න</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>සිත්‍රාංශු
- Shift පිටියාම වෙනි පිරිමි අඩු කරන්න</translation>
+        <translation>සිත්‍රාන්ග්ල්
+ෂිෆ්ට් පෙන්වා තබා අර්රොවා නියම් කරන්න</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
         <translation>බ්‍රුෂ්
- Shift පිටියාම වෙනි පිරිමි අඩු කරන්න</translation>
+ෂිෆ්ට් පෙන්වා තබා අර්රොවා ප්‍රමාණික රේඛාවක් නියම් කරන්න</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>සිතිරි බලය අල්ලා ගනී (අල්ලා ගැනීමට බිම් අවලංගු කරන්න)</translation>
+        <translation>අඟ්‍රාඩ් බ්‍රුෂ් ස්වර්ගය අභියෝගය කරන්න (ස්ක්‍රොල් කරන්න අභියෝගය කරන්න)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>පින්තුරු ප්‍රමාණය අල්ලා ගනී (අල්ලා ගැනීමට බිම් අවලංගු කරන්න)</translation>
+        <translation>අඟ්‍රාඩ් බ්‍රුෂ් ස්වර්ගය අභියෝගය කරන්න (ස්ක්‍රොල් කරන්න අභියෝගය කරන්න)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>ගොඩනඟා ප්‍රමාණය අල්ලා ගනී (අල්ලා ගැනීමට බිම් අවලංගු කරන්න)</translation>
+        <translation>අඟ්‍රාඩ් තැක්ස් ස්වර්ගය අභියෝගය කරන්න (ස්ක්‍රොල් කරන්න අභියෝගය කරන්න)</translation>
     </message>
 </context>
 <context>
@@ -457,31 +456,31 @@ Press and hold Shift to draw a straight line</source>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>ලක්‍රිය කරන්න හෝ බිම් අවලංගු කරන්න
-ලිපිය අවමත් කරන ලද අවකාශය තෝරන්න</translation>
+        <translation>ක්‍රියා කරන්න හෝ ප්‍රමාණය අභියෝගය කරන්න
+ඇති අංශය අභියෝගය කරන්න</translation>
     </message>
 </context>
 <context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>කුළි අල්ලා ගැනීම (K)</translation>
+        <translation>කියා අභියෝගය කරන්න (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>කුළි අල්ලා ගැනීම අවලංගු කරන්න (K)</translation>
+        <translation>කියා අභියෝගය අත්හැරීම (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>කුළි අල්ලා ගැනීම (K)</translation>
+        <translation>කියා අභියෝගය කරන්න (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>කාමරය අනාවරණය කරන්න (C)</translation>
+        <translation>කාමරය අක්‍රිය කරන්න (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>කාමරය අවලංගු කරන්න (C)</translation>
+        <translation>කාමරය අක්‍රිය කරන්න (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -489,15 +488,15 @@ select the area to record</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>සැකසුම්</translation>
+        <translation>සැකසීම්</translation>
     </message>
     <message>
         <source>Settings (F3)</source>
-        <translation>සැකසුම් (F3)</translation>
+        <translation>සැකසීම් (F3)</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation>ශ්‍රීළිය:</translation>
+        <translation>රෂ්‍රාංශය:</translation>
     </message>
     <message>
         <source>GIF</source>
@@ -505,11 +504,11 @@ select the area to record</source>
     </message>
     <message>
         <source>MP4</source>
-        <translation>ජීපි</translation>
+        <translation>එම්පී4</translation>
     </message>
     <message>
         <source>MKV</source>
-        <translation>ම්ක්ව්</translation>
+        <translation>එම්ක්ව්</translation>
     </message>
     <message>
         <source>webm</source>
@@ -517,115 +516,115 @@ select the area to record</source>
     </message>
     <message>
         <source>FPS:</source>
-        <translation>අභියෝග්:</translation>
+        <translation>එෆ්ප්‍ස්:</translation>
     </message>
     <message>
         <source>5 fps</source>
-        <translation>5 අභියෝග්</translation>
+        <translation>5 එෆ්ප්‍ස්</translation>
     </message>
     <message>
         <source>10 fps</source>
-        <translation>10 අභියෝග්</translation>
+        <translation>10 එෆ්ප්‍ස්</translation>
     </message>
     <message>
         <source>20 fps</source>
-        <translation>20 අභියෝග්</translation>
+        <translation>20 එෆ්ප්‍ස්</translation>
     </message>
     <message>
         <source>24 fps</source>
-        <translation>24 අභියෝග්</translation>
+        <translation>24 එෆ්ප්‍ස්</translation>
     </message>
     <message>
         <source>30 fps</source>
-        <translation>30 අභියෝග්</translation>
+        <translation>30 එෆ්ප්‍ස්</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>සෝඳ්</translation>
+        <translation>සොන්ඩ්</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation>මික්රෝෆෝන්</translation>
+        <translation>මයික්‍රෝෆෝන්</translation>
     </message>
     <message>
         <source>System audio</source>
-        <translation>ස්වයං අභියෝග්</translation>
+        <translation>ස්යෙස්ටීම් ඇයිඩියෝ</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>අවලංගු කරන ලද අවසර</translation>
+        <translation>අවලංගු විකල්ප</translation>
     </message>
     <message>
         <source>Show pointer</source>
-        <translation>ප්‍රමාණය බිම් අවලංගු කරන්න</translation>
+        <translation>පොයින්ටර් අභියෝගය කරන්න</translation>
     </message>
     <message>
         <source>Show click</source>
-        <translation>ක්ලික් බිම් අවලංගු කරන්න</translation>
+        <translation>ක්‍රියා අභියෝගය කරන්</translation>
     </message>
     <message>
         <source>Save to</source>
-        <translation>සැකසුම් වෙනි</translation>
+        <translation>සැකසීම් කරන්න</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>උපරිම ප්‍රමාණය</translation>
+        <translation>ඩෙස්ක්‍ටෝප්</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>ඩී ඩී වීඩියෝ</translation>
+        <translation>ວີດີໂອ</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>සිරිත් (R)
-ෂිෆ්ට් ප්‍රතික්‍රියා කර ඇති විට කෝෂිකා ඇඳීම</translation>
+        <translation>ຮູບສີ່ແຈ (R)
+ກົດ Shift ແລະ ນັ້ນເຊື່ອມເພື່ອດຳເນີນການໃບສີ່ແຈ</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>ඇල්ලිප්‍සි (O)
-ෂිෆ්ට් ප්‍රතික්‍රියා කර ඇති විට කෝළිය ඇඳීම</translation>
+        <translation>ຮູບເລີ່ມ (O)
+ກົດ Shift ແລະ ນັ້ນເຊື່ອມເພື່ອດຳເນີນການໃບເລີ່ມ</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>ලයින් (L)
-ෂිෆ්ට් ප්‍රතික්‍රියා කර ඇති විට වෙනි හෝ සිරිත් අක්ෂිත් ලයින් ඇඳීම</translation>
+        <translation>ເສັ້ນ (L)
+ກົດ Shift ແລະ ນັ້ນເຊື່ອມເພື່ອດຳເນີນການເສັ້ນຕົກຕ່າງຫາກເປັນເສັ້ນລົງລົງຫຼືຂ້າມຂ້າມ</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>ස්වර්ග (X)
-ෂිෆ්ට් ප්‍රතික්‍රියා කර ඇති විට වෙනි හෝ සිරිත් අක්ෂිත් ස්වර්ග ඇඳීම</translation>
+        <translation>ແຜ່ນສະແດງ (X)
+ກົດ Shift ແລະ ນັ້ນເຊື່ອມເພື່ອດຳເນີນການແຜ່ນສະແດງລົງລົງຫຼືຂ້າມຂ້າມ</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>පෙන්සිල් (P)</translation>
+        <translation>ປັດ (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>බුල් (B)</translation>
+        <translation>ເຜີຍເຜີຍ (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
-        <translation>ටෙක්ස්ත් (T)</translation>
+        <translation>ຂໍ້ຄວາມ (T)</translation>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>ස්කෝල්ෂෝට් (Alt+I)</translation>
+        <translation>ການຖ່າຍຮູບແຜ່ນ (Alt+I）</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>ටෙක්ස්ත් අභ්‍යාස (Alt+O)</translation>
+        <translation>ດຳເນີນການເອົາຂໍ້ຄວາມ (Alt+O）</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>ස්ක්රීන්ෂෝට් පින් කරන්න (Alt+P)</translation>
+        <translation>ກົດເອົາຮູບແຜ່ນ (Alt+P）</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>අත්හැරීම (Ctrl+Z)</translation>
+        <translation>ຍົກເອົາ (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
@@ -633,99 +632,99 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>කොපි බොර්ඩ්</translation>
+        <translation>ບັນທຶກຂໍ້ມູນ</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>පික්චර්ස්</translation>
+        <translation>ຮູບພາບ</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>ෆෝල්ඩර්</translation>
+        <translation>ເຊື່ອມເພື່ອດຳເນີນການໄປເຖິງແຜ່ນ</translation>
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>ස්වියෝ අවසන් කිරීමේ විට මෙන්ම මෝඩියෝ අවසන් කිරීමේ විට මෙන්ම මෝඩියෝ අවසන් කිරීම</translation>
+        <translation>ຕັ້ງເສັ້ນທາງໃນການບັນທຶກ</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>ස්වියෝ අවසන් කිරීමේ විට මෙන්ම මෝඩියෝ අවසන් කිරීමේ විට මෙන්ම මෝඩියෝ අවසන් කිරීම</translation>
+        <translation>ປ່ຽນເສັ້ນທາງໃນການບັນທຶກ</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>ජෝර්මාට්</translation>
+        <translation>ຮູບແບບ</translation>
     </message>
     <message>
         <source>PNG</source>
-        <translation>ප්‍රින්ට් ජෙන්</translation>
+        <translation>PNG</translation>
     </message>
     <message>
         <source>JPG</source>
-        <translation>ජෙජිප් ජෙන්</translation>
+        <translation>JPG</translation>
     </message>
     <message>
         <source>BMP</source>
-        <translation>බිම් ජෙන්</translation>
+        <translation>BMP</translation>
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>බෝර්ඩර් අත්හැරීම</translation>
+        <translation>ປະລິມານແຜງ</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>කිසියා නොමැත</translation>
+        <translation>ບໍ່ມີ</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>ෂාඩොව්</translation>
+        <translation>ການສະແດງຄວາມຄົດ</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>බෝර්ඩර්</translation>
+        <translation>ແຜງ</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation>ඩීවයිස්</translation>
+        <translation>ອຸປະກອນ</translation>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>ටෙක්ස්ත් අභ්‍යාස</translation>
+        <translation>ເອົາຂໍ້ຄວາມ</translation>
     </message>
 </context>
 <context>
     <name>ToolBarWidget</name>
     <message>
         <source>Close (Esc)</source>
-        <translation>සිවිල් (Esc)</translation>
+        <translation>ປິດ (Esc)</translation>
     </message>
     <message>
         <source>OK (Enter)</source>
-        <translation>උපරිම (Enter)</translation>
+        <translation>ຢັ້ງຢືນ (Enter)</translation>
     </message>
 </context>
 <context>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>ස්වියෝ අවසන් කිරීමේ පරිදි මෙන්ම %1*%2 තුළින් අවසන් කිරීමේ පරිදි මෙන්ම වීඩියෝ අත්හැරීම සඳහා අභ්‍යාස කරන්න</translation>
+        <translation>ປ່ຽນແປງເຂດການບັນທຶກໃນ %1*%2 ເພື່ອໄດ້ຮັບຜົນການບັນທຶກວີດີໂອທີ່ດີຂຶ້ນ</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>ඩීසි අභියෝග මෙවලම අද අවම අපදේශය නොවේ</translation>
+        <translation>සිර්ස් රැක් නොසැලසෙයි අදට</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>නිවේදනය කරන්න</translation>
+        <translation>අවසන් කරන්න</translation>
     </message>
 </context>
 <context>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>නව අභියෝග</translation>
+        <translation>නව රැක්</translation>
     </message>
 </context>
 </TS>

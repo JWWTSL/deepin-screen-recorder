@@ -4,12 +4,12 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>ტრეი იკონაზე დააწკაპულეთ
-ან გადაამატეთ სიმბოლო კოდი ახლავე დასრულებისთვის</translation>
+        <translation>ტრეის სიმბოლოს კლიკი
+ან კლავიატურის სასურველი მაგალითის სახით ხაზის დასრულება შეგიძლია დაასრულოთ</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>რეკორდირების დროს არ არტყო თქვენი ეკრანი</translation>
+        <translation>რეკორდირების დროს არ გააათავისყოფეთ თქვენი ეკრანი</translation>
     </message>
 </context>
 <context>
@@ -38,15 +38,15 @@ or press the shortcut again to stop recording</source>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>ეკრანის ამოღება</translation>
+        <translation>ეკრანის ჩამოწერა</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>შენახვა შეუძლებელია. გთხოვთ შენახოთ თქვენი საცალო დირექტორიის შესანახად.</translation>
+        <translation>შენახვა ვერ მოხდა. გთხოვთ შენახოთ თქვენი საცავის დირექტორიაში.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>ხიდი</translation>
+        <translation>ხედა</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
@@ -54,19 +54,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
-        <translation>არის არჩევა</translation>
+        <translation>არეას შერჩევა</translation>
     </message>
     <message>
         <source>Save</source>
@@ -74,11 +74,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>შენახულია %1-ში</translation>
+        <translation>შენახულია %1 შენახულის მიერ</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>არ არსა</translation>
+        <translation>გამომავალი</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -90,8 +90,8 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>პროცესის განმავლობაში ფანჯრის ეfect-ი გამორიცხულ არის, რეკორდირება უნდა შეჩერდეს
-ამისთვის</translation>
+        <translation>როგორც პროცესში ფანჯრის ეფექტი გათავისყოფილია, რეკორდირება უნდა
+გაჩერდეს</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -99,7 +99,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>სკრენშოტი შეუძლებელია.</translation>
+        <translation>სკრენშოტი ვერ მოხდა.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -107,26 +107,26 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>არჩეული სკრენშოტების დამაგრება</translation>
+        <translation>სკრენშოტების დაკავება</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>საქაღალდე გახსნა</translation>
+        <translation>საქაღალდეს გახსნა</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>სკრენშოტი დასრულდა და კლიპბორდში დამატდა</translation>
+        <translation>სკრენშოტი შესრულდა და კლიპბორდზე დამატებულია</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>დაუკარგვა</translation>
+        <translation>უკან დაუბრუნება</translation>
     </message>
     <message>
         <source>Save</source>
@@ -141,7 +141,7 @@ or press the shortcut again to stop recording</source>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>სქრეენშოტების ჩაფიქსირება</translation>
+        <translation>სქრეენშოტების ჩამატება</translation>
     </message>
 </context>
 <context>
@@ -159,41 +159,41 @@ or press the shortcut again to stop recording</source>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>სქრეენშოტი</translation>
+        <translation>ჩანაწერის პროცესი</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>ჩანაწერი</translation>
+        <translation>ხედავა</translation>
     </message>
 </context>
 <context>
     <name>RecordProcess</name>
     <message>
         <source>View</source>
-        <translation>ნახვა</translation>
-    </message>
-    <message>
-        <source>Recording finished</source>
         <translation>ჩანაწერი დასრულდა</translation>
     </message>
     <message>
-        <source>Saved to %1</source>
+        <source>Recording finished</source>
         <translation>შენახულია %1-ში</translation>
     </message>
     <message>
+        <source>Saved to %1</source>
+        <translation>საქაღალდეს გახსნა</translation>
+    </message>
+    <message>
         <source>Record</source>
-        <translation>ჩანაწერი</translation>
+        <translation>სქრეენშოტის დაწყება მიმდინარეობს %1 წამში</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>საქაღალდეს გახსნა</translation>
+        <translation>დახმარების მიღება.</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>სკრეენ კაპჩურის დასაწყებად მოხდება %1 წამში</translation>
+        <translation>გამოყენება დაიწყება %1 წამში</translation>
     </message>
 </context>
 <context>
@@ -204,31 +204,31 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>დაარსდა მიმდინარე სქრეენშოტის მიღება</translation>
+        <translation>დამატებითი ეკრანის სურათის გადმოღება შეუძლებელია.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>მიაღწიათ მოძრავი ადგილის საფასულად</translation>
+        <translation>გადახვდით მოძრავი ზონის ქვედა ნაწილში</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>მიაღწიათ მაქსიმალურ სიგრძეს</translation>
+        <translation>მაქსიმალური სიგრძე მიღებულია</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>ჩანაწერის ადგილის გადასატარებლად</translation>
+        <translation>გადასასვლელი ზონის გადასასვლელი სიგრძის შესარჩევად</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>მოძრაო მაუსის ბრაუნის ან დააჭირეთ გადასატარებლად სქრეენშოტის მიღება</translation>
+        <translation>გადაადგილეთ თქვენი მაუსის რკალი ან დააჭირეთ გადასასვლელი სურათის მიღებისთვise</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>მოაჩინეთ მოძრაო სიჩქარე</translation>
+        <translation>შეამცირეთ მოძრავი სიჩქარე</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>არასწორი ადგილი, დააჭირეთ გადასატარებლად</translation>
+        <translation>ულიცხვი ზონა, დააჭირეთ გადასასვლელი სიგრძის შესარჩევად</translation>
     </message>
 </context>
 <context>
@@ -242,15 +242,15 @@ or press the shortcut again to stop recording</source>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>დაწყება/სქრეენშოტი</translation>
+        <translation>დაწყება/სურათის მიღება</translation>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>გამოსვლა/შენახვა</translation>
+        <translation>გასვლა/შენახვა</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>ზომის რეგულირება</translation>
+        <translation>ზომის შესარჩევად</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -262,19 +262,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>ფანჯრის სქრეენშოტი</translation>
+        <translation>ფანჯრის სურათის მიღება</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>დასაყოლებლად სქრეენშოტი</translation>
+        <translation>დახურვის დროს სურათის მიღება</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>სრული სქრეენშოტი</translation>
+        <translation>სრული სურათის მიღება</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>გამოსვლა</translation>
+        <translation>გასვლა</translation>
     </message>
     <message>
         <source>Save</source>
@@ -294,7 +294,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>კამერა</translation>
+        <translation>კარანდაში</translation>
     </message>
     <message>
         <source>Text</source>
@@ -306,39 +306,39 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation>დაბრუნება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>სიმაღლის ზრდა ზედა მხარე</translation>
+        <translation>სიმაღლეს ზედაპირად გაზარდება</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>სიმაღლის ზრｄა ქვემოთ მხარე</translation>
+        <translation>სიმაღლეს ქვედაპირად გაზარდება</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>სიგანის ზრდა მარცხენა მხარე</translation>
+        <translation>სიგანეს მარცხნავ გაზარდება</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>სიგანის ზრდა უკანა მხარე</translation>
+        <translation>სიგანეს მარჯვნავ გაზარდება</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>სიმაღლის შემცირება ზედა მხარე</translation>
+        <translation>სიმაღლეს ზედაპირად შემცირება</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>სიმაღლის შემცირება ქვემოთ მხაরე</translation>
+        <translation>სიმაღლეს ქვედაპირად შემცირება</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>სიგანის შემცირება მარცხენა მხარე</translation>
+        <translation>სიგანეს მარცხნავ შემცირება</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>სიგანის შემცირება უკანა მხარე</translation>
+        <translation>სიგანეს მარჯვნავ შემცირება</translation>
     </message>
     <message>
         <source>Help</source>
@@ -346,7 +346,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>შესატანი საშუალებების ჩვენება</translation>
+        <translation>სასწრაფო გადამოწმების მისამართების ჩვენება</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -354,7 +354,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>კლიკი</translation>
+        <translation>კლავიშის დაჭერა</translation>
     </message>
     <message>
         <source>Webcam</source>
@@ -366,15 +366,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>ოპციები</translation>
+        <translation>ვარიანტები</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>ჩაწერის დაწყება</translation>
+        <translation>ჩაწერა/ჩაწერის დაწყება</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation>მაუსი</translation>
+        <translation>მცირე ფრჩხილი</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -382,7 +382,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>ტექსტის გამომწერა</translation>
+        <translation>ტექსტის გამომაყაUsage</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -390,19 +390,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>სურათების ჩამოყალისება</translation>
+        <translation>სურათების ჩამატება ჟურნალში</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>OCR დაწყება</translation>
+        <translation>OCR სასწრაფო გადამოწმების დაწყება</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>მოძრაობის სურათის დაწყება</translation>
+        <translation>ჩაწერის მოძრაობის დაწყება</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation>მართვა</translation>
+        <translation>მართობის მარკერი</translation>
     </message>
 </context>
 <context>
@@ -425,31 +425,31 @@ or press the shortcut again to stop recording</source>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>მართკუთხედი
-შიფტ ღილაკს დაჭერით და მოათავსეთ კუთხედის გასასვლელად</translation>
+Shift ღილაკს დაეჭირეთ და გამაგრეთ კვადრატის ხაზის გასასწორებლად</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
         <translation>ელიფსი
-შიფტ ღილაკს დაჭერით და მოათავსეთ წრეულის გასასვლელად</translation>
+Shift ღილაკს დაეჭირეთ და გამაგრეთ წრის ხაზის გასასწორებლად</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>ხატი
-შიფტ ღილაკს დაჭერით და მოათავსეთ წრფივი ხატის გასასვლელად</translation>
+        <translation>ფურცელი
+Shift ღილაკს დაეჭირეთ და გამაგრეთ წრფივი სიხში ხაზის გასასწორებლად</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>დამატებითი ბლურის სიმძლავრის გასაკეთებლად (გადაადგილდეთ გასაკეთებლად)</translation>
+        <translation>გასასწორებლად მარტივი სიხში სიმჭიდროვის მახასიათებელი (გადაადგილეთ გასასწორებლად)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>ხატის ზომის გასაკეთებლად (გადაადგილდეთ გასაკეთებლად)</translation>
+        <translation>ფურცელის ზომის გასასწორებლად (გადაადგილეთ გასასწორებლად)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>ტექსტის ზომის გასაკეთებლად (გადაადგილდეთ გასაკეთებლად)</translation>
+        <translation>ტექსტის ზომის გასასწორებლად (გადაადგილეთ გასასწორებლად)</translation>
     </message>
 </context>
 <context>
@@ -457,23 +457,23 @@ Press and hold Shift to draw a straight line</source>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>კლიკის ან დამატებითი მოძრაობის გამოყენებით
-აირჩიეთ ჩაწერისთვის არეა</translation>
+        <translation>კლიკის ან მოძრაობის საშუალებით
+აირჩიეთ ჩაწერის ზონა</translation>
     </message>
 </context>
 <context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>კლიკის ველის ჩვენება (K)</translation>
+        <translation>კლიკის მონაცემების ჩვენება (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>კლიკის ველის დასაკობა (K)</translation>
+        <translation>კლიკის მონაცემების დამალვა (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>კლიკის ველის ჩვენება (K)</translation>
+        <translation>კლიკის მონაცემების ჩვენება (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
@@ -481,7 +481,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>კამერის გამართვა (C)</translation>
+        <translation>კამერის გამორთვა (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -501,15 +501,15 @@ select the area to record</source>
     </message>
     <message>
         <source>GIF</source>
-        <translation>GIF</translation>
+        <translation>გიფი</translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation>MP4</translation>
+        <translation>მპ4</translation>
     </message>
     <message>
         <source>MKV</source>
-        <translation>MKV</translation>
+        <translation>მკვ</translation>
     </message>
     <message>
         <source>webm</source>
@@ -517,27 +517,27 @@ select the area to record</source>
     </message>
     <message>
         <source>FPS:</source>
-        <translation>FPS:</translation>
+        <translation>ფპს:</translation>
     </message>
     <message>
         <source>5 fps</source>
-        <translation>5 fps</translation>
+        <translation>5 ფპს</translation>
     </message>
     <message>
         <source>10 fps</source>
-        <translation>10 fps</translation>
+        <translation>10 ფპს</translation>
     </message>
     <message>
         <source>20 fps</source>
-        <translation>20 fps</translation>
+        <translation>20 ფპს</translation>
     </message>
     <message>
         <source>24 fps</source>
-        <translation>24 fps</translation>
+        <translation>24 ფპს</translation>
     </message>
     <message>
         <source>30 fps</source>
-        <translation>30 fps</translation>
+        <translation>30 ფპს</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -557,15 +557,15 @@ select the area to record</source>
     </message>
     <message>
         <source>Show pointer</source>
-        <translation>ნახე მაჩვენებელი</translation>
+        <translation>ნუკელის ჩვენება</translation>
     </message>
     <message>
         <source>Show click</source>
-        <translation>ნახე კლიკი</translation>
+        <translation>კლიკის ჩვენება</translation>
     </message>
     <message>
         <source>Save to</source>
-        <translation>შენახვა შემდეგთვის</translation>
+        <translation>შენახვა</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -579,33 +579,33 @@ select the area to record</source>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
         <translation>მართკუთხედი (R)
-შეადგინეთ Shift და დაიწყეთ კვადრატის ხაზი</translation>
+Shift-ს დაჭერით შეიძლება შექმნათ კვადრატი</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
         <translation>ელიფსი (O)
-შეადგინეთ Shift და დაიწყეთ წრეულის ხაზი</translation>
+Shift-ს დაჭერით შეიძლება შექმნათ წრე</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
         <translation>ხაზი (L)
-შეადგინეთ Shift და დაიწყეთ ვერტიკალური ან ჰორიზონტალური ხაზი</translation>
+Shift-ს დაჭერით შეიძლება შექმნათ ვერტიკალური ან ჰორიზონტალური ხაზი</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>მაჩვენებელი (X)
-შეადგინეთ Shift და დაიწყეთ ვერტიკალურ ან ჰორიზონტალურ მაჩვენებელს</translation>
+        <translation>მართალი (X)
+Shift-ს დაჭერით შეიძლება შექმნათ ვერტიქავრი ან ჰორიზონტალური მართალი</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>ფრინველი (P)</translation>
+        <translation>ფუნტი (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>გამარფულება (B)</translation>
+        <translation>მოკლება (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -617,15 +617,15 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>ტექსტის გამომუშავება (Alt+O)</translation>
+        <translation>ტექსტის გამომწერა (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>სკრინშოტების ჩამართვა (Alt+P)</translation>
+        <translation>სკრინშოტების ჩამოსაყალი (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>დაბრუნება (Ctrl+Z)</translation>
+        <translation>გაუქმება (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
@@ -637,7 +637,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>ფოტოები</translation>
+        <translation>სურათები</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -645,11 +645,11 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>შენახვის დროს მარშრუტის დაყენება</translation>
+        <translation>შენახვისას განსაზღვრეთ მარშრუტი</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>შენახვის დროს მარშრუტის შეცვლა</translation>
+        <translation>შენახვისას შეცვალეთ მარშრუტი</translation>
     </message>
     <message>
         <source>Format</source>
@@ -669,19 +669,19 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>სასაზღვრო ეფექტები</translation>
+        <translation>საზღვარის ეფექტები</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>ნეიტი</translation>
+        <translation>არაფრის</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>სინჯი</translation>
+        <translation>სინჯის</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>გასწვრივი</translation>
+        <translation>ზომის</translation>
     </message>
     <message>
         <source>Device</source>
@@ -689,32 +689,32 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>ტექსტის გამომწერა</translation>
+        <translation>ტექსტის გამოყოფა</translation>
     </message>
 </context>
 <context>
     <name>ToolBarWidget</name>
     <message>
         <source>Close (Esc)</source>
-        <translation>დახურვა (Esc)</translation>
+        <translation>დაკрыვა (Esc)</translation>
     </message>
     <message>
         <source>OK (Enter)</source>
-        <translation>კარგია (Enter)</translation>
+        <translation>დიდი (Enter)</translation>
     </message>
 </context>
 <context>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>ჩანაწერის არეის გადასახადი %1*%2-ში შეიძლება გამოსადეგი ვიდეო ეფექტის მისაღწევად იყოს უფრო სასურველი</translation>
+        <translation>ჩანაწერის ზომის გადასახადი გააკეთეთ %1*%2-ში უკეთესი ვიდეო ეფექტისთვის</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>სკრენ ჩანაწერი ამჟამად არ არსებობს</translation>
+        <translation>ეკრანის ჩანაწერი ამჟამად არ არის მხარდაჭერილი</translation>
     </message>
     <message>
         <source>Exit</source>

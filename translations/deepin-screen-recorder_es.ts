@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="es">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="es">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ o haga clic en el icono de la bandeja</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Grabación</translation>
+        <translation type="vanished">Grabación</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Captura de pantalla</translation>
+        <translation type="vanished">Captura de pantalla</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ o haga clic en el icono de la bandeja</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Captura de pantalla fallida</translation>
+        <translation type="vanished">Captura de pantalla fallida</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ o haga clic en el icono de la bandeja</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ o haga clic en el icono de la bandeja</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Mantenga presionada la tecla Mayús para dibujar una línea recta</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Haz clic o arrástrala
+        <translation type="vanished">Haz clic o arrástrala
 para seleccionar el área a grabar.</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Mantenga presionada la tecla Mayús para dibujar una flecha vertical u horizonta
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Nueva grabación</translation>
+        <translation type="vanished">Nueva grabación</translation>
     </message>
 </context>
 </TS>

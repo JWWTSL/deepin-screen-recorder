@@ -7,13 +7,13 @@
         <location filename="../src/countdown_tooltip.cpp" line="44"/>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>تَكْرَرْتَ إشارة المُقَدَّم
-أو تَكْرَرْتَ المُقَصِّد لِتَوْقُفِ التَّسْجِيل</translation>
+        <translation>تَشْمِلْ تَشْرِيْكْ تَرْيْ
+أَوْ تَشْمِلْ الْمُصَغَّرْ مُنْذُنْ لِتَوْقُفْ الْمُسَجَّلْ</translation>
     </message>
     <message>
         <location filename="../src/countdown_tooltip.cpp" line="46"/>
         <source>Do not rotate your screen during recording</source>
-        <translation>لا تَتَحَرَّكْ شاشَتَكْ أثناء التَّسْجِيل</translation>
+        <translation>لا تَرْوَتْ شَمْرَكْ دُرُوْنْ الْمُسَجَّلْ</translation>
     </message>
 </context>
 <context>
@@ -21,12 +21,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/iconwidget.cpp" line="56"/>
         <source>Screenshot</source>
-        <translation>صورة شاشة</translation>
+        <translation>صَرْفْتْ شَمْرَكْ</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/iconwidget.cpp" line="62"/>
         <source>Recording</source>
-        <translation>التَّسْجِيل</translation>
+        <translation>مُسَجَّلْ</translation>
     </message>
 </context>
 <context>
@@ -34,12 +34,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/maintoolwidget.cpp" line="73"/>
         <source>Record</source>
-        <translation>تَسْجِيل</translation>
+        <translation>مُسَجَّلْ</translation>
     </message>
     <message>
         <location filename="../src/widgets/maintoolwidget.cpp" line="86"/>
         <source>Screenshot</source>
-        <translation>صورة شاشة</translation>
+        <translation>صَرْفْتْ شَمْرَكْ</translation>
     </message>
 </context>
 <context>
@@ -47,107 +47,107 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/main_window.cpp" line="255"/>
         <source>Screen Capture</source>
-        <translation>التصوير الشاشة</translation>
+        <translation>صَرْفْتْ شَمْرَكْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="786"/>
         <source>Ignore</source>
-        <translation>تجاهل</translation>
+        <translation>تَجْنَبْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="795"/>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>تَحْفِظْ مَدْفُوعَة تَسْجِيل الشاشة، يُرجى الانتظار...</translation>
+        <translation>تَحْفِظْ دُرُوْنْ فَيْلْ مُسَجَّلْ شَمْرَكْ، لَمْ تَكُنْ تَرْتَبْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="822"/>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>بِكَيْفَ أن تَأثير الْوَيْنْدُ هو مُحِيَّد أثناء العملية، لَابُدْ أن تَوْقُفِ التَّسْجِيل</translation>
+        <translation>بِكَيْدْ أَنْ الْمَفْعُوْلْ دُرُوْنْ الْمُسَجَّلْ لَمْ تَكُنْ تَرْتَبْ، لَمْ تَكُنْ تَرْتَبْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="2016"/>
         <source>Screenshot failed.</source>
-        <translation>فشل التَّصْوِير الشاشة.</translation>
+        <translation>صَرْفْتْ شَمْرَكْ لَمْ تَكُنْ تَرْتَبْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3172"/>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>فشل الحفظ. يُرجى الحفظ في دليلك الشخصي.</translation>
+        <translation>تَحْفِظْ لَمْ تَكُنْ تَرْتَبْ. لَمْ تَكُنْ تَرْتَبْ فِي دُرُوْنْ تَرْتَبْ شَمْرَكْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3195"/>
         <source>Clipboard</source>
-        <translation>اللصق</translation>
+        <translation>شَمْرَكْ تَرْتَبْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3196"/>
         <source>View</source>
-        <translation>العرض</translation>
+        <translation>نَظَرْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3197"/>
         <source>Open Folder</source>
-        <translation>فتح المجلد</translation>
+        <translation>تَشْمِلْ دُرُوْنْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3203"/>
         <source>Saved to %1</source>
-        <translation>تم الحفظ في %1</translation>
+        <translation>تَحْفِظْ فِي %1</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3221"/>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>تمت صورة الشاشة وتم نسخها إلى اللصق</translation>
+        <translation>صَرْفْتْ شَمْرَكْ تَرْتَبْ وَ تَشْمِلْ دُرُوْنْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3223"/>
         <source>Screenshot finished</source>
-        <translation>تمت صورة الشاشة</translation>
+        <translation>صَرْفْتْ شَمْرَكْ تَرْتَبْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3253"/>
         <source>Screenshot</source>
-        <translation>صورة شاشة</translation>
+        <translation>صَرْفْتْ شَمْرَكْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3255"/>
         <source>Scrollshot</source>
-        <translation>التصوير بالتمرير</translation>
+        <translation>شُمْرَكْ دَوْرِيْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3313"/>
         <source>Save</source>
-        <translation>الحفظ</translation>
+        <translation>تَحْفِظْ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3314"/>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3319"/>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3324"/>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="4031"/>
         <source>select-area</source>
-        <translation>اختيار المنطقة</translation>
+        <translation>تَشْمِلْ دُرُوْنْ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/mainwindow.cpp" line="627"/>
         <source>Pin Screenshots</source>
-        <translation>تثبيت صور الشاشة</translation>
+        <translation>تَرْتَبْ دُرُوْنْ</translation>
     </message>
     <message>
         <location filename="../src/main.cpp" line="186"/>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -155,17 +155,17 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="72"/>
         <source>Undo</source>
-        <translation>الغاء</translation>
+        <translation>تَرْتَبْ</translation>
     </message>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="79"/>
         <source>Save</source>
-        <translation>الحفظ</translation>
+        <translation>تَحْفِظْ</translation>
     </message>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="86"/>
         <source>Exit</source>
-        <translation>الخروج</translation>
+        <translation>تَرْتَبْ</translation>
     </message>
 </context>
 <context>
@@ -173,7 +173,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/pin_screenshots/main.cpp" line="63"/>
         <source>Pin Screenshots</source>
-        <translation>أضف لقطات الشاشة</translation>
+        <translation>صيغة لصور</translation>
     </message>
 </context>
 <context>
@@ -181,12 +181,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/quickpanelwidget.cpp" line="15"/>
         <source>Screenshot</source>
-        <translation>لقطة شاشة</translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/quickpanelwidget.cpp" line="22"/>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation>تّسجيل</translation>
     </message>
 </context>
 <context>
@@ -194,12 +194,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/recordiconwidget.cpp" line="52"/>
         <source>Screenshot</source>
-        <translation>لقطة شاشة</translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/recordiconwidget.cpp" line="58"/>
         <source>Recording</source>
-        <translation>تسجيل</translation>
+        <translation>تّسجيل</translation>
     </message>
 </context>
 <context>
@@ -207,7 +207,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/record_process.cpp" line="443"/>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation>تّسجيل</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="759"/>
@@ -217,17 +217,17 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/record_process.cpp" line="760"/>
         <source>Open Folder</source>
-        <translation>فتح المجلد</translation>
+        <translation>فتح دورة</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="773"/>
         <source>Recording finished</source>
-        <translation>التسجيل انتهى</translation>
+        <translation>تّسجيل مكتمل</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="774"/>
         <source>Saved to %1</source>
-        <translation>تم حفظها إلى %1</translation>
+        <translation>تم الحفظ في %1</translation>
     </message>
 </context>
 <context>
@@ -235,7 +235,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/screenshot.cpp" line="45"/>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>ستبدأ لقطة الشاشة في %1 ثانية</translation>
+        <translation>تبدأ صورة الشاشة في %1 ثانية</translation>
     </message>
 </context>
 <context>
@@ -243,22 +243,22 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="55"/>
         <source>Get help.</source>
-        <translation>احصل على المساعدة.</translation>
+        <translation>احصل على مساعدة.</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="62"/>
         <source>adjust the capture area</source>
-        <translation>تعديل منطقة التقاط</translation>
+        <translation>ضبط منطقة التقاط</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="224"/>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>اسحب عجلة الماوس أو انقر لأخذ لقطة تمرير</translation>
+        <translation>اسحب عجلة الماوس أو انقر لأخذ صورة تمرير</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="242"/>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>فشل في أخذ لقطة مستمرة.</translation>
+        <translation>فشل في أخذ صورة مستمرة.</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="265"/>
@@ -268,17 +268,17 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="283"/>
         <source>Reached the maximum length</source>
-        <translation>وصلت إلى الطول الأقصى</translation>
+        <translation>وصلت إلى الطول القصوى</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="301"/>
         <source>Slow down the scrolling speed</source>
-        <translation>تباطؤ سرعة التمرير</translation>
+        <translation>تباطؤ من سرعة التمرير</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="317"/>
         <source>Invalid area, click to </source>
-        <translation>منطقة غير صالحة، انقر لـ</translation>
+        <translation>منطقة غير صالحة، انقر لـ </translation>
     </message>
 </context>
 <context>
@@ -286,7 +286,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/shapeswidget.cpp" line="199"/>
         <source>Input text here</source>
-        <translation>أدخل النص هنا</translation>
+        <translation>أدخل نص هنا</translation>
     </message>
 </context>
 <context>
@@ -294,7 +294,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="26"/>
         <source>Start/Screenshot</source>
-        <translation>ابدأ/لقطة شاشة</translation>
+        <translation>البدء/صورة</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="27"/>
@@ -309,7 +309,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="29"/>
         <source>Start/Recording</source>
-        <translation>ابدأ/التسجيل</translation>
+        <translation>البدء/تّسجيل</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="30"/>
@@ -319,7 +319,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="31"/>
         <source>Settings</source>
-        <translation>الإعدادات</translation>
+        <translation>إعدادات</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="33"/>
@@ -329,172 +329,172 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="34"/>
         <source>Window screenshot</source>
-        <translation>لقطة نافذة</translation>
+        <translation>صورة النافذة</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="35"/>
         <source>Delay screenshot</source>
-        <translation>تأخير لقطة</translation>
+        <translation>تأخير الصورة</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="36"/>
         <source>Full screenshot</source>
-        <translation>لقطة كاملة</translation>
+        <translation>صورة كاملة</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="37"/>
         <source>Start scrollshot</source>
-        <translation>T7s3f scrollshot</translation>
+        <translation>تامشل سكروشوت</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="38"/>
         <source>Start OCR</source>
-        <translation>T7s3f OCR</translation>
+        <translation>تامشل OCR</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="40"/>
         <source>Exit</source>
-        <translation>T7s3f</translation>
+        <translation>تامشل</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="40"/>
         <source>Save</source>
-        <translation>T7s3f</translation>
+        <translation>تامشل</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="42"/>
         <source>Scrollshot</source>
-        <translation>Scrollshot</translation>
+        <translation>سكروشوت</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="44"/>
         <source>Pin screenshots</source>
-        <translation>T7s3f screenshots</translation>
+        <translation>تامشل سكروشوت</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="44"/>
         <source>Rectangle</source>
-        <translation>Rectangle</translation>
+        <translation>مربع</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Ellipse</source>
-        <translation>Ellipse</translation>
+        <translation>كرو</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Line</source>
-        <translation>Line</translation>
+        <translation>خط</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Arrow</source>
-        <translation>Arrow</translation>
+        <translation>سهم</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="46"/>
         <source>Pencil</source>
-        <translation>Pencil</translation>
+        <translation>قلم</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="46"/>
         <source>Text</source>
-        <translation>Text</translation>
+        <translation>متن</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="48"/>
         <source>Extract text</source>
-        <translation>T7s3f text</translation>
+        <translation>تامشل متن</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="50"/>
         <source>Delete</source>
-        <translation>T7s3f</translation>
+        <translation>تامشل</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="50"/>
         <source>Undo</source>
-        <translation>T7s3f</translation>
+        <translation>الغاء</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="51"/>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="53"/>
         <source>Start recording</source>
-        <translation>T7s3f recording</translation>
+        <translation>تامشل ريكورينغ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="54"/>
         <source>Sound</source>
-        <translation>Sound</translation>
+        <translation>صوت</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="54"/>
         <source>Keystroke</source>
-        <translation>Keystroke</translation>
+        <translation>كستروك</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="55"/>
         <source>Webcam</source>
-        <translation>Webcam</translation>
+        <translation>ويبكيم</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="55"/>
         <source>Mouse</source>
-        <translation>Mouse</translation>
+        <translation>ماوس</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="58"/>
         <source>Increase height up</source>
-        <translation>T7s3f height up</translation>
+        <translation>تامشل ارتفاع لفوق</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="59"/>
         <source>Increase height down</source>
-        <translation>T7s3f height down</translation>
+        <translation>تامشل ارتفاع لسفون</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="60"/>
         <source>Increase width left</source>
-        <translation>T7s3f width left</translation>
+        <translation>تامشل عرض لليسار</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="61"/>
         <source>Increase width right</source>
-        <translation>T7s3f width right</translation>
+        <translation>تامشل عرض للايمن</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="62"/>
         <source>Decrease height up</source>
-        <translation>T7s3f height up</translation>
+        <translation>تامشل ارتفاع لفوق</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="63"/>
         <source>Decrease height down</source>
-        <translation>T7s3f height down</translation>
+        <translation>تامشل ارتفاع لسفون</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="64"/>
         <source>Decrease width left</source>
-        <translation>T7s3f width left</translation>
+        <translation>تامشل عرض لليسار</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="65"/>
         <source>Decrease width right</source>
-        <translation>T7s3f width right</translation>
+        <translation>تامشل عرض للايمن</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="67"/>
         <source>Help</source>
-        <translation>Help</translation>
+        <translation>مساعده</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="67"/>
         <source>Display shortcuts</source>
-        <translation>تَشْمِيلْ تَكْرَارَات</translation>
+        <translation>عرض الإختصارات</translation>
     </message>
 </context>
 <context>
@@ -502,7 +502,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/shotstartplugin.cpp" line="40"/>
         <source>Screenshot</source>
-        <translation>صَورَةْ شَاشَة</translation>
+        <translation>صورة شاشة</translation>
     </message>
 </context>
 <context>
@@ -510,7 +510,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/shotstartrecordplugin.cpp" line="46"/>
         <source>Record</source>
-        <translation>تَسْجيل</translation>
+        <translation>تسجيل</translation>
     </message>
 </context>
 <context>
@@ -519,37 +519,37 @@ or press the shortcut again to stop recording</source>
         <location filename="../src/widgets/shottoolwidget.cpp" line="118"/>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>مَسْطَلَة
-تَشْمِيلْ وَتَمْسكْ Shift لِتَشْكِيلْ مَسْطَلَةْ مُربَّعَة</translation>
+        <translation>مستطيل
+اضغط واسمح للتحريك لرسم مربع</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="124"/>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>مَسْطَلَةْ مَوْلُودَة
-تَشْمِيلْ وَتَمْسكْ Shift لِتَشْكِيلْ مَسْطَلَةْ مَوْلُودَة</translation>
+        <translation>أَلَيْبِس
+اضغط واسمح للتحريك لرسم دائرة</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="130"/>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>قَلَم
-تَشْمِيلْ وَتَمْسكْ Shift لِتَشْكِيلْ خط مُستَقِيم</translation>
+        <translation>فرشاة
+اضغط واسمح للتحريك لرسم خط مستقيم</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="141"/>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>تَشْرِيفْ قُوَّةْ التَّبْدِيرْ (تَسْلِيلْ لِتَشْرِيفْهَا)</translation>
+        <translation>تعديل قوة التمويه (التمرير لتعديلها)</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="156"/>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>تَشْرِيفْ حَجم القَلَم (تَسْلِيلْ لِتَشْرِيفْه)</translation>
+        <translation>تعديل حجم الفرشاة (التمرير لتعديلها)</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="292"/>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>تَشْرِيفْ حَجم النَّص (تَسْلِيلْ لِتَشْرِيفْه)</translation>
+        <translation>تعديل حجم النص (التمرير لتعديلها)</translation>
     </message>
 </context>
 <context>
@@ -558,8 +558,8 @@ Press and hold Shift to draw a straight line</source>
         <location filename="../src/start_tooltip.cpp" line="30"/>
         <source>Click or drag to
 select the area to record</source>
-        <translation>تَشْمِيلْ أو تَسْحَبْ لِتَخْيِيرْ
-الْمَسْطَلَةْ لِتَسْجيلِهَا</translation>
+        <translation>اضغط أو اسحب ل
+تحديد المنطقة التي تريد تسجيلها</translation>
     </message>
 </context>
 <context>
@@ -567,47 +567,47 @@ select the area to record</source>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="39"/>
         <source>Extract Text</source>
-        <translation>تَخْيِيرْ النَّص</translation>
+        <translation>استخراج النص</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="63"/>
         <source>Options</source>
-        <translation>تَخْيِيرات</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="83"/>
         <source>Folder</source>
-        <translation>مُلفَّة</translation>
+        <translation>مجلد</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="96"/>
         <source>Set a path on save</source>
-        <translation>تَشْمِيلْ مَسْلَكْ لِتَخْيِيرْه</translation>
+        <translation>تحديد مسار عند الحفظ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="109"/>
         <source>Save to</source>
-        <translation>تَخْيِيرْ لِتَخْيِيرْه</translation>
+        <translation>حفظ في</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="111"/>
         <source>Desktop</source>
-        <translation>الْمُسْتَرَة</translation>
+        <translation>سطح المكتب</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="114"/>
         <source>Pictures</source>
-        <translation>الْمَسْطَلَات</translation>
+        <translation>صور</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="120"/>
         <source>Clipboard</source>
-        <translation>الْمَعْلَبَة</translation>
+        <translation>الحافظة</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="134"/>
         <source>Format</source>
-        <translation>الْمَوْلُودَة</translation>
+        <translation>التنسيق</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="135"/>
@@ -627,17 +627,17 @@ select the area to record</source>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="218"/>
         <source>Change the path on save</source>
-        <translation>تَشْمِيلْ مَسْلَكْ لِتَخْيِيرْه</translation>
+        <translation>تغيير المسار عند الحفظ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="205"/>
         <source>Microphone</source>
-        <translation>الْمِكْرَافُون</translation>
+        <translation>الميكروفون</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="188"/>
         <source>Format:</source>
-        <translation>الْمَوْلُودَة:</translation>
+        <translation>التنسيق:</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="189"/>
@@ -662,7 +662,7 @@ select the area to record</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="267"/>
         <source>Videos</source>
-        <translation>الْفِيلِمَات</translation>
+        <translation>الفيديوهات</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="196"/>
@@ -672,42 +672,42 @@ select the area to record</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="72"/>
         <source>Show keystroke (K)</source>
-        <translation>تَمَيِّزْ اسْتِخْدَامَ (K)</translation>
+        <translation>Show keystroke (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="80"/>
         <source>Hide Keystroke (K)</source>
-        <translation>خَفِّضْ اسْتِخْدَامَ (K)</translation>
+        <translation>Hide keystroke (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="83"/>
         <source>Show Keystroke (K)</source>
-        <translation>تَمَيِّزْ اسْتِخْدَامَ (K)</translation>
+        <translation>Show keystroke (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="93"/>
         <source>Turn on camera (C)</source>
-        <translation>أَشْغِلْ كَامِرَة (C)</translation>
+        <translation>Turn on camera (C)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="101"/>
         <source>Turn off camera (C)</source>
-        <translation>أَخْفِضْ كَامِرَة (C)</translation>
+        <translation>Turn off camera (C)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="116"/>
         <source>Screenshot</source>
-        <translation>تَصْوِيرَ شَاشَة</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="147"/>
         <source>Settings</source>
-        <translation>الْخَصَائِص</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="149"/>
         <source>Settings (F3)</source>
-        <translation>الْخَصَائِص (F3)</translation>
+        <translation>Settings (F3)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="197"/>
@@ -737,115 +737,119 @@ select the area to record</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="203"/>
         <source>Sound</source>
-        <translation>صَوْت</translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="206"/>
         <source>System audio</source>
-        <translation>صَوْتُ الْجَمِيع</translation>
+        <translation>System audio</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="211"/>
         <source>Show click</source>
-        <translation>تَمَيِّزْ اسْتِخْدَامَ</translation>
+        <translation>Show click</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="507"/>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>مَسَطَلَة (R)
-أَصْرِضْ وَتَحْفَظْ Shift لِتَكْشِفْ مَسْطَلَة مُقَدَّمَة</translation>
+        <translation>|-
+      Rectangle (R)
+      Press and hold Shift to draw a square</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="514"/>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>مَرْبَعَة (O)
-أَصْرِضْ وَتَحْفَظْ Shift لِتَكْشِفْ دُوَلَة مُقَدَّمَة</translation>
+        <translation>|-
+      Ellipse (O)
+      Press and hold Shift to draw a circle</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="523"/>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>مُقَدَّمَة (L)
-أَصْرِضْ وَتَحْفَظْ Shift لِتَكْشِفْ مُقَدَّمَة رَأْسِيَّة أَوْ أَفْقَرِيَّة</translation>
+        <translation>|-
+      Line (L)
+      Press and hold Shift to draw a vertical or horizontal line</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="533"/>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>سَبَقَة (X)
-أَصْرِضْ وَتَحْفَظْ Shift لِتَكْشِفْ سَبَقَة رَأْسِيَّة أَوْ أَفْقَرِيَّة</translation>
+        <translation>|-
+      Arrow (X)
+      Press and hold Shift to draw a vertical or horizontal arrow</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="543"/>
         <source>Pencil (P)</source>
-        <translation>قَلَم (P)</translation>
+        <translation>Pencil (P)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="553"/>
         <source>Blur (B)</source>
-        <translation>تَبْلُور (B)</translation>
+        <translation>Blur (B)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="564"/>
         <source>Text (T)</source>
-        <translation>نَص (T)</translation>
+        <translation>Text (T)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="577"/>
         <source>Scrollshot (Alt+I）</source>
-        <translation>تَصْوِيرَ مُتَقَدِّمَة (Alt+I)</translation>
+        <translation>Scrollshot (Alt+I)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="593"/>
         <source>Extract text (Alt+O）</source>
-        <translation>تَخْرِيجَ نَص (Alt+O)</translation>
+        <translation>Extract text (Alt+O)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="604"/>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>تَكْرَسْ تَصْوِيرَ مُتَقَدِّمَة (Alt+P)</translation>
+        <translation>Pin screenshots (Alt+P)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="615"/>
         <source>Undo (Ctrl+Z)</source>
-        <translation>رَجْعَة (Ctrl+Z)</translation>
+        <translation>Undo (Ctrl+Z)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="631"/>
         <source>Record</source>
-        <translation>تَسْجِيل</translation>
+        <translation>Record</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="792"/>
         <source>Border Effects</source>
-        <translation>تَأْثِيرَاتُ الحَدَّ</translation>
+        <translation>Border Effects</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="793"/>
         <source>None</source>
-        <translation>لا</translation>
+        <translation>لا شي</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="794"/>
         <source>Shadow</source>
-        <translation>ظلال</translation>
+        <translation>تاري</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="795"/>
         <source>Border</source>
-        <translation>حدود</translation>
+        <translation>تاري</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="796"/>
         <source>Device</source>
-        <translation>جهاز</translation>
+        <translation>تاري</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="210"/>
         <source>Show pointer</source>
-        <translation>عرض المؤشر</translation>
+        <translation>تاري</translation>
     </message>
 </context>
 <context>
@@ -853,12 +857,12 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/toolbar.cpp" line="66"/>
         <source>Close (Esc)</source>
-        <translation>إغلاق (Esc)</translation>
+        <translation>تاري</translation>
     </message>
     <message>
         <location filename="../src/widgets/toolbar.cpp" line="67"/>
         <source>OK (Enter)</source>
-        <translation>حسن (Enter)</translation>
+        <translation>تاري</translation>
     </message>
 </context>
 <context>
@@ -866,7 +870,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/toptips.cpp" line="49"/>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation> إعداد منطقة التسجيل داخل %1*%2 للحصول على تأثير فيديو أفضل</translation>
+        <translation>تاري</translation>
     </message>
 </context>
 <context>
@@ -874,12 +878,12 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/utils.cpp" line="507"/>
         <source>Screen recording is not supported at present</source>
-        <translation>تسجيل الشاشة غير مدعوم في الوقت الحالي</translation>
+        <translation>تاري</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="509"/>
         <source>Exit</source>
-        <translation>خروج</translation>
+        <translation>تاري</translation>
     </message>
 </context>
 <context>
@@ -887,7 +891,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/voice_record_process.cpp" line="85"/>
         <source>New recording</source>
-        <translation>تسجيل جديد</translation>
+        <translation>تاري</translation>
     </message>
 </context>
 </TS>

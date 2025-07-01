@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ms">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ms">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ atau klik pintasan sekali lagi untuk hentikan rakaman</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Rakam</translation>
+        <translation type="vanished">Rakam</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Tangkap Layar</translation>
+        <translation type="vanished">Tangkap Layar</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ atau klik pintasan sekali lagi untuk hentikan rakaman</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Gagal ditangkap layar.</translation>
+        <translation type="vanished">Gagal ditangkap layar.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ atau klik pintasan sekali lagi untuk hentikan rakaman</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -456,7 +458,7 @@ Tekan dan tahan kekunci Shift untuk membentuk satu garisan lurus</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Klik atau seret untuk
+        <translation type="vanished">Klik atau seret untuk
 pilih kawasan rakaman</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Tekan dan tahan kekunci Shift untuk melukis anak panah menegak atau mengufuk</tr
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Rakaman baharu</translation>
+        <translation type="vanished">Rakaman baharu</translation>
     </message>
 </context>
 </TS>

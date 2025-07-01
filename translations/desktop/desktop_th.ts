@@ -4,17 +4,17 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>การจับภาพหน้าจอของ Deepin</translation>
+        <translation>การจับภาพหน้าจอ Deepin</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>ถ่ายภาพหน้าจอภายหลัง</translation>
+        <translation>ถ่ายภาพหน้าจอหลังเลื่อน</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>การถ่ายภาพหน้าจอทั้งส่วน</translation>
+        <translation>การถ่ายภาพหน้าจอแบบเต็ม</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

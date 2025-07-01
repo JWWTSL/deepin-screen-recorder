@@ -54,15 +54,15 @@ atau tekan pemintas lagi untuk berhenti merekam</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
@@ -106,11 +106,11 @@ atau tekan pemintas lagi untuk berhenti merekam</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Pin Screenshot</translation>
+        <translation>Tambatkan Screenshot</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -140,7 +140,7 @@ atau tekan pemintas lagi untuk berhenti merekam</translation>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Pin Screenshot</translation>
+        <translation>Tambatkan Screenshot</translation>
     </message>
 </context>
 <context>
@@ -215,7 +215,7 @@ atau tekan pemintas lagi untuk berhenti merekam</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>sesuaikan area tangkapan</translation>
+        <translation>tambatkan area tangkapan</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
@@ -227,7 +227,7 @@ atau tekan pemintas lagi untuk berhenti merekam</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>&apos;Area tidak valid, klik untuk &apos;</translation>
+        <translation>Area tidak valid, klik untuk </translation>
     </message>
 </context>
 <context>
@@ -353,11 +353,11 @@ atau tekan pemintas lagi untuk berhenti merekam</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>Pintasan Tombol</translation>
+        <translation>Pintasan Keyboard</translation>
     </message>
     <message>
         <source>Webcam</source>
-        <translation>Webcam</translation>
+        <translation>Kamera Web</translation>
     </message>
     <message>
         <source>Start recording</source>
@@ -424,18 +424,18 @@ atau tekan pemintas lagi untuk berhenti merekam</translation>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>Persegi
-Tekan dan tahan Shift untuk menggambar persegi panjang</translation>
+Tekan dan tahan Shift untuk menggambar kotak</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>Elips
+        <translation>Lingkaran
 Tekan dan tahan Shift untuk menggambar lingkaran</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>Kuas
+        <translation>Kotak pensil
 Tekan dan tahan Shift untuk menggambar garis lurus</translation>
     </message>
     <message>
@@ -444,7 +444,7 @@ Tekan dan tahan Shift untuk menggambar garis lurus</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Atur ukuran kuas (Geser untuk menyesuaikan)</translation>
+        <translation>Atur ukuran pensil (Geser untuk menyesuaikan)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
@@ -464,15 +464,15 @@ pilih area untuk rekam</translation>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Tampilkan tombol pintasan (K)</translation>
+        <translation>Tampilkan tekanan tombol (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Sembunyikan tombol pintasan (K)</translation>
+        <translation>Sembunyikan tekanan tombol (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Tampilkan tombol pintasan (K)</translation>
+        <translation>Tampilkan tekanan tombol (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
@@ -560,7 +560,7 @@ pilih area untuk rekam</translation>
     </message>
     <message>
         <source>Show click</source>
-        <translation>Tunjukkan klik</translation>
+        <translation>Tampilkan klik</translation>
     </message>
     <message>
         <source>Save to</source>
@@ -595,8 +595,8 @@ Tekan dan tahan Shift untuk menggambar garis vertikal atau horizontal</translati
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>Panah (X)
-Tekan dan tahan Shift untuk menggambar panah vertikal atau horizontal</translation>
+        <translation>Tanda Panah (X)
+Tekan dan tahan Shift untuk menggambar tanda panah vertikal atau horizontal</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -644,7 +644,7 @@ Tekan dan tahan Shift untuk menggambar panah vertikal atau horizontal</translati
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>Tetapkan jalur saat menyimpan</translation>
+        <translation>Tentukan jalur saat menyimpan</translation>
     </message>
     <message>
         <source>Change the path on save</source>
@@ -713,7 +713,7 @@ Tekan dan tahan Shift untuk menggambar panah vertikal atau horizontal</translati
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>Perekaman layar tidak didukung saat ini</translation>
+        <translation>Pencatatan layar tidak didukung saat ini</translation>
     </message>
     <message>
         <source>Exit</source>

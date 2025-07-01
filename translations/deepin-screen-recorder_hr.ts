@@ -9,7 +9,7 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>Nemožete okrenuti zaslon tijekom snimanja</translation>
+        <translation>Nemoj okretati zaslon tijekom snimanja</translation>
     </message>
 </context>
 <context>
@@ -82,15 +82,15 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Oglasnik</translation>
+        <translation>Oglasi</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Spremanje datoteke snimanja zaslona, molimo pričekajte...</translation>
+        <translation>Spremanje datoteke snimanja zaslona, molim pričekaj...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Kako je učinak prozora onemogućen tijekom procesa, snimanje mora biti zaustavljeno</translation>
+        <translation>Kako je efekt prozora onemogućen tijekom procesa, snimanje mora biti zaustavljeno</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -98,7 +98,7 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Snimanje zaslona nije uspješno.</translation>
+        <translation>Snimanje zaslona neuspješno.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -106,26 +106,26 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Fiksirajte snimke</translation>
+        <translation>Zaključaj snimke</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Otvori mapa</translation>
+        <translation>Otvori mapu</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Snimanje zaslona završeno i kopirano u oglasnik</translation>
+        <translation>Snimanje zaslona gotovo i kopirano u međuspremnik</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>Povuči</translation>
+        <translation>Povratak</translation>
     </message>
     <message>
         <source>Save</source>
@@ -140,7 +140,7 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Fiksirajte snimke</translation>
+        <translation>Zaključaj snimke</translation>
     </message>
 </context>
 <context>
@@ -185,33 +185,33 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Otvori mapa</translation>
+        <translation>Otvori mapu</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>Snimanje zaslona će početi za %1 sekundi</translation>
+        <translation>Snimanje zaslona počinje za %1 sekundi</translation>
     </message>
 </context>
 <context>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>Pronađite pomoć.</translation>
+        <translation>Pronađi pomoć.</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Nije moguće uzeti kontinuirano snimanje zaslona.</translation>
+        <translation>Nije moguće uzeti kontinuiranu snimku zaslona.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Dolazite do dna područja za scroll</translation>
+        <translation>Dostignut je donji rub područja za preklizivanje</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>Dostigli ste maksimalnu duljinu</translation>
+        <translation>Dostignut je maksimalna duljina</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
@@ -219,11 +219,11 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Scrollajte točku miša ili kliknite za uzimanje scroll snimke</translation>
+        <translation>Prelizite točku miša ili kliknite za uzimanje snimke zaslona s preklizivanjem</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>Spustite brzinu scrollanja</translation>
+        <translation>Spustite brzinu preklizivanja</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
@@ -305,7 +305,7 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Povuči</translation>
+        <translation>Povratak</translation>
     </message>
     <message>
         <source>Increase height up</source>
@@ -353,11 +353,11 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>Клање</translation>
+        <translation>Tipka</translation>
     </message>
     <message>
         <source>Webcam</source>
-        <translation>Камера</translation>
+        <translation>Webkamera</translation>
     </message>
     <message>
         <source>Start recording</source>
@@ -393,11 +393,11 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>Počni OCR</translation>
+        <translation>Pokreni OCR</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>Počni scrollshot</translation>
+        <translation>Pokreni scrollshot</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -415,7 +415,7 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Zapis</translation>
+        <translation>Zapisuj</translation>
     </message>
 </context>
 <context>
@@ -424,23 +424,23 @@ ili pritisnite ponovno prečac za prekid snimanja</translation>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>Pravokutnik
-Pritisnite i držite Shift za crtanje kvadrata</translation>
+Zadržite Shift za crtanje kvadrata</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
         <translation>Elipsa
-Pritisnite i držite Shift za crtanje kruga</translation>
+Zadržite Shift za crtanje kruga</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
         <translation>Pena
-Pritisnite i držite Shift za crtanje prave linije</translation>
+Zadržite Shift za crtanje ravne linije</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Prilagodite jačinu zagađenja (Povucite za prilagodbu)</translation>
+        <translation>Prilagodite blagu jačinu (Povucite za prilagodbu)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
@@ -464,15 +464,15 @@ odabir područja snimanja</translation>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Pokaži klasifikaciju (K)</translation>
+        <translation>Pokaži tipku (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Sakrij klasifikaciju (K)</translation>
+        <translation>Sakrij tipku (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Pokaži klasifikaciju (K)</translation>
+        <translation>Pokaži tipku (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
@@ -548,7 +548,7 @@ odabir područja snimanja</translation>
     </message>
     <message>
         <source>System audio</source>
-        <translation>Sistemski zvuk</translation>
+        <translation>Sustavni zvuk</translation>
     </message>
     <message>
         <source>Options</source>
@@ -578,25 +578,25 @@ odabir područja snimanja</translation>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
         <translation>Pravokutnik (R)
-Pritisnite i držite Shift za crtanje kvadrata</translation>
+Zadržite Shift za crtanje kvadrata</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
         <translation>Elipsa (O)
-Pritisnite i držite Shift za crtanje kruga</translation>
+Zadržite Shift za crtanje kruga</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
         <translation>Linija (L)
-Pritisnite i držite Shift za crtanje vertikalne ili horizontalne linije</translation>
+Zadržite Shift za crtanje vertikalne ili horizontalne linije</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>Spuštanje (X)
-Pritisnite i držite Shift za crtanje vertikalne ili horizontalne seme</translation>
+        <translation>Sporica (X)
+Zadržite Shift za crtanje vertikalne ili horizontalne strelice</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -604,7 +604,7 @@ Pritisnite i držite Shift za crtanje vertikalne ili horizontalne seme</translat
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>Pamutnica (B)</translation>
+        <translation>Pamučenje (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -612,15 +612,15 @@ Pritisnite i držite Shift za crtanje vertikalne ili horizontalne seme</translat
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>Scrollshot (Alt+I)</translation>
+        <translation>Pomeraj slike (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>Izvlači tekst (Alt+O)</translation>
+        <translation>Izvuci tekst (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>Zaključaj snimke (Alt+P)</translation>
+        <translation>Zaključaj slike (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -644,11 +644,11 @@ Pritisnite i držite Shift za crtanje vertikalne ili horizontalne seme</translat
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>Postavi put na spremanje</translation>
+        <translation>Postavi putanju pri čuvanju</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>Promijeni put na spremanje</translation>
+        <translation>Promijeni putanju pri čuvanju</translation>
     </message>
     <message>
         <source>Format</source>
@@ -688,7 +688,7 @@ Pritisnite i držite Shift za crtanje vertikalne ili horizontalne seme</translat
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>Izvlači tekst</translation>
+        <translation>Izvuci tekst</translation>
     </message>
 </context>
 <context>
@@ -699,21 +699,21 @@ Pritisnite i držite Shift za crtanje vertikalne ili horizontalne seme</translat
     </message>
     <message>
         <source>OK (Enter)</source>
-        <translation>OK (Enter)</translation>
+        <translation>U redu (Enter)</translation>
     </message>
 </context>
 <context>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation> Prilagodi područje snimanja unutar %1*%2 za bolji vide efekt</translation>
+        <translation>Prilagodi područje snimanja unutar %1*%2 za bolji učinak videa</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>Snimanje zaslona nije trenutno podržano</translation>
+        <translation>Snimanje zaslona nije dostupno trenutno</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -724,7 +724,7 @@ Pritisnite i držite Shift za crtanje vertikalne ili horizontalne seme</translat
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Nova snimanja</translation>
+        <translation>Nova upotreba</translation>
     </message>
 </context>
 </TS>

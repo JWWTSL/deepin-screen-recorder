@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="hu">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="hu">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ vagy nyomja le a gyorsbillentyűt ismét a felvétel megállításához</transla
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Felvétel</translation>
+        <translation type="vanished">Felvétel</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Képernyőkép</translation>
+        <translation type="vanished">Képernyőkép</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ vagy nyomja le a gyorsbillentyűt ismét a felvétel megállításához</transla
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>A képernyőkép készítése sikertelen</translation>
+        <translation type="vanished">A képernyőkép készítése sikertelen</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ vagy nyomja le a gyorsbillentyűt ismét a felvétel megállításához</transla
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -456,7 +458,7 @@ Egyenes vonal rajzolásához tartsa lenyomva a Shift billentyűt</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Terület felvételéhez
+        <translation type="vanished">Terület felvételéhez
 használjuk az egeret</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Függőleges vagy vízszintes nyíl rajzolásához tartsa lenyomva a Shift bille
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Új felvétel</translation>
+        <translation type="vanished">Új felvétel</translation>
     </message>
 </context>
 </TS>

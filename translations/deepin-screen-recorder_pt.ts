@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="pt">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="pt">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ ou pressione novamente o atalho para parar de gravar</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Gravar</translation>
+        <translation type="vanished">Gravar</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Captura de ecrã</translation>
+        <translation type="vanished">Captura de ecrã</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ ou pressione novamente o atalho para parar de gravar</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>A captura de ecrã falhou.</translation>
+        <translation type="vanished">A captura de ecrã falhou.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ ou pressione novamente o atalho para parar de gravar</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ ou pressione novamente o atalho para parar de gravar</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Captura concluída e copiada para a área de transferência</translation>
+        <translation>Captura de tela concluída e copiada para a área de transferência</translation>
     </message>
 </context>
 <context>
@@ -147,22 +149,22 @@ ou pressione novamente o atalho para parar de gravar</translation>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Captura</translation>
+        <translation type="unfinished">Captura de ecrã</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Gravar</translation>
+        <translation type="unfinished">Gravar</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Captura</translation>
+        <translation type="unfinished">Captura de ecrã</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Gravando</translation>
+        <translation type="unfinished">Gravação</translation>
     </message>
 </context>
 <context>
@@ -415,7 +417,7 @@ ou pressione novamente o atalho para parar de gravar</translation>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Gravar</translation>
+        <translation type="unfinished">Gravar</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Pressionar e manter Shift para desenhar uma linha reta</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Clique ou arraste para
+        <translation type="vanished">Clique ou arraste para
 selecionar a área a gravar</translation>
     </message>
 </context>
@@ -644,11 +646,11 @@ Pressionar e manter Shift para desenhar uma seta vertical ou horizontal</transla
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>Definir um caminho para salvar</translation>
+        <translation>Definir um caminho ao salvar</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>Alterar o caminho para salvar</translation>
+        <translation>Alterar o caminho ao salvar</translation>
     </message>
     <message>
         <source>Format</source>
@@ -724,7 +726,7 @@ Pressionar e manter Shift para desenhar uma seta vertical ou horizontal</transla
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Nova gravação</translation>
+        <translation type="vanished">Nova gravação</translation>
     </message>
 </context>
 </TS>

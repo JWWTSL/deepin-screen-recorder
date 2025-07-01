@@ -11,12 +11,12 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay screenshot</source>
-        <translation>ছবি প্রদর্শন বিলম্বিত করুন</translation>
+        <translation>ছবি দেরি করুন</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full screenshot</source>
-        <translation>পূর্ণ ছবি প্রদর্শন</translation>
+        <translation>পূর্ণ ছবি</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

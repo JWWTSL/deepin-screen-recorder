@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="fi">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="fi">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ tai lopeta tallennus painamalla pikakuvaketta uudelleen</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Tallenna</translation>
+        <translation type="vanished">Tallenna</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Kaappaus</translation>
+        <translation type="vanished">Kaappaus</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ tai lopeta tallennus painamalla pikakuvaketta uudelleen</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Kaappaus epäonnistui.</translation>
+        <translation type="vanished">Kaappaus epäonnistui.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ tai lopeta tallennus painamalla pikakuvaketta uudelleen</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ tai lopeta tallennus painamalla pikakuvaketta uudelleen</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Kuvakeskuus on valmis ja kopioitu leikattavaksi</translation>
+        <translation>Kuvan ottaminen valmis ja kopioi leikepöydälle</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Vedä suora viiva pitämällä Shift-painettuna</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Napsauta tai vedä
+        <translation type="vanished">Napsauta tai vedä
 valitse tallennettava alue</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Vedä suora pysty- tai vaakanuoli pitämällä Shift-painettuna</translation>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Uusi äänitys</translation>
+        <translation type="vanished">Uusi äänitys</translation>
     </message>
 </context>
 </TS>

@@ -11,7 +11,7 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay screenshot</source>
-        <translation>काम गर्नु रुकाउ</translation>
+        <translation>झर्न छान छान</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>

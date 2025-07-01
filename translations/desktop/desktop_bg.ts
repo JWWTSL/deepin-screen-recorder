@@ -11,7 +11,7 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay screenshot</source>
-        <translation>Забави снимка</translation>
+        <translation>Прилагане на снимка</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>

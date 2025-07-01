@@ -11,12 +11,12 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay screenshot</source>
-        <translation>Odložený screenshot</translation>
+        <translation>Odložený snímok obrazovky</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full screenshot</source>
-        <translation>Celý screenshot</translation>
+        <translation>Celý snímok obrazovky</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

@@ -9,12 +9,12 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>अपेक्षा कैप्चर</translation>
+        <translation>विलंबित स्क्रीन शॉट</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>पूर्ण कैप्चर</translation>
+        <translation>पूर्ण स्क्रीन शॉट</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

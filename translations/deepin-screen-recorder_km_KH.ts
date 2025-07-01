@@ -4,12 +4,12 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>ចុចលើរូបរាងប្រអប់
-ឬចុចលើប្រអប់បន្ថែមម្តងទៀតដើម្បីបិទការថតរូប</translation>
+        <translation>ចុចលើអ៊ីកូនប្រអបិន
+ឬចុចលើប្រអបិនបន្ទាប់ដើម្បីបិទការថតរូប</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>កុំបញ្ហាការថតរូបរបស់អ្នកក្នុងពេលថតរូប</translation>
+        <translation>កុំបង្វិលអ៊ីស្តានដើម្បីថតរូប</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@ or press the shortcut again to stop recording</source>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>ថតរូប</translation>
+        <translation>ថត</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -38,11 +38,11 @@ or press the shortcut again to stop recording</source>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>ការថតរូបអេក្រង់</translation>
+        <translation>ថតរូបអ៊ីស្តាន</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>ការរក្សារូបមិនបានជោគជ័យ។ សូមរក្សារូបនៅក្នុងថតប្រអប់ផ្ទាល់ខ្លួនរបស់អ្នក។</translation>
+        <translation>ការរក្សាទុកបរាជ័យ។ សូមរក្សាទុកវាដោយប្រើថតប្រអបិនផ្ទះរបស់អ្នក។</translation>
     </message>
     <message>
         <source>View</source>
@@ -50,48 +50,47 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>ការថតរូបបានបញ្ចប់</translation>
+        <translation>ថតរូបបានបញ្ចប់</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
-        <translation>ជ្រើសរើសតំបន់</translation>
+        <translation>ជ្រុលផ្នែក</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>រក្សា</translation>
+        <translation>រក្សាទុក</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>បានរក្សារូបនៅ %1</translation>
+        <translation>បានរក្សាទុកនៅ %1</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>បដិវត្ត</translation>
+        <translation>បំប្លែង</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>តំបន់ត្រូវបានត្រឡប់</translation>
+        <translation>ថតប្រអបិន</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>កំពុងរក្សារូបថតរូបអេក្រង់ សូមរង់ចាំ...</translation>
+        <translation>កំពុងរក្សាទុកឯកសារការថតរូបអ៊ីស្តាន សូមរង់ចាំ...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>ដោយសារតំបន់បង្ហាញប្រអប់ត្រូវបានបិទក្នុងការដំណើរការ ការថតរូបត្រូវបានបិទ
-ដោយសារតំបន់បង្ហាញប្រអប់ត្រូវបានបិទក្នុងការដំណើរការ ការថតរូបត្រូវបានបិទ</translation>
+        <translation>នៅពេលគ្រប់គ្រងប្រអបិនត្រូវបានបិទ ការថតរូបត្រូវបានបិទ</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -99,49 +98,49 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>ការថតរូបបានបាត់បង់។</translation>
+        <translation>ថតរូបបរាជ័យ។</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>ថតរូបដោយកំពុងវាយតម្លៃ</translation>
+        <translation>ថតរូបស្ថានភាព</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>ចុចលើថតរូបដោយចុចលើប្រអប់</translation>
+        <translation>ប្រកាសថតរូប</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>បើកថតប្រអប់</translation>
+        <translation>បើកថតប្រអបិន</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>ការថតរូបបានបញ្ចប់ហើយបានបញ្ជូនទៅតំបន់ត្រូវបានត្រឡប់</translation>
+        <translation>ថតរូបបានបញ្ចប់ និងបញ្ជូនទៅថតប្រអបិន</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>បំលែក</translation>
+        <translation>ត្រលប់ក្រោយ</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>រក្សា</translation>
+        <translation>រក្សាទុក</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>ច្រៀងចេញ</translation>
+        <translation>ចាកចេញ</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>បន្ថែមរូបថតអេក្រង់</translation>
+        <translation>បញ្ចូលរូបថតអេក្រង់</translation>
     </message>
 </context>
 <context>
@@ -170,11 +169,11 @@ or press the shortcut again to stop recording</source>
     <name>RecordProcess</name>
     <message>
         <source>View</source>
-        <translation>មើល</translation>
+        <translation>បង្ហាញ</translation>
     </message>
     <message>
         <source>Recording finished</source>
-        <translation>ការថតវីដេអូបញ្ចប់</translation>
+        <translation>ការថតវីដេអូបានបញ្ចប់</translation>
     </message>
     <message>
         <source>Saved to %1</source>
@@ -186,49 +185,49 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>បើកថត</translation>
+        <translation>បើកបណ្ដាញុក</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>ការថតអេក្រង់នឹងចាប់ផ្តើមនៅ %1 វិនាទី</translation>
+        <translation>ការបញ្ចូលរូបអេក្រង់នឹងចាប់ផ្តើមនៅ %1 វិនាទី</translation>
     </message>
 </context>
 <context>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>ទទួលបានជំនួយ។</translation>
+        <translation>ទទួលបានការជួយ</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>បានប្រឈមនឹងការកំហុសក្នុងការថតរូបអេក្រង់បន្តបន្ទាប់។</translation>
+        <translation>ដំណើរការបញ្ចូលរូបអេក្រង់តំណាងគ្រោងត្រូវបានប្រឈមមុខ</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>បានឈានដល់ចំណុចផ្នែកដៃគូទាប</translation>
+        <translation>បានទៅដល់ចំណុចចុងក្រោយនៃតំបន់ផ្លូវកាត់</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>បានឈានដល់ប្រវែងអតិបរមា</translation>
+        <translation>បានទៅដល់ប្រវែងអាចប្រើបានខ្ពស់បំផុត</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>កែសម្រួលផ្នែកថតរូប</translation>
+        <translation>កែប្រែតំបន់បញ្ចូល</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>ដោះស្រាយមូលះរបស់អ្នកឬចុចដើម្បីថតរូបអេក្រង់ដោយការស្នើសុំ</translation>
+        <translation>ដោយកែប្រែភ្នែកមូសូរីឬចុចដើម្បីបញ្ចូលរូបអេក្រង់ផ្លូវកាត់</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>ថយលំដាប់នៃល្បឿនការស្នើសុំ</translation>
+        <translation>ថយលំដាប់នៃល្បឿនផ្លូវកាត់</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>តំបន់មិនប្រកបដោយសុពលភាព ចុចដើម្បី </translation>
+        <translation>តំបន់មិនត្រឹមត្រូវ, ចុចដើម្បី </translation>
     </message>
 </context>
 <context>
@@ -246,59 +245,59 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>ចាប់ផ្តើម/រក្សាទុក</translation>
+        <translation>ចាកចេញ/ផ្ទុក</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>កែសម្រួលប្រវែង</translation>
+        <translation>កែប្រែទំហំ</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>ការកំណត់</translation>
+        <translation>ការកំណត់ត្រូវ</translation>
     </message>
     <message>
         <source>Quick start</source>
-        <translation>ចាប់ផ្តើមបន្ទាប់</translation>
+        <translation>ចាប់ផ្តើមរហ័ស</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>រូបថតអេក្រង់មុខងារ</translation>
+        <translation>រូបថតប្រអប់</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>បន្ថយរូបថតអេក្រង់</translation>
+        <translation>រូបថតដោយវែងវេលា</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>រូបថតអេក្រង់ពេញ</translation>
+        <translation>រូបថតពេញ</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>ចាប់ផ្តើម</translation>
+        <translation>ចាកចេញ</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>រក្សាទុក</translation>
+        <translation>ផ្ទុក</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>ប្រហែលជា​កោដៃ</translation>
+        <translation>ប្រលាក់កំហាប់</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation>ប្រហែលជា​រាង​អ័ក្ខរាង</translation>
+        <translation>ស្ពាន</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>ប្រហែលជា​បន្ទាត់</translation>
+        <translation>បន្ទាត់</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>ប្រហែលជា​ម៉ាស៊ីន​បិទ​បើក</translation>
+        <translation>កំហុស</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>ប្រហែលជា​អក្សរ</translation>
+        <translation>អត្ថបទ</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -306,47 +305,47 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation>ត្រឡប់​ក្រោយ</translation>
+        <translation>ត្រលប់ក្រោយ</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>កើន​កំពស់​ឡើង</translation>
+        <translation>កើនឡើងទំហំខ្ពស់</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>កើន​កំពស់​ចុះ</translation>
+        <translation>កើនឡើងទំហំទាប</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>កើន​ទទឹង​ឆ្វះ​ឆ្អឹង</translation>
+        <translation>កើនឡើងទំហំឆ្វេង</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>កើន​ទទឹង​ផ្កាយ</translation>
+        <translation>កើនឡើងទំហំស្តាំ</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>ថយ​កំពស់​ឡើង</translation>
+        <translation>កើនចុះទំហំខ្ពស់</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>ថយ​កំពស់​ចុះ</translation>
+        <translation>កើនចុះទំហំទាប</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>ថយ​ទទឹង​ឆ្វះ​ឆ្អឹង</translation>
+        <translation>កើនចុះទំហំឆ្វេង</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>ថយ​ទទឹង​ផ្កាយ</translation>
+        <translation>កើនចុះទំហំស្តាំ</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>ជំនួយ</translation>
+        <translation>ជួយ</translation>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>បង្ហាញ​ការ​ប្រើ​ប្រាស់​ប្រហែល</translation>
+        <translation>បង្ហាញពីរបៀបប្រើប្រាស់ដោយល្បឿនលឿន</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -354,23 +353,23 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>ការ​ចុច​ប៊ីត</translation>
+        <translation>សំលេងអេក្រង់</translation>
     </message>
     <message>
         <source>Webcam</source>
-        <translation>កាមេរ៉ា​បណ្ដាញ</translation>
+        <translation>កាវេម៉ា</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation>ចាប់​ផ្តើម​ថត</translation>
+        <translation>ចាប់ផ្តើមការថត</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>ការ​ជ្រើស​រើស</translation>
+        <translation>ប្រព័ន្ធគ្រប់គ្រង</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>ចាប់​ផ្តើម​ការ​ថត</translation>
+        <translation>ចាប់ផ្តើម / ការថត</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -382,41 +381,41 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>ដក​អក្សរ</translation>
+        <translation>ដកអត្ថបទ</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>សំលេង​ប៊ីត</translation>
+        <translation>ស្ទះសំលេង</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>ប្រើ​កោសិកា​សំលេង​ប៊ីត</translation>
+        <translation>ប្រើប្រាស់សំលេងដោយល្បឿនលឿន</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>ចាប់​ផ្តើម​OCR</translation>
+        <translation>ចាប់ផ្តើម OCR</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>ចាប់​ផ្តើម​សំលេង​ប៊ីត</translation>
+        <translation>ចាប់ផ្តើមស្ទះសំលេង</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation>មុខងារមុំ</translation>
+        <translation>ប្រភេទមុខងារ</translation>
     </message>
 </context>
 <context>
     <name>ShotStartPlugin</name>
     <message>
         <source>Screenshot</source>
-        <translation>កាតស៊ីរ៉េស</translation>
+        <translation>ថតរូប</translation>
     </message>
 </context>
 <context>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>ថតវីដេអូ</translation>
+        <translation>ថតវិដេអូ</translation>
     </message>
 </context>
 <context>
@@ -424,32 +423,35 @@ or press the shortcut again to stop recording</source>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>កាតក្រាម
-drag និងចុច Shift ដើម្បីបង្កើតប្រាប់ត្រីកោះ</translation>
+        <translation>|-
+  រាងប្រហុ่งកំប្បត់
+  ចុចនិងលូត Shift ដើម្បីបង្កើតរាងប្រហុ่ងកំប្បត់</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>កាតអែលលីប៊ែល
-drag និងចុច Shift ដើម្បីបង្កើតប្រាប់ត្រីកោះ</translation>
+        <translation>|-
+  រាងអូវ៉ែល
+  ចាក់និងក្លិប Shift ដើម្បីបង្ហាញរាងប្រាស់</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>ប្រាប់ត្រីកោះ
-drag និងចុច Shift ដើម្បីបង្កើតប្រាប់ត្រីកោះ</translation>
+        <translation>កំណត់ទំហំអក្សរ (ដោយប្រើប្រាស់ Scroll ដើម្បីកំណត់)</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>កំណត់កម្រិតការភ្លឺភ្លើង (Scroll ដើម្បីកំណត់វា)</translation>
+        <translation>|-
+  ចុចឬដោយលូត
+  ជ្រើសរើសតំបន់ដែលត្រូវថត</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>កំណត់ទំហំប្រាប់ត្រីកោះ (Scroll ដើម្បីកំណត់វា)</translation>
+        <translation>បង្ហាញ​ការ​បញ្ចូល​ប៊ូតុង (K)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>កំណត់ទំហំអក្សរ (Scroll ដើម្បីកំណត់វា)</translation>
+        <translation>បិទ​ការ​បញ្ចូល​ប៊ូតុង (K)</translation>
     </message>
 </context>
 <context>
@@ -457,87 +459,86 @@ drag និងចុច Shift ដើម្បីបង្កើតប្រា�
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>ចុចឬដោះដើម្បី
-ជ្រើសរើសតំបន់ដែលត្រូវថត</translation>
+        <translation>បើក​កាមេរ៉ា (C)</translation>
     </message>
 </context>
 <context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>បង្ហាញការចុចប៊ីត (K)</translation>
+        <translation>បិទ​កាមេរ៉ា (C)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>លុបការចុចប៊ីត (K)</translation>
+        <translation>ការ​កំណត់</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>បង្ហាញការចុចប៊ីត (K)</translation>
+        <translation>ការ​កំណត់ (F3)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>បើកកាមេរ៉ា (C)</translation>
+        <translation>រាងប្រភេទ:</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>បិទកាមេរ៉ា (C)</translation>
-    </message>
-    <message>
-        <source>Screenshot</source>
-        <translation>កាតស៊ីរ៉េស</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>ការកំណត់</translation>
-    </message>
-    <message>
-        <source>Settings (F3)</source>
-        <translation>ការកំណត់ (F3)</translation>
-    </message>
-    <message>
-        <source>Format:</source>
-        <translation>បំលែងទៅ:</translation>
-    </message>
-    <message>
-        <source>GIF</source>
         <translation>GIF</translation>
     </message>
     <message>
-        <source>MP4</source>
+        <source>Screenshot</source>
         <translation>MP4</translation>
     </message>
     <message>
-        <source>MKV</source>
+        <source>Settings</source>
         <translation>MKV</translation>
     </message>
     <message>
-        <source>webm</source>
+        <source>Settings (F3)</source>
         <translation>webm</translation>
     </message>
     <message>
-        <source>FPS:</source>
+        <source>Format:</source>
         <translation>FPS:</translation>
     </message>
     <message>
-        <source>5 fps</source>
+        <source>GIF</source>
         <translation>5 fps</translation>
     </message>
     <message>
-        <source>10 fps</source>
+        <source>MP4</source>
         <translation>10 fps</translation>
     </message>
     <message>
-        <source>20 fps</source>
+        <source>MKV</source>
         <translation>20 fps</translation>
     </message>
     <message>
-        <source>24 fps</source>
+        <source>webm</source>
         <translation>24 fps</translation>
     </message>
     <message>
-        <source>30 fps</source>
+        <source>FPS:</source>
         <translation>30 fps</translation>
+    </message>
+    <message>
+        <source>5 fps</source>
+        <translation>សំលេង</translation>
+    </message>
+    <message>
+        <source>10 fps</source>
+        <translation>10 ភាគរយ</translation>
+    </message>
+    <message>
+        <source>20 fps</source>
+        <translation>20 ភាគរយ</translation>
+    </message>
+    <message>
+        <source>24 fps</source>
+        <translation>24 ភាគរយ</translation>
+    </message>
+    <message>
+        <source>30 fps</source>
+        <translation>30 ភាគរយ</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -545,19 +546,19 @@ select the area to record</source>
     </message>
     <message>
         <source>Microphone</source>
-        <translation>បើកមូលដ្ឋានប្រេង</translation>
+        <translation>កាប់សំលេង</translation>
     </message>
     <message>
         <source>System audio</source>
-        <translation>សំឡេងប្រព័ន្ធដែលបានបម្លែង</translation>
+        <translation>សំលេងប្រព័ន្ធផ្ទះ</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>ជម្រើស</translation>
+        <translation>ប្រើប្រាស់</translation>
     </message>
     <message>
         <source>Show pointer</source>
-        <translation>បង្ហាញកំនត់ដៃ</translation>
+        <translation>បង្ហាញប្រអប់</translation>
     </message>
     <message>
         <source>Show click</source>
@@ -569,7 +570,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>តុលើកុំព្យូទ័រ</translation>
+        <translation>តារាងកុំព្យូទ័រ</translation>
     </message>
     <message>
         <source>Videos</source>
@@ -578,34 +579,34 @@ select the area to record</source>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>កំណត់ដៃក្រឡាផ្ទៃត្រីកោណ (R)
-ចុចនិងកំណត់ Shift ដើម្បីបង្កើតក្រឡាផ្ទៃប្រាកដ</translation>
+        <translation>កំណត់ត្រាត្រូវបានបង្ហាញ (R)
+ការបំពាក់ Shift ដើម្បីបង្ហាញក្រឡាចត្រង្គ</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>កំណត់ដៃរាងដែលមានរាងដែលមាន (O)
-ចុចនិងកំណត់ Shift ដើម្បីបង្កើតរាងដែលមាន</translation>
+        <translation>ដំណើរការអោយជាភាគរាង (O)
+ការបំពាក់ Shift ដើម្បីបង្ហាញរាងដែលជាភាគរាង</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>កំណត់ដៃបន្ទាត់ (L)
-ចុចនិងកំណត់ Shift ដើម្បីបង្កើតបន្ទាត់ទាបឬទាប់</translation>
+        <translation>បន្ទាត់ (L)
+ការបំពាក់ Shift ដើម្បីបង្ហាញបន្ទាត់ទាបឬកំពុង</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>កំណត់ដៃមុខងារ (X)
-ចុចនិងកំណត់ Shift ដើម្បីបង្កើតមុខងារទាបឬទាប់</translation>
+        <translation>ក្រដាស (X)
+ការបំពាក់ Shift ដើម្បីបង្ហាញក្រដាសទាបឬកំពុង</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>កំណត់ដៃប្រដាប់ (P)</translation>
+        <translation>កំណត់ត្រាត្រូវបានបង្ហាញ (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>ធ្វើឱ្យប្រយុទ្ធទៅ (B)</translation>
+        <translation>បំបែក (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -613,31 +614,31 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>សំណួចសំណួច (Alt+I)</translation>
+        <translation>ស្ទះសំលេង (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>ក្រេបអក្សរ (Alt+O)</translation>
+        <translation>ប្រមាណអក្សរ (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>បំភ្លឺសំណួចសំណួច (Alt+P)</translation>
+        <translation>ប្រមាណសំលេង (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>បំផ្លាញ (Ctrl+Z)</translation>
+        <translation>កំណត់ត្រាត្រូវបានបង្ហាញ (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>បិទការចុច</translation>
+        <translation>បង្ហាញសំលេង</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>ថតបញ្ចូល</translation>
+        <translation>បញ្ជីសំលេង</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>រូបថត</translation>
+        <translation>រូបភាព</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -653,7 +654,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Format</source>
-        <translation>រាង</translation>
+        <translation>រៀបចំ</translation>
     </message>
     <message>
         <source>PNG</source>
@@ -669,19 +670,19 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>ប្រតិបត្តិការសម្រាប់បំពេញប្រទេស</translation>
+        <translation>បំពាក់ក្រវ៉ាត់</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>មួយ</translation>
+        <translation>ស្មៅ</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>កំណត់ត្រារបស់អ្នក</translation>
+        <translation>សំរាយ</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>បំពាក់</translation>
+        <translation>ប្រទេស</translation>
     </message>
     <message>
         <source>Device</source>
@@ -689,7 +690,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>ដកអក្ខរាវិរុទ្ធនៅក្នុង</translation>
+        <translation>ដកអត្ថបទ</translation>
     </message>
 </context>
 <context>
@@ -700,21 +701,21 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>OK (Enter)</source>
-        <translation>បញ្ចប់ (Enter)</translation>
+        <translation>យោង (Enter)</translation>
     </message>
 </context>
 <context>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>កំណត់ត្រារបស់អ្នកនៅក្នុង %1*%2 ដើម្បីទទួលបានប្រសិទ្ធភាពវីដេអូល្អបំផុត</translation>
+        <translation>កែសម្រួលតំបន់ការបញ្ចូលនៅក្នុង %1*%2 ដើម្បីទទួលបានប្រសិទ្ធភាពវីដេអូល្អបំផុត</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>ការកំណត់ត្រាក្នុងអេក្រង់មិនត្រូវបានគាំទ្រនៅក្នុងបច្ចុប្បន្ន</translation>
+        <translation>ការថតអ៊ីនធឺណែតលើអេក្រង់មិនត្រូវបានគាំទ្រនៅឡើយនេះ</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -725,7 +726,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>កំណត់ត្រាផ្ទះថ្មី</translation>
+        <translation>ការថតថ្មី</translation>
     </message>
 </context>
 </TS>

@@ -4,27 +4,27 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>Депин Șәһеҙләү</translation>
+        <translation>Дипин Șкрин Капчур</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>Тормошлы Șәһеҙләү</translation>
+        <translation>Дэйл Șкринн Капчур</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>Күп Șәһеҙләү</translation>
+        <translation>Фул Șкринн Капчур</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Record screen</source>
-        <translation>Экранны Җыя</translation>
+        <translation>Рекорд Șкрин</translation>
     </message>
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>Экранны Șәһеҙләү</translation>
+        <translation>Șкрин Капчур</translation>
     </message>
 </context>
 </TS>

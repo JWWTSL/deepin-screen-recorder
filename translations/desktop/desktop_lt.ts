@@ -11,12 +11,12 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay screenshot</source>
-        <translation>Vėlų ekraninis nuotrauka</translation>
+        <translation>Vėlavoti ekraninį atspausdintį</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full screenshot</source>
-        <translation>Pilnas ekraninis nuotrauka</translation>
+        <translation>Pilnas ekraninis atspausdintis</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

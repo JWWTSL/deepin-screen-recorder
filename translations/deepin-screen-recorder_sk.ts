@@ -9,64 +9,64 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>Ne otáčajte obrazovnú plochu počas nahrávania</translation>
+        <translation>Ne otáčajte obrazovnú plochu počas záznamu</translation>
     </message>
 </context>
 <context>
     <name>IconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Obrazovný snímok</translation>
+        <translation>Obrazovný režim</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Nahrávanie</translation>
+        <translation>Záznam</translation>
     </message>
 </context>
 <context>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Nahrávať</translation>
+        <translation>Zaznamenať</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Obrazovný snímok</translation>
+        <translation>Záznam obrazovnej plochy</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>Obrazovná snímka</translation>
-    </message>
-    <message>
-        <source>Save failed. Please save it in your home directory.</source>
         <translation>Uloženie zlyhalo. Uložte to do svojho domovského adresára.</translation>
     </message>
     <message>
-        <source>View</source>
+        <source>Save failed. Please save it in your home directory.</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <source>Screenshot finished</source>
-        <translation>Obrazovný snímok dokončený</translation>
+        <source>View</source>
+        <translation>Obrazovný režim ukončený</translation>
     </message>
     <message>
-        <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
+        <source>Screenshot finished</source>
         <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
     </message>
     <message>
-        <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
+        <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
         <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
     </message>
     <message>
-        <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
+        <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
         <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
     </message>
     <message>
+        <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
+        <translation>Vybrať všetko</translation>
+    </message>
+    <message>
         <source>select-area</source>
-        <translation>výber oblasti</translation>
+        <translation>Vybrať oblast</translation>
     </message>
     <message>
         <source>Save</source>
@@ -82,37 +82,37 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Vloženie do schránky</translation>
+        <translation>Vložka</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Ukladanie súboru nahrávania obrazovky, čakajte...</translation>
+        <translation>Ukladanie súboru nahrávky obrazovky, prosím, čakajte...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>&gt;-
- Keď je počas procesu vypnutý efekt okna, nahrávanie musí byť
- zastavené</translation>
+        <translation>&gt;
+  Keď je počas procesu zakázaný efekt okna, nahrávka musí byť
+  ukončená</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Obrazovný snímok</translation>
+        <translation>Obrazovka</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Obrazovný snímok zlyhal.</translation>
+        <translation>Obrazovka sa nepodarilo uložiť.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>Scrollshot</translation>
+        <translation>Pohybujúca sa obrazovka</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Zpevňovať snímky</translation>
+        <translation>Pripnúť obrazovky</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -120,14 +120,14 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Obrazovný snímok dokončený a skopírovaný do schránky</translation>
+        <translation>Obrazovka bola dokončená a skopírovaná do vložky</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>Zrusiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <source>Save</source>
@@ -142,25 +142,25 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Zpevňovať snímky</translation>
+        <translation>Pripnúť obrazovky</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Obrazovka</translation>
+        <translation>Snímok</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Zaznamenávať</translation>
+        <translation>Zaznamenaj</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Obrazovka</translation>
+        <translation>Snímok</translation>
     </message>
     <message>
         <source>Recording</source>
@@ -183,7 +183,7 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Zaznamenávať</translation>
+        <translation>Zaznamenaj</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -194,22 +194,22 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>Obrazovka sa začne zaznamenávať za %1 sekúnd</translation>
+        <translation>Snímok obrazovky sa začne za %1 sekúnd</translation>
     </message>
 </context>
 <context>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>Dostaň pomoc.</translation>
+        <translation>Získať pomoc.</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Nie je možné zaznamenávať kontinuálnu obrazovku.</translation>
+        <translation>Nepodarilo sa získať pokračujúci snímok.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Dosiahol spodokrajný okraj preklôdania</translation>
+        <translation>Dosiahol spodokoniec oblasti pre rolovanie</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
@@ -217,15 +217,15 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>upraviť oblasti zaznamenávania</translation>
+        <translation>prispôsobiť oblasť snímky</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Prekláň koleso myši alebo kliknite na zaznamenanie prekládanej obrazovky</translation>
+        <translation>Pohybujte sa myšou alebo kliknite na získanie snímky s rolováním</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>Zpomalte rýchlosť prekládania</translation>
+        <translation>Zpomalte rýchlosť rolovania</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
@@ -243,7 +243,7 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>Spustiť/Obrazovka</translation>
+        <translation>Spustiť/Snímok</translation>
     </message>
     <message>
         <source>Exit/Save</source>
@@ -251,7 +251,7 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>Upravenie veľkosti</translation>
+        <translation>Prispôsobenie veľkosti</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -263,15 +263,15 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>Obrazovka okna</translation>
+        <translation>Snímok okna</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>Zdržať obrazovku</translation>
+        <translation>Zdržať snímok</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>Celá obrazovka</translation>
+        <translation>Celý snímok</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -295,7 +295,7 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>Pastel</translation>
+        <translation>Pencil</translation>
     </message>
     <message>
         <source>Text</source>
@@ -303,47 +303,47 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Vymazať</translation>
+        <translation>Zmazať</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Zrušiť</translation>
+        <translation>Späť</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>Zvýšiť výšku hore</translation>
+        <translation>Zvýšiť výšku nahor</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>Zvýšiť výšku dole</translation>
+        <translation>Zvýšiť výšku nadol</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>Zvýšiť šírku doľava</translation>
+        <translation>Zvýšiť šírku naľavo</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>Zvýšiť šírku doprava</translation>
+        <translation>Zvýšiť šírku na pravo</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>Znížiť výšku hore</translation>
+        <translation>Znížiť výšku nahor</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>Znížiť výšku dole</translation>
+        <translation>Znížiť výšku nadol</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>Znížiť šírku doľava</translation>
+        <translation>Znížiť šírku naľavo</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>Znížiť šírku doprava</translation>
+        <translation>Znížiť šírku na pravo</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Nápomoc</translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <source>Display shortcuts</source>
@@ -355,7 +355,7 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>Stlačenie klávesy</translation>
+        <translation>Klávesová zkratká</translation>
     </message>
     <message>
         <source>Webcam</source>
@@ -367,11 +367,11 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Možnosti</translation>
+        <translation>Nastavenia</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>Začať/znovu zaznamenávať</translation>
+        <translation>Spustiť/Zaznamenávať</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -391,33 +391,33 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>Zafixovať snímky</translation>
+        <translation>Pripnúť screenshoty</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>Začať OCR</translation>
+        <translation>Spustiť OCR</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>Začať scrollshot</translation>
+        <translation>Spustiť scrollshot</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation>Šípka</translation>
+        <translation>Screenshot</translation>
     </message>
 </context>
 <context>
     <name>ShotStartPlugin</name>
     <message>
         <source>Screenshot</source>
-        <translation>Snímka obrazovky</translation>
+        <translation>Zaznamenávať</translation>
     </message>
 </context>
 <context>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Zaznamenávať</translation>
+        <translation>Zaznamenať</translation>
     </message>
 </context>
 <context>
@@ -425,8 +425,9 @@ alebo stlačte klávesovú skratku pre zastavenie nahrávania</translation>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>Obdĺžnik
-Stlačením a podržaním Shift nakreslite štvorec</translation>
+        <translation>|-
+  Obdĺžnik
+  Stlačte a podržte Shift, aby ste nakreslili štvorec</translation>
     </message>
     <message>
         <source>Ellipse
@@ -436,19 +437,19 @@ Press and hold Shift to draw a circle</source>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>Stlačením a podržením Shift nakreslite kruh</translation>
+        <translation>Kremička</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Pána</translation>
+        <translation>Nastavte intenzitu rozostrenia (pohybujte sa, aby ste ju upravili)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Stlačením a podržením Shift nakreslite priamku</translation>
+        <translation>Nastavte veľkosť kremičky (pohybujte sa, aby ste ju upravili)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Nastavte stupeň neostročenia (posúvajte, aby ste ho upravili)</translation>
+        <translation>Nastavte veľkosť textu (pohybujte sa, aby ste ju upravili)</translation>
     </message>
 </context>
 <context>
@@ -464,103 +465,103 @@ vyberte oblasť pre nahrávanie</translation>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Nastavte veľkosť pánky (posúvajte, aby ste ju upravili)</translation>
+        <translation>Zobrazit kľúčové stlačenie (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Nastavte veľkosť textu (posúvajte, aby ste ju upravili)</translation>
+        <translation>Skryť kľúčové stlačenie (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Zobraziť klávesové zatlačenie (K)</translation>
+        <translation>Zobrazit kľúčové stlačenie (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>Skryť klávesové zatlačenie (K)</translation>
+        <translation>Zapnite kameru (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>Zobraziť klávesové zatlačenie (K)</translation>
+        <translation>Vypnite kameru (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Zapnúť kameru (C)</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Vypnúť kameru (C)</translation>
-    </message>
-    <message>
-        <source>Settings (F3)</source>
         <translation>Snímok obrazovky</translation>
     </message>
     <message>
-        <source>Format:</source>
+        <source>Settings</source>
         <translation>Nastavenia</translation>
     </message>
     <message>
-        <source>GIF</source>
+        <source>Settings (F3)</source>
         <translation>Nastavenia (F3)</translation>
     </message>
     <message>
-        <source>MP4</source>
+        <source>Format:</source>
         <translation>Formát:</translation>
     </message>
     <message>
-        <source>MKV</source>
+        <source>GIF</source>
         <translation>GIF</translation>
     </message>
     <message>
-        <source>webm</source>
+        <source>MP4</source>
         <translation>MP4</translation>
     </message>
     <message>
-        <source>FPS:</source>
+        <source>MKV</source>
         <translation>MKV</translation>
     </message>
     <message>
-        <source>5 fps</source>
+        <source>webm</source>
         <translation>webm</translation>
     </message>
     <message>
-        <source>10 fps</source>
+        <source>FPS:</source>
         <translation>FPS:</translation>
     </message>
     <message>
-        <source>20 fps</source>
+        <source>5 fps</source>
         <translation>5 fps</translation>
     </message>
     <message>
-        <source>24 fps</source>
+        <source>10 fps</source>
         <translation>10 fps</translation>
     </message>
     <message>
-        <source>30 fps</source>
+        <source>20 fps</source>
         <translation>20 fps</translation>
     </message>
     <message>
-        <source>Sound</source>
+        <source>24 fps</source>
         <translation>24 fps</translation>
     </message>
     <message>
-        <source>Microphone</source>
+        <source>30 fps</source>
         <translation>30 fps</translation>
     </message>
     <message>
-        <source>System audio</source>
+        <source>Sound</source>
         <translation>Zvuk</translation>
     </message>
     <message>
-        <source>Options</source>
-        <translation>Mikrofon</translation>
+        <source>Microphone</source>
+        <translation>Mikrofón</translation>
     </message>
     <message>
-        <source>Show pointer</source>
+        <source>System audio</source>
         <translation>Systémový zvuk</translation>
     </message>
     <message>
-        <source>Show click</source>
+        <source>Options</source>
         <translation>Možnosti</translation>
+    </message>
+    <message>
+        <source>Show pointer</source>
+        <translation>Zobrazit ukazovateľ</translation>
+    </message>
+    <message>
+        <source>Show click</source>
+        <translation>Zobrazit kliknutie</translation>
     </message>
     <message>
         <source>Save to</source>
@@ -577,34 +578,38 @@ vyberte oblasť pre nahrávanie</translation>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>Obdĺžnik (R)
-Stlačte a podržte Shift na nakreslenie štvorca</translation>
+        <translation>|-
+      Obdĺžnik (R)
+      Stlačte a podržte Shift na nakreslenie štvorca</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>Elipsa (O)
-Stlačte a podržte Shift na nakreslenie kruhu</translation>
+        <translation>|-
+      Elipsa (O)
+      Stlačte a podržte Shift na nakreslenie kruhu</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>Čiara (L)
-Stlačte a podržte Shift na nakreslenie vertikálnej alebo horizontálnej čiary</translation>
+        <translation>|-
+      Čiara (L)
+      Stlačte a podržte Shift na nakreslenie zvislej alebo vodorovnej čiary</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>Sípka (X)
-Stlačte a podržte Shift na nakreslenie vertikálnej alebo horizontálnej sípky</translation>
+        <translation>|-
+      Pohyb (X)
+      Stlačte a podržte Shift na nakreslenie zvislej alebo vodorovnej šípky</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>Papierový nožička (P)</translation>
+        <translation>Papier (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>Náhly (B)</translation>
+        <translation>Ostrý (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -612,11 +617,11 @@ Stlačte a podržte Shift na nakreslenie vertikálnej alebo horizontálnej sípk
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>Pozemok (Alt+I)</translation>
+        <translation>Pohybni sa (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>Vytiahnite text (Alt+O)</translation>
+        <translation>Vytiahnuť text (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
@@ -632,7 +637,7 @@ Stlačte a podržte Shift na nakreslenie vertikálnej alebo horizontálnej sípk
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Schránka</translation>
+        <translation>Vloženie</translation>
     </message>
     <message>
         <source>Pictures</source>
@@ -640,15 +645,15 @@ Stlačte a podržte Shift na nakreslenie vertikálnej alebo horizontálnej sípk
     </message>
     <message>
         <source>Folder</source>
-        <translation>Priečinok</translation>
+        <translation>Složka</translation>
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>Nastaviť cestu pri ukladaní</translation>
+        <translation>Nastaviť cestu pri uložení</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>Zmeniť cestu pri ukladaní</translation>
+        <translation>Zmeniť cestu pri uložení</translation>
     </message>
     <message>
         <source>Format</source>
@@ -668,7 +673,7 @@ Stlačte a podržte Shift na nakreslenie vertikálnej alebo horizontálnej sípk
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>Efekt okraja</translation>
+        <translation>Efekty okraja</translation>
     </message>
     <message>
         <source>None</source>
@@ -688,7 +693,7 @@ Stlačte a podržte Shift na nakreslenie vertikálnej alebo horizontálnej sípk
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>Vytiahnite text</translation>
+        <translation>Vytiahnuť text</translation>
     </message>
 </context>
 <context>
@@ -706,14 +711,14 @@ Stlačte a podržte Shift na nakreslenie vertikálnej alebo horizontálnej sípk
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>Zmeniť oblasti záznamu vo %1*%2 pre lepšie videopozorovanie</translation>
+        <translation>Přizpôsobte záznamovú oblasť v %1*%2 pre lepšie videoprihlásenie</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>Záznam obrazovky nie je v súčasnosti podporovaný</translation>
+        <translation>Záznam obrazovky nie je teraz podporovaný</translation>
     </message>
     <message>
         <source>Exit</source>

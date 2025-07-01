@@ -4,23 +4,22 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>ክლິກ ກະຈາຍ ອິຄອນ
-ຫຼື ພິມ ການສັ່ງສະເໜີອີກເທື່ອ ເພື່ອຢູ່ເທື່ອ ການບັນທຶກ</translation>
+        <translation>ትრੇይ ክርስትን ይጠቅማል\nይንቀሳል ወይ የትር የትር ደረጃ ይቆይ ይገባል</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>ບໍ່ຢູ່ເທື່ອ ການເຄື່ອນຍ້າຍ ກະຈາຍ ອິຄອນ ໃນຂະນະທີ່ບັນທຶກ</translation>
+        <translation>መዝገበ የሚፈለገ የስክሪეን በመዝገብ ይቆይ ይገባል</translation>
     </message>
 </context>
 <context>
     <name>IconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>ການບັນທຶກຮູບ</translation>
+        <translation>ስክሪეንሽոթ</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>ການບັນທຶກ</translation>
+        <translation>መዝገብ</translation>
     </message>
 </context>
 <context>
@@ -31,18 +30,18 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>ການບັນທຶກຮູບ</translation>
+        <translation>ስክሪეን መዝገብ</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>ການບັນທຶກຈໍານວນ</translation>
+        <translation>ማስቀመጥ ባትክክለኛ የለበት። የምርቶ ምስክ የሚገባ የትር ደረጃ ይቆይ ይገባል</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>ບັນທຶກບໍ່ສຳເລັດ. ພວກເຈົ້າສາມາດບັນທຶກມັນໃນເຊື່ອມຕໍ່ເຮືອນຂອງທ່ານ.</translation>
+        <translation>መዝግብ አልተሳካም። ይህን ማህደት ውስጥ ማስቀመጥ ይችላል።</translation>
     </message>
     <message>
         <source>View</source>
@@ -86,40 +85,39 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>ກຳລັງບັນທຶກໄຟລ໌ການບັນທຶກຈໍານວນ, ພວກເຈົ້າກະລຸນາລໍຖ້າ...</translation>
+        <translation>በአካላዊ የመዝገብ ደረጃ የሚገባ የትር ደረጃ ይቆይ ይገባል፣ የመዝገብ ይቆይ ይገባል</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>ເນື່ອງຈາກການປະກອບຂະບວນການຖືກປິດໃນຂະນະທີ່ກຳລັງເຮັດ, ການບັນທຶກຈໍານວນຕ້ອງ
-ຖືກຢູ່ເທື່ອ</translation>
+        <translation>ስክሪეንሽոթ ባትክክለኛ የለበት</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>ການບັນທຶກຮູບ</translation>
+        <translation>ስክሪეንሽוט</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>ການບັນທຶກຮູບບໍ່ສຳເລັດ.</translation>
+        <translation>ስክሪეንሽוט አልተሳካም።</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>ການບັນທຶກສະແດງ</translation>
+        <translation>ስኮርልሽቶት</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>ບັນທຶກຮູບເຊື່ອມຕໍ່</translation>
+        <translation>ስክሪეንሽቶት ይዝረክቡ</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>ເປີດເຊື່ອມຕໍ່</translation>
+        <translation>ማህደት ይክፈቱ</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>ການບັນທຶກຮູບສຳເລັດແລ້ວ ແລະ ສຳເນີມໄປຫຼັງຄອບ</translation>
+        <translation>ስክሪეንሽቶት በተጠቃ እና ማስቀመጥ ማስገቢያ ላይ እንዲወክሉ</translation>
     </message>
 </context>
 <context>
@@ -141,29 +139,29 @@ or press the shortcut again to stop recording</source>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>ບັນທຶກຮູບເຊື່ອີງ</translation>
+        <translation>ስክሪეንሽቶት ይዝረክቡ</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>ການບັນທຶກຮູບ</translation>
+        <translation>ስክሪეንሽቶት</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>ບັນທຶກ</translation>
+        <translation>መዝግብ</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>ການບັນທຶກຮູບ</translation>
+        <translation>ስክሪეንሽቶት</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>ການບັນທຶກ</translation>
+        <translation>መዝግብ ውስጥ</translation>
     </message>
 </context>
 <context>
@@ -186,49 +184,49 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>ເປີດເຊື່ອມຕໍ່</translation>
+        <translation>ማህደት ይክፈቱ</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>ການບັນທຶກຈໍານວນຈະເລີ່ມຕົ້ນໃນ %1 ນັ້ນ</translation>
+        <translation>ስክሪეን መዝግብ %1 ደቂቹ ውስጥ ይ 시작 ይችላል</translation>
     </message>
 </context>
 <context>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>ໄດ້ຮັບການຊ່ວຍເຫັນ.</translation>
+        <translation>እርዳታ ይግኛ</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>ບໍ່ສາມາດເອົາການບັນທຶກສະແດງຕ່ໍາໄດ້.</translation>
+        <translation>ድርሻ ምርጫ ምርጫ ምርጫ ይህ በተጠቃ ይፈቀድ ይችላል።</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>ເຖິງລຸ່ມຂອງເຂດການເຄື່ອນຍ້າຍ</translation>
+        <translation>ስኮርል ምስል ውጤት ውስጥ ነው</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>ເຖິງຂະບົນການສຳເລັດສູງສຸດ</translation>
+        <translation>መግቢያ ውስጥ የሚገኝ ምስል በመጠቀም ነው</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>ປ້ອງກຳນົດເຂດການບັນທຶກ</translation>
+        <translation>መዝግብ ምስል በመጠቀም ይህ ይቀይር</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>ເຄື່ອນຍ້າຍກຳມັນ ຫຼື ຖືກຄລິກເພື່ອເອົາການບັນທຶກສະແໜ່ງ</translation>
+        <translation>መዝግብ ምስሉን ይፈቀድ ወይም ማስቀመጥ ይፈጸሙ</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>ກຳລັງເຄື່ອນຍ້າຍໄລ່ໄວ</translation>
+        <translation>አስፋሽ የማሽን የመፈና Ethiopia የአስፈሽ መጋዝ የሚመዝግቡ አስፈሽ የመፈና መጋዝ የሚቀንሷል</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation type="unfinished"></translation>
+        <translation>የክሊክ አካል በሌላ አካል ላይ የሚገኝ አካል ነው, የክሊክ አካል ላይ የሚገኝ አካል ነው</translation>
     </message>
 </context>
 <context>
@@ -242,7 +240,7 @@ or press the shortcut again to stop recording</source>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>መ시่ያ/ስክሪეንშոթ</translation>
     </message>
     <message>
         <source>Exit/Save</source>
@@ -262,15 +260,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>ውինድու սկրիենշոթ</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>ድելեյ սկրիենშոթ</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>ሙሉ սկրիենშոթ</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -310,35 +308,35 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation type="unfinished"></translation>
+        <translation>ከፍተኛ ይጨምር</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation type="unfinished"></translation>
+        <translation>ከፍተኛ ይጨምር</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation type="unfinished"></translation>
+        <translation>ከፍተኛ ይጨምር</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation type="unfinished"></translation>
+        <translation>ከፍተኛ ይጨምር</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation type="unfinished"></translation>
+        <translation>ከፍተኛ ይลด</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation type="unfinished"></translation>
+        <translation>ከፍተኛ ይลด</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation type="unfinished"></translation>
+        <translation>ከፍተኛ ይลด</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation type="unfinished"></translation>
+        <translation>ከፍተኛ ይลด</translation>
     </message>
     <message>
         <source>Help</source>
@@ -346,19 +344,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>የክიბር የመሳሰሉት ይዘን</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>ድም</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation type="unfinished"></translation>
+        <translation>ክიብር</translation>
     </message>
     <message>
         <source>Webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>વეਬክမ</translation>
     </message>
     <message>
         <source>Start recording</source>
@@ -370,35 +368,35 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>መ 시작/መዝაግ</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>ሞተ</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>የ አማራጮች</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>ጽሁፍ ስርዝ</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation type="unfinished"></translation>
+        <translation>መ ስርዝ</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>ስር ስርዝ ያድርጋል</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR ስርዝ</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation type="unfinished"></translation>
+        <translation>መ ስርዝ ስርዝ</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -409,14 +407,14 @@ or press the shortcut again to stop recording</source>
     <name>ShotStartPlugin</name>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>ስር ስርዝ</translation>
     </message>
 </context>
 <context>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>መዝაግ</translation>
     </message>
 </context>
 <context>
@@ -424,29 +422,35 @@ or press the shortcut again to stop recording</source>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation type="unfinished"></translation>
+        <translation>|-
+  ቤተ ቤተ
+  Shift ይግጋል እና የ ቤተ ቤተ ስርዝ ይድርጋል</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation type="unfinished"></translation>
+        <translation>|-
+  ቤተ ምልክት
+  Shift ይግጋል እና የ ቤተ ምልክት ስርዝ ይድርጋል</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation type="unfinished"></translation>
+        <translation>|-
+  የ ስርዝ ምልክት
+  Shift ይግጋል እና የ ስርዝ ምልክት ስርዝ ይድርጋል</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>መደበር ምስል እንደገና እንደገና ማስተካከል (መልክ እንደገና ማስተካከል)</translation>
+        <translation>በ ማነሳ የ ስርዝ ስርዝ (መ ስርዝ ይድርጋል)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>መስል ምስል እንደገና ማስተካከል (መልክ እንደገና ማስተካከል)</translation>
+        <translation>የ ስርዝ ምልክት መጋጠሚያ ስርዝ (መ ስርዝ ይድርጋል)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>መስል ምስል እንደገና ማስተካከል (መልክ እንደገና ማስተካከል)</translation>
+        <translation>ጽሁፍ መጋጠሚያ ስርዝ (መ ስርዝ ይድርጋል)</translation>
     </message>
 </context>
 <context>
@@ -462,27 +466,27 @@ select the area to record</source>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>ክ ምስል እንደገና ማስተካከል</translation>
+        <translation>ክიብር ይታይ (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>ክ ምስል እንደገና ማስተካከል</translation>
+        <translation>ክიብር ይደገ (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>ክ ምስል እንደገና ማስተካከል</translation>
+        <translation>ክიብር ይታይ (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>ካሜራ ማስተካከል (C)</translation>
+        <translation>ክምራ ይፍ ስርዝ (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>ካሜራ ማስተካከል (C)</translation>
+        <translation>ክምራ ይሰርዝ (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>ስክሪენሂፕ</translation>
+        <translation>ስር ስርዝ</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -490,7 +494,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Settings (F3)</source>
-        <translation>ቅንSettings (F3)</translation>
+        <translation>የ አማራጮች ስርዝ (F3)</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -510,7 +514,7 @@ select the area to record</source>
     </message>
     <message>
         <source>webm</source>
-        <translation>webm</translation>
+        <translation>ዚ ስርዝ</translation>
     </message>
     <message>
         <source>FPS:</source>
@@ -538,7 +542,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Sound</source>
-        <translation>ሙዕድ</translation>
+        <translation>ድም</translation>
     </message>
     <message>
         <source>Microphone</source>
@@ -546,7 +550,7 @@ select the area to record</source>
     </message>
     <message>
         <source>System audio</source>
-        <translation>ሲสเตም ምዕድ</translation>
+        <translation>የ ምስክ የ ስርዝ</translation>
     </message>
     <message>
         <source>Options</source>
@@ -558,7 +562,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Show click</source>
-        <translation>ክሊክ ማስተካከል</translation>
+        <translation>ሁለት የመፈና የሚያሳዩ የሚታይ</translation>
     </message>
     <message>
         <source>Save to</source>
@@ -570,59 +574,63 @@ select the area to record</source>
     </message>
     <message>
         <source>Videos</source>
-        <translation>ቸርቸር</translation>
+        <translation>ቸይ ምድያ</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>መሰል (R)
-Shift ለመግዛት እንደገና ማስተካከል ይህን እንደ ስแք ማስተካከል</translation>
+        <translation>|-
+  ዓለም (R)
+  Shift ይጠวง የዚያ ዓለም ይመረጣል</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>አሌፕስ (O)
-Shift ለመግዛት እንደገና ማስተካከል ይህን እንደ ኬርክል ማስተካከል</translation>
+        <translation>|-
+  ምስል (O)
+  Shift ይጠวง የዚያ ምስል ይመረጣል</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>ሊን (L)
-Shift ለመግዛት እንደገና ማስተካከል ይህን እንደ በርቲካል ወይም በሸንጊያል ምስል ማስተካከል</translation>
+        <translation>|-
+  ዓይነት (L)
+  Shift ይጠวง የዚያ ዓይነት ይመረጣል</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>አራው (X)
-Shift ለመግዛት እንደገና ማስተካከል ይህን እንደ በርቲካል ወይም በሸንጊያል አራው ማስተካከል</translation>
+        <translation>|-
+  ቤተ (X)
+  Shift ይጠวง የዚያ ቤተ ይመረጣል</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>ፕENCIL (P)</translation>
+        <translation>ክ(props) (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>መደበር (B)</translation>
+        <translation>ማይክ (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
-        <translation>ትእ (T)</translation>
+        <translation>ጽ ምድያ (T)</translation>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>ስክሪሽቶ (Alt+I)</translation>
+        <translation>ስኮር ምድያ (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>ትእ ለመጠቀም (Alt+O)</translation>
+        <translation>ጽ ምድያ እናገኛ (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>ስክሪሽቶ ለመያዝ (Alt+P)</translation>
+        <translation>ስኮር ምድያ ይጨምር (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>መሰረዝ (Ctrl+Z)</translation>
+        <translation>መገደል (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
@@ -642,11 +650,11 @@ Shift ለመግዛት እንደገና ማስተካከል ይህን እንደ በ
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>ማስቀመጥ በመቀመጥ ለመስቀመጥ</translation>
+        <translation>መዝግść ምድያ ይጨምር</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>መስቀመጥ በመቀመጥ ለመስቀመጥ</translation>
+        <translation>መዝግść ምድያ ይቀይር</translation>
     </message>
     <message>
         <source>Format</source>
@@ -666,52 +674,52 @@ Shift ለመግዛት እንደገና ማስተካከል ይህን እንደ በ
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>ቦርደር አስተዳደር</translation>
+        <translation>መዝግść ዓይነቶች</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>ይም</translation>
+        <translation>ምንም</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>ფარდობითი საფარი</translation>
+        <translation>ትላቁ</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>საზღვარი</translation>
+        <translation>መዝግść</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation>აპარატი</translation>
+        <translation>ማሽን</translation>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>ტექსტის გამომწერა</translation>
+        <translation>ጽ ምድያ እናገኛ</translation>
     </message>
 </context>
 <context>
     <name>ToolBarWidget</name>
     <message>
         <source>Close (Esc)</source>
-        <translation>დახურვა (Esc)</translation>
+        <translation>ዝግጽ (Esc)</translation>
     </message>
     <message>
         <source>OK (Enter)</source>
-        <translation>დამტკიცება (Enter)</translation>
+        <translation>ይክ (Enter)</translation>
     </message>
 </context>
 <context>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>გამოყოფილი მონიშვნის არეა მიემაგრე %1*%2 შესაბამისად გამოსადებილ ვიდეო ეფექტს მიიღებთ</translation>
+        <translation>&apos; በ%1*%2 ውስጥ የመዝግść ምድያ ይቀይር የተሻለ በቸይ ምድያ ይከissa&apos;</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>ეკრანზე ჩანაწერი ამჟამად არ არსებობს</translation>
+        <translation>ማሽን ምድያ የሚቀይር የመዝግść ምድያ የሚቀይር አይደልም</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -722,7 +730,7 @@ Shift ለመግዛት እንደገና ማስተካከል ይህን እንደ በ
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>ახალი ჩანაწერი</translation>
+        <translation>አዲስ ምድያ</translation>
     </message>
 </context>
 </TS>

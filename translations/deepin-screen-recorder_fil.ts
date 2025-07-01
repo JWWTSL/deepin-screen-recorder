@@ -4,12 +4,12 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>I-click ang icon ng tray
-o i-press ang shortcut muli upang mag-stop sa pag-record</translation>
+        <translation>Pind in tray icon 
+ o i-click in shortcut uli para itigil ang pag-record</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>Huwag mag-rotate ng screen habang nangyayari ang pag-record</translation>
+        <translation>Huwag i-rotate ang iyong screen habang nangyayari ang pag-record</translation>
     </message>
 </context>
 <context>
@@ -42,31 +42,31 @@ o i-press ang shortcut muli upang mag-stop sa pag-record</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>Nag.Fail ang Save. Mangalap ito sa iyong home directory.</translation>
+        <translation>Nagkagawa ang pag-save. Mangalapag ito sa iyong home directory.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Pananatiling</translation>
+        <translation>View</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>Screenshot tapos na</translation>
+        <translation>Screenshot finished</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
-        <translation>piliin ang kahon</translation>
+        <translation>select-area</translation>
     </message>
     <message>
         <source>Save</source>
@@ -78,7 +78,7 @@ o i-press ang shortcut muli upang mag-stop sa pag-record</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>I-reject</translation>
+        <translation>Iwanan</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -86,12 +86,13 @@ o i-press ang shortcut muli upang mag-stop sa pag-record</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Nag-save ng file ng screen recording, please wait...</translation>
+        <translation>Nasasave ang file ng screen recording, mangunguna ka.</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Ang window effect ay nangunguna sa proseso, ang recording ay dapat
-mag-stop</translation>
+        <translation>&gt;-
+Sa panahon ng proseso, ang window effect ay hindi naaktibo, kaya ang pag-record ay kailangan
+i-stop</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -99,7 +100,7 @@ mag-stop</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Nag.Fail ang Screenshot.</translation>
+        <translation>Screenshot failed.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -107,11 +108,11 @@ mag-stop</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Pins Screenshots</translation>
+        <translation>Pin Screenshots</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -119,7 +120,7 @@ mag-stop</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Screenshot tapos na at kopyahin sa clipboard</translation>
+        <translation>Screenshot finished at kopyahin sa clipboard</translation>
     </message>
 </context>
 <context>
@@ -141,7 +142,7 @@ mag-stop</translation>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Ipinatapon ang mga screenshot</translation>
+        <translation>Ipinakabit na Screenshots</translation>
     </message>
 </context>
 <context>
@@ -163,22 +164,22 @@ mag-stop</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Pag-record</translation>
+        <translation>Nagrerecord</translation>
     </message>
 </context>
 <context>
     <name>RecordProcess</name>
     <message>
         <source>View</source>
-        <translation>Panonood</translation>
+        <translation>Pananatiling Panorahin</translation>
     </message>
     <message>
         <source>Recording finished</source>
-        <translation>Pag-record ay tapos na</translation>
+        <translation>Nagtapos na pagrerecord</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>Ipinasok sa %1</translation>
+        <translation>Sinagot sa %1</translation>
     </message>
     <message>
         <source>Record</source>
@@ -193,7 +194,7 @@ mag-stop</translation>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>Magsisimula ang screen capture sa %1 segundo</translation>
+        <translation>Magsisimula ang Pagcapture ng Screen sa %1 segundo</translation>
     </message>
 </context>
 <context>
@@ -204,7 +205,7 @@ mag-stop</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Nagkataon ang pagkabigo sa pagkuha ng patuloy na screenshot.</translation>
+        <translation>Nagkabigo sa pagkuha ng patuloy na screenshot.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
@@ -220,15 +221,15 @@ mag-stop</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Ilipat ang mouse wheel o klk para makakuha ng scrolling screenshot</translation>
+        <translation>Ilipat ang mouse wheel o i-click para makakuha ng scrolling screenshot</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>Bumaba ang bilis ng scrolling</translation>
+        <translation>Magbawas ang bilis ng scrolling</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>Invalid area, klk para sa </translation>
+        <translation>Invalid na lugar, i-click para </translation>
     </message>
 </context>
 <context>
@@ -242,35 +243,35 @@ mag-stop</translation>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>Pagsimula/Screenshot</translation>
+        <translation>Magsimula/Screenshot</translation>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>Ialis/Ipasok</translation>
+        <translation>Ialis/Ilipat</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>Pangalawakan ng laki</translation>
+        <translation>Pangalawakan ng Laki</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Mga setting</translation>
+        <translation>Mga Paggawa</translation>
     </message>
     <message>
         <source>Quick start</source>
-        <translation>Mabilis na pagsimula</translation>
+        <translation>Mabilis na Magsimula</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>Screenshot ng window</translation>
+        <translation>Screenshot ng Window</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>Delay screenshot</translation>
+        <translation>Delay na Screenshot</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>Pangkalahatang screenshot</translation>
+        <translation>Pangkalahatang Screenshot</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -278,11 +279,11 @@ mag-stop</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Ipasok</translation>
+        <translation>Ilipat</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>Sakahan</translation>
+        <translation>Kahon</translation>
     </message>
     <message>
         <source>Ellipse</source>
@@ -294,7 +295,7 @@ mag-stop</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>Lapela</translation>
+        <translation>Pensil</translation>
     </message>
     <message>
         <source>Text</source>
@@ -310,35 +311,35 @@ mag-stop</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>Mapapalakas ang taas pataas</translation>
+        <translation>Mapapalakas ang taas</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>Mapapalakas ang taas pababa</translation>
+        <translation>Mapapalakas ang ilalim</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>Mapapalakas ang lapad pa kaliwa</translation>
+        <translation>Mapapalakas ang kaliwa</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>Mapapalakas ang lapad pa kanan</translation>
+        <translation>Mapapalakas ang kanan</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>Mangunguma ang taas pataas</translation>
+        <translation>Mangangalap ang taas</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>Mangunguma ang taas pababa</translation>
+        <translation>Mangangalap ang ilalim</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>Mangunguma ang lapad pa kaliwa</translation>
+        <translation>Mangangalap ang kaliwa</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>Mangunguma ang lapad pa kanan</translation>
+        <translation>Mangangalap ang kanan</translation>
     </message>
     <message>
         <source>Help</source>
@@ -350,11 +351,11 @@ mag-stop</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>Bisyo</translation>
+        <translation>Bunot</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>Pindot ng keyboard</translation>
+        <translation>Pangungusap</translation>
     </message>
     <message>
         <source>Webcam</source>
@@ -362,7 +363,7 @@ mag-stop</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation>Pagsimula ng pag-record</translation>
+        <translation>Magsimula ng pag-record</translation>
     </message>
     <message>
         <source>Options</source>
@@ -370,7 +371,7 @@ mag-stop</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>Pagsimula/Recording</translation>
+        <translation>Magsimula/Recording</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -378,7 +379,7 @@ mag-stop</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Mga Kaugnay</translation>
+        <translation>Mga Kagamitan</translation>
     </message>
     <message>
         <source>Extract text</source>
@@ -390,19 +391,19 @@ mag-stop</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>Ipinapalagay ang mga screenshot</translation>
+        <translation>Ipinin ang mga screenshot</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>Pagsimula ng OCR</translation>
+        <translation>Magsimula ng OCR</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>Pagsimula ng scrollshot</translation>
+        <translation>Magsimula ng scrollshot</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation>Sagay</translation>
+        <translation>Lapay</translation>
     </message>
 </context>
 <context>
@@ -424,32 +425,32 @@ mag-stop</translation>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>Rektangulo
-Pindot at i-hold Shift para mag-drawing ng parisukat</translation>
+        <translation>Rectangulo
+Pindot at sundan ang Shift para mag-drowing ng isang kuadrado</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
         <translation>Ellipse
-Pindot at i-hold Shift para mag-drawing ng bilog</translation>
+Pindot at sundan ang Shift para mag-drowing ng isang bilog</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
         <translation>Brush
-Pindot at i-hold Shift para mag-drawing ng linya</translation>
+Pindot at sundan ang Shift para mag-drowing ng isang patay line</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>I-adjust ang kahusayan ng blur (Scroll para i-adjust ito)</translation>
+        <translation>I-adjust ang kahusayan ng blur (Pagsusukat para i-adjust ito)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>I-adjust ang laki ng brush (Scroll para i-adjust ito)</translation>
+        <translation>I-adjust ang laki ng brush (Pagsusukat para i-adjust ito)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>I-adjust ang laki ng tekst (Scroll para i-adjust ito)</translation>
+        <translation>I-adjust ang laki ng teksto (Pagsusukat para i-adjust ito)</translation>
     </message>
 </context>
 <context>
@@ -457,8 +458,8 @@ Pindot at i-hold Shift para mag-drawing ng linya</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Pindot o i-drag upang
-piliin ang lugar na mag-record</translation>
+        <translation>Pindot o drag para
+pumili ng lugar na mag-record</translation>
     </message>
 </context>
 <context>
@@ -469,19 +470,19 @@ piliin ang lugar na mag-record</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Itago ang Keystroke (K)</translation>
+        <translation>I-hide ang keystroke (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Ipakita ang Keystroke (K)</translation>
+        <translation>Ipakita ang keystroke (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>I-on ang kamera (C)</translation>
+        <translation>I-pag-activate ang kamera (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>I-off ang kamera (C)</translation>
+        <translation>I-pag-iboto ang kamera (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -489,11 +490,11 @@ piliin ang lugar na mag-record</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Mga Setting</translation>
+        <translation>Mga setting</translation>
     </message>
     <message>
         <source>Settings (F3)</source>
-        <translation>Mga Setting (F3)</translation>
+        <translation>Mga setting (F3)</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -541,7 +542,7 @@ piliin ang lugar na mag-record</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>Bisyo</translation>
+        <translation>Sungit</translation>
     </message>
     <message>
         <source>Microphone</source>
@@ -549,11 +550,11 @@ piliin ang lugar na mag-record</translation>
     </message>
     <message>
         <source>System audio</source>
-        <translation>Sistema audio</translation>
+        <translation>Sistemong audio</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Pananalapi</translation>
+        <translation>Pananatiling mga paliwanag</translation>
     </message>
     <message>
         <source>Show pointer</source>
@@ -573,35 +574,35 @@ piliin ang lugar na mag-record</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videos</translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>Rectangulo (R)
-I-click ang Shift para magawa ang kwadrado</translation>
+        <translation>Kuadrito (R)
+I-click at i-hold ang Shift para magawa ang iskala</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>Elipsa (O)
-I-click ang Shift para magawa ang kahoy</translation>
+        <translation>Ellipse (O)
+I-click at i-hold ang Shift para magawa ang bilog</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
         <translation>Linya (L)
-I-click ang Shift para magawa ang pahayag o horizontal line</translation>
+I-click at i-hold ang Shift para magawa ang pahayag na vertical o horizontal</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>Sagisag (X)
-I-click ang Shift para magawa ang pahayag o horizontal sagisag</translation>
+        <translation>Bintana (X)
+I-click at i-hold ang Shift para magawa ang pahayag na vertical o horizontal</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>Lapela (P)</translation>
+        <translation>Baril (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
@@ -629,7 +630,7 @@ I-click ang Shift para magawa ang pahayag o horizontal sagisag</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Pangalap</translation>
+        <translation>Mag-record</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -645,11 +646,11 @@ I-click ang Shift para magawa ang pahayag o horizontal sagisag</translation>
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>Itakda ang path sa pag-save</translation>
+        <translation>Itakda ang path kapag i-save</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>Baguhin ang path sa pag-save</translation>
+        <translation>Baguhin ang path kapag i-save</translation>
     </message>
     <message>
         <source>Format</source>
@@ -681,15 +682,15 @@ I-click ang Shift para magawa ang pahayag o horizontal sagisag</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Baha</translation>
+        <translation>Buwelo</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation>Kabugtong</translation>
+        <translation>Aparato</translation>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>I-extract ang teksto</translation>
+        <translation>Ilalim ng Teksto</translation>
     </message>
 </context>
 <context>
@@ -707,14 +708,14 @@ I-click ang Shift para magawa ang pahayag o horizontal sagisag</translation>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation> Ayusin ang lugar ng pag-record sa loob ng %1*%2 para makakuha ng mas mahusay na epekto ng video</translation>
+        <translation> Ayusin ang lugar ng pag-record sa loob ng %1*%2 para makuha ang mas mahusay na epekto ng video</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>Hindi suportado ang pag-record ng screen sa kasalukuyan</translation>
+        <translation>Ang pag-record ng screen ay hindi suportado ngayon</translation>
     </message>
     <message>
         <source>Exit</source>

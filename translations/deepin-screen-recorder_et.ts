@@ -7,13 +7,13 @@
         <location filename="../src/countdown_tooltip.cpp" line="44"/>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>Klikkege kastiik 
- või painuta klaviatuurivõtme uuesti, et lõpetada kuvamine</translation>
+        <translation>Klõpsa kastiikooni
+või vajuta klaviatuurivõtme uuesti, et lõpetada kirjutamine</translation>
     </message>
     <message>
         <location filename="../src/countdown_tooltip.cpp" line="46"/>
         <source>Do not rotate your screen during recording</source>
-        <translation>Kuvamine ajal ei tohi ekraanit pöörata</translation>
+        <translation>Kasuta kirjutamise ajal ekraani keeramist</translation>
     </message>
 </context>
 <context>
@@ -21,12 +21,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/iconwidget.cpp" line="56"/>
         <source>Screenshot</source>
-        <translation>Ekraanikuvitus</translation>
+        <translation>Ekraanikuv</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/iconwidget.cpp" line="62"/>
         <source>Recording</source>
-        <translation>Kuvamine</translation>
+        <translation>Kirjutamine</translation>
     </message>
 </context>
 <context>
@@ -34,12 +34,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/maintoolwidget.cpp" line="73"/>
         <source>Record</source>
-        <translation>Kuvamine</translation>
+        <translation>Kirjuta</translation>
     </message>
     <message>
         <location filename="../src/widgets/maintoolwidget.cpp" line="86"/>
         <source>Screenshot</source>
-        <translation>Ekraanikuvitus</translation>
+        <translation>Ekraanikuv</translation>
     </message>
 </context>
 <context>
@@ -47,48 +47,48 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/main_window.cpp" line="255"/>
         <source>Screen Capture</source>
-        <translation>Ekraanikuvitus</translation>
+        <translation>Ekraanikuv</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="786"/>
         <source>Ignore</source>
-        <translation>Ignoreerida</translation>
+        <translation>Ignoreeri</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="795"/>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Ekraanikuvatise faili salvestamisel, palun oota...</translation>
+        <translation>Salvestab ekraanikirjutuse faili, palun oota...</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="822"/>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Kuna akna efekt on keelatud protsessis, peab kuvamine lõpetama
-</translation>
+        <translation>Kuna akna efekt on keelatud protsessi käigus, peab kirjutamine
+lõpetama</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="2016"/>
         <source>Screenshot failed.</source>
-        <translation>Ekraanikuvitus ebaõnnestus.</translation>
+        <translation>Ekraanikuvailu ebaõnnestus.</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3172"/>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>Salvestamine ebaõnnestus. Salvesta see oma kataloogi kohal.</translation>
+        <translation>Salvestamine ebaõnnestus. Palun salvesta see oma kataloogis.</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3195"/>
         <source>Clipboard</source>
-        <translation>Kleebipõst</translation>
+        <translation>Kleebipõne</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3196"/>
         <source>View</source>
-        <translation>Vaade</translation>
+        <translation>Vaata</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3197"/>
         <source>Open Folder</source>
-        <translation>Avage kaust</translation>
+        <translation>Avaa kaust</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3203"/>
@@ -98,17 +98,17 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/main_window.cpp" line="3221"/>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Ekraanikuvitus lõpetatud ja kleepipõstule kopeeritud</translation>
+        <translation>Ekraanikuv valmis ja kopeeritud kleebipõne</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3223"/>
         <source>Screenshot finished</source>
-        <translation>Ekraanikuvitus lõpetatud</translation>
+        <translation>Ekraanikuv valmis</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3253"/>
         <source>Screenshot</source>
-        <translation>Ekraanikuvitus</translation>
+        <translation>Ekraanikuv</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3255"/>
@@ -123,17 +123,17 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/main_window.cpp" line="3314"/>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation>PNG (*.png);;JPEG (*jpg *jpeg);;BMP (*.bmp)</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3319"/>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3324"/>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="4031"/>
@@ -143,12 +143,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/pin_screenshots/mainwindow.cpp" line="627"/>
         <source>Pin Screenshots</source>
-        <translation>Pinni ekraanikuvitused</translation>
+        <translation>Pinni ekraanikuv</translation>
     </message>
     <message>
         <location filename="../src/main.cpp" line="186"/>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -156,7 +156,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="72"/>
         <source>Undo</source>
-        <translation>Tagasivõtmine</translation>
+        <translation>Tagasi</translation>
     </message>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="79"/>
@@ -174,7 +174,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/pin_screenshots/main.cpp" line="63"/>
         <source>Pin Screenshots</source>
-        <translation>Kinnita ekraanikuvandit</translation>
+        <translation>Kinnitse ekraanikuvmut</translation>
     </message>
 </context>
 <context>
@@ -182,12 +182,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/quickpanelwidget.cpp" line="15"/>
         <source>Screenshot</source>
-        <translation>Ekraanikuvand</translation>
+        <translation>Ekraanikuvmut</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/quickpanelwidget.cpp" line="22"/>
         <source>Record</source>
-        <translation>Kuvandi</translation>
+        <translation>Kuvamise kuvamine</translation>
     </message>
 </context>
 <context>
@@ -195,12 +195,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/recordiconwidget.cpp" line="52"/>
         <source>Screenshot</source>
-        <translation>Ekraanikuvand</translation>
+        <translation>Ekraanikuvmut</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/recordiconwidget.cpp" line="58"/>
         <source>Recording</source>
-        <translation>Kuvandi</translation>
+        <translation>Kuvamise kuvamine</translation>
     </message>
 </context>
 <context>
@@ -208,7 +208,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/record_process.cpp" line="443"/>
         <source>Record</source>
-        <translation>Kuvandi</translation>
+        <translation>Kuvamise kuvamine</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="759"/>
@@ -218,12 +218,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/record_process.cpp" line="760"/>
         <source>Open Folder</source>
-        <translation>Avale kaust</translation>
+        <translation>Kausta avamine</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="773"/>
         <source>Recording finished</source>
-        <translation>Kuvandi on lõpetatud</translation>
+        <translation>Kuvamine lõppenud</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="774"/>
@@ -236,7 +236,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/screenshot.cpp" line="45"/>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>Ekraanikuvandi algus on %1 sekundis</translation>
+        <translation>Ekraanikuvmut algab %1 sekundiga</translation>
     </message>
 </context>
 <context>
@@ -244,27 +244,27 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="55"/>
         <source>Get help.</source>
-        <translation>Saada abi</translation>
+        <translation>Kasuta abi.</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="62"/>
         <source>adjust the capture area</source>
-        <translation>muuda kuvandi ala</translation>
+        <translation>muuda kuvamise ala</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="224"/>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Käik sinu hiire ratta või klõpsa, et võtta kõrvutikuvand</translation>
+        <translation>Kasuta hiirekulma või klõpsa, et võtta küljesõltuv ekraanikuvmut</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="242"/>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Kõrvutikuvandimine ebaõnnestus.</translation>
+        <translation>Küljesõltuv ekraanikuvmut ebaõnnestus.</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="265"/>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Kasutasid kõrvutikuvandi ala alumist külge</translation>
+        <translation>Kasutasid küljesõltuv ala alumist külge</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="283"/>
@@ -274,12 +274,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="301"/>
         <source>Slow down the scrolling speed</source>
-        <translation>Hüppa kõrvutikuvandi kiiruse</translation>
+        <translation>Hambu küljesõltuv kiiruse</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="317"/>
         <source>Invalid area, click to </source>
-        <translation>Kehtetu ala, klõpsa </translation>
+        <translation>Kehtetu ala, klõpsa, et </translation>
     </message>
 </context>
 <context>
@@ -287,7 +287,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/shapeswidget.cpp" line="199"/>
         <source>Input text here</source>
-        <translation>Sisesta tekst siin</translation>
+        <translation>Sisesta tekst siia</translation>
     </message>
 </context>
 <context>
@@ -295,7 +295,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="26"/>
         <source>Start/Screenshot</source>
-        <translation>Alusta/Ekraanikuvand</translation>
+        <translation>Alusta/Ekraanikuvmut</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="27"/>
@@ -310,12 +310,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="29"/>
         <source>Start/Recording</source>
-        <translation>Alusta/Kuvandi</translation>
+        <translation>Alusta/Kuvamise kuvamine</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="30"/>
         <source>Size Adjustment</source>
-        <translation>Suuruse muutmine</translation>
+        <translation>Suuruse reguleerimine</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="31"/>
@@ -330,22 +330,22 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="34"/>
         <source>Window screenshot</source>
-        <translation>Aken ekraanikuvand</translation>
+        <translation>Aken ekraanikuvmut</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="35"/>
         <source>Delay screenshot</source>
-        <translation>Kasuta viivitust</translation>
+        <translation>Pöörda ekraanikuvmut</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="36"/>
         <source>Full screenshot</source>
-        <translation>Täisekraanikuvand</translation>
+        <translation>Täielik ekraanikuvmut</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="37"/>
         <source>Start scrollshot</source>
-        <translation>Alusta kuvakäik</translation>
+        <translation>Alusta kliipe</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="38"/>
@@ -365,22 +365,22 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="42"/>
         <source>Scrollshot</source>
-        <translation>Kuvakäik</translation>
+        <translation>Kliip</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="44"/>
         <source>Pin screenshots</source>
-        <translation>Pinni kuvakäik</translation>
+        <translation>Pinni kliipe</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="44"/>
         <source>Rectangle</source>
-        <translation>Riist</translation>
+        <translation>Ristkülik</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Ellipse</source>
-        <translation>Elipse</translation>
+        <translation>Ring</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
@@ -390,7 +390,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Arrow</source>
-        <translation>Pildi suund</translation>
+        <translation>Pildi</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="46"/>
@@ -405,7 +405,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="48"/>
         <source>Extract text</source>
-        <translation>Tõsteta tekst</translation>
+        <translation>Tõsteta teksti</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="50"/>
@@ -415,7 +415,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="50"/>
         <source>Undo</source>
-        <translation>Tagasivõtmine</translation>
+        <translation>Tagasi</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="51"/>
@@ -425,17 +425,17 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="53"/>
         <source>Start recording</source>
-        <translation>Alusta kirjutamist</translation>
+        <translation>Alusta kuvitööd</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="54"/>
         <source>Sound</source>
-        <translation>Hel</translation>
+        <translation>Hääling</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="54"/>
         <source>Keystroke</source>
-        <translation>Võtmesõn</translation>
+        <translation>Tastepööret</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="55"/>
@@ -445,7 +445,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="55"/>
         <source>Mouse</source>
-        <translation>Kits</translation>
+        <translation>Hiire</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="58"/>
@@ -495,7 +495,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="67"/>
         <source>Display shortcuts</source>
-        <translation>Kuvada klaviatuurivahendused</translation>
+        <translation>Kuvata klaviatuurikäsitlejad</translation>
     </message>
 </context>
 <context>
@@ -511,7 +511,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/shotstartrecordplugin.cpp" line="46"/>
         <source>Record</source>
-        <translation>Enne</translation>
+        <translation>Kuvata kirjutus</translation>
     </message>
 </context>
 <context>
@@ -521,36 +521,36 @@ or press the shortcut again to stop recording</source>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>Ristkülik
-Pildita kuni Shift, et joonistada ruut</translation>
+Pöörata Shifti, et joonistada ruut</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="124"/>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
         <translation>Ring
-Pildita kuni Shift, et joonistada ring</translation>
+Pöörata Shifti, et joonistada ring</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="130"/>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>Pärl
-Pildita kuni Shift, et joonistada sirge joon</translation>
+        <translation>Pahvik
+Pöörata Shifti, et joonistada sirge joon</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="141"/>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Reguleeri kohandatav tume (käivita selleks klahvivahetusega)</translation>
+        <translation>Muuda tume tuge (käik, et muuta selle)</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="156"/>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Reguleeri pärlsuuruse (käivita selleks klahvivahetusega)</translation>
+        <translation>Muuda pahviku suurust (käik, et muuta selle)</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="292"/>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Reguleeri teksti suuruse (käivita selleks klahvivahetusega)</translation>
+        <translation>Muuda teksti suurust (käik, et muuta selle)</translation>
     </message>
 </context>
 <context>
@@ -559,8 +559,8 @@ Pildita kuni Shift, et joonistada sirge joon</translation>
         <location filename="../src/start_tooltip.cpp" line="30"/>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Kliki või vedda, et
-vali ala, mida kuvada</translation>
+        <translation>Klikkige või vedage
+valige kuvamise ala</translation>
     </message>
 </context>
 <context>
@@ -568,7 +568,7 @@ vali ala, mida kuvada</translation>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="39"/>
         <source>Extract Text</source>
-        <translation>Tõstuda Tekst</translation>
+        <translation>Tõstke teksti</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="63"/>
@@ -578,12 +578,12 @@ vali ala, mida kuvada</translation>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="83"/>
         <source>Folder</source>
-        <translation>Kasutaja</translation>
+        <translation>Kasutus</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="96"/>
         <source>Set a path on save</source>
-        <translation>Vali salvestamise tee</translation>
+        <translation>Määrata salvestamise tee</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="109"/>
@@ -593,7 +593,7 @@ vali ala, mida kuvada</translation>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="111"/>
         <source>Desktop</source>
-        <translation>Töölaud</translation>
+        <translation>Keskus</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="114"/>
@@ -608,7 +608,7 @@ vali ala, mida kuvada</translation>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="134"/>
         <source>Format</source>
-        <translation>Vorming</translation>
+        <translation>Formaat</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="135"/>
@@ -638,7 +638,7 @@ vali ala, mida kuvada</translation>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="188"/>
         <source>Format:</source>
-        <translation>Vorming:</translation>
+        <translation>Formaat:</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="189"/>
@@ -673,17 +673,17 @@ vali ala, mida kuvada</translation>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="72"/>
         <source>Show keystroke (K)</source>
-        <translation>Klaviatuuri näitamine (K)</translation>
+        <translation>Klaviatuuri kuvamine (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="80"/>
         <source>Hide Keystroke (K)</source>
-        <translation>Klaviatuuri peatamine (K)</translation>
+        <translation>Klaviatuuri peitmine (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="83"/>
         <source>Show Keystroke (K)</source>
-        <translation>Klaviatuuri näitamine (K)</translation>
+        <translation>Klaviatuuri kuvamine (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="93"/>
@@ -698,7 +698,7 @@ vali ala, mida kuvada</translation>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="116"/>
         <source>Screenshot</source>
-        <translation>Ekraanikuvitus</translation>
+        <translation>Ekraanikuvail</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="147"/>
@@ -748,45 +748,45 @@ vali ala, mida kuvada</translation>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="211"/>
         <source>Show click</source>
-        <translation>Klõpsu näitamine</translation>
+        <translation>Kliki kuvamine</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="507"/>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>Ristkülik (R)
-Vajuta ja hoida kinni Shifti, et joonista ruut</translation>
+        <translation>Riist (R)
+Vajuta ja hoida nupulta Shift, et joonista ruut</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="514"/>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
         <translation>Elipse (O)
-Vajuta ja hoida kinni Shifti, et joonista ring</translation>
+Vajuta ja hoida nupulta Shift, et joonista ring</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="523"/>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>Sirge (L)
-Vajuta ja hoida kinni Shifti, et joonista vertikaalne või horisontaalne sirge</translation>
+        <translation>Lind (L)
+Vajuta ja hoida nupulta Shift, et joonista püst või horisontaalne lind</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="533"/>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
         <translation>Pildi (X)
-Vajuta ja hoida kinni Shifti, et joonista vertikaalne või horisontaalne pildi</translation>
+Vajuta ja hoida nupulta Shift, et joonista püst või horisontaalne pildi</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="543"/>
         <source>Pencil (P)</source>
-        <translation>Kordumatu (P)</translation>
+        <translation>Pensli (P)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="553"/>
         <source>Blur (B)</source>
-        <translation>Põhjusta kohandatud (B)</translation>
+        <translation>Kohandatud (B)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="564"/>
@@ -796,37 +796,37 @@ Vajuta ja hoida kinni Shifti, et joonista vertikaalne või horisontaalne pildi</
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="577"/>
         <source>Scrollshot (Alt+I）</source>
-        <translation>Käik (Alt+I)</translation>
+        <translation>Käsitsemine (Alt+I)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="593"/>
         <source>Extract text (Alt+O）</source>
-        <translation>Tõstke teksti (Alt+O)</translation>
+        <translation>Teksti tõstmine (Alt+O)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="604"/>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>Pindkuvitused (Alt+P)</translation>
+        <translation>Ekraanikuvaili kinnitamine (Alt+P)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="615"/>
         <source>Undo (Ctrl+Z)</source>
-        <translation>Tühjenda (Ctrl+Z)</translation>
+        <translation>Tagasi (Ctrl+Z)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="631"/>
         <source>Record</source>
-        <translation>Kasuta</translation>
+        <translation>Kuvamine</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="792"/>
         <source>Border Effects</source>
-        <translation>Raja mõjutused</translation>
+        <translation>Raja kohandused</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="793"/>
         <source>None</source>
-        <translation>Ei</translation>
+        <translation>Pole</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="794"/>
@@ -836,12 +836,12 @@ Vajuta ja hoida kinni Shifti, et joonista vertikaalne või horisontaalne pildi</
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="795"/>
         <source>Border</source>
-        <translation>Rind</translation>
+        <translation>Piir</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="796"/>
         <source>Device</source>
-        <translation>Seadme</translation>
+        <translation>Seadmed</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="210"/>
@@ -867,7 +867,7 @@ Vajuta ja hoida kinni Shifti, et joonista vertikaalne või horisontaalne pildi</
     <message>
         <location filename="../src/widgets/toptips.cpp" line="49"/>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>Reguleerige kuvamisala %1*%2 sees, et saada parem video efekt</translation>
+        <translation>Lahendage kirjutamisala %1*%2, et saada parem video efekt</translation>
     </message>
 </context>
 <context>
@@ -875,7 +875,7 @@ Vajuta ja hoida kinni Shifti, et joonista vertikaalne või horisontaalne pildi</
     <message>
         <location filename="../src/utils.cpp" line="507"/>
         <source>Screen recording is not supported at present</source>
-        <translation>Ekraanikuvamist toetatakse hetkel</translation>
+        <translation>Ekraanikirjutamine ei toeta hetkel</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="509"/>
@@ -888,7 +888,7 @@ Vajuta ja hoida kinni Shifti, et joonista vertikaalne või horisontaalne pildi</
     <message>
         <location filename="../src/voice_record_process.cpp" line="85"/>
         <source>New recording</source>
-        <translation>Uus kuvamine</translation>
+        <translation>Uus kirjutamine</translation>
     </message>
 </context>
 </TS>

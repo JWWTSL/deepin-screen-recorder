@@ -7,13 +7,12 @@
         <location filename="../src/countdown_tooltip.cpp" line="44"/>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>คลิกไอคอนถาด
-หรือกดคำสั่งซ่อนเร้นอีกครั้งเพื่อหยุดบันทึก</translation>
+        <translation>အိမ်းအိမ်းကို နှိပ်ပါ သို့မဟုတ် မှန်ကန်သော တိုက်ရိုက်ကို ပြန်လည်နှိပ်ပါ သို့မဟုတ် မှန်ကန်သော တိုက်ရိုက်ကို ပြန်လည်နှိပ်ပါ။</translation>
     </message>
     <message>
         <location filename="../src/countdown_tooltip.cpp" line="46"/>
         <source>Do not rotate your screen during recording</source>
-        <translation>ห้ามหมุนหน้าจอขณะบันทึก</translation>
+        <translation>ရုပ်သံကို မှန်ကန်သော အချိန်အတွင်း သင့်ရဲ့ မှန်ကန်သော အိမ်းကို ပြန်လည်ပြောင်းလဲမှု မပြုပါနှင့်။</translation>
     </message>
 </context>
 <context>
@@ -21,12 +20,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/iconwidget.cpp" line="56"/>
         <source>Screenshot</source>
-        <translation>ภาพหน้าจอ</translation>
+        <translation>ဓာတ်ပုံကို ရယူပါ</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/iconwidget.cpp" line="62"/>
         <source>Recording</source>
-        <translation>การบันทึก</translation>
+        <translation>ရုပ်သံကို မှန်ကန်သော အချိန်အတွင်း မှန်ကန်သော အိမ်းကို ပြန်လည်ကိုင်တွယ်ပါ</translation>
     </message>
 </context>
 <context>
@@ -34,12 +33,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/maintoolwidget.cpp" line="73"/>
         <source>Record</source>
-        <translation>บันทึก</translation>
+        <translation>တိုက်ရိုက်ရေး</translation>
     </message>
     <message>
         <location filename="../src/widgets/maintoolwidget.cpp" line="86"/>
         <source>Screenshot</source>
-        <translation>ภาพหน้าจอ</translation>
+        <translation>ဓာတ်ပုံကို ရယူပါ</translation>
     </message>
 </context>
 <context>
@@ -47,108 +46,107 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/main_window.cpp" line="255"/>
         <source>Screen Capture</source>
-        <translation>การบันทึกหน้าจอ</translation>
+        <translation>မှန်ကန်သော အိမ်းကို ဓာတ်ပုံကို ရယူပါ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="786"/>
         <source>Ignore</source>
-        <translation>ละเลย</translation>
+        <translation>လုပ်ဆောင်မှုကို ကျော်လွှားပါ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="795"/>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>กำลังบันทึกไฟล์การบันทึกหน้าจอ โปรดรอ...</translation>
+        <translation>မှန်ကန်သော အိမ်းကို ရုပ်သံကို မှန်ကန်သော အိမ်းကို သိမ်းဆည်းနေခြင်း ဖြစ်ပါသည်။ စောင့်ဆိုင်းပါ။</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="822"/>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>เนื่องจากเอฟเฟกต์หน้าจอถูกปิดใช้งานในระหว่างกระบวนการ การบันทึกจึงต้อง
-ถูกหยุด</translation>
+        <translation>ဆောင်းပါးတွင် အိမ်းကို ပြန်လည်အသုံးပြုမှုကို အဆိုပါ အိမ်းကို ပိတ်ပါက ရုပ်သံကို ပြန်လည်ပိတ်ပါရန် လိုအပ်ပါသည်။</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="2016"/>
         <source>Screenshot failed.</source>
-        <translation>การบันทึกภาพหน้าจอล้มเหลว</translation>
+        <translation>ဓာတ်ပုံကို မှန်ကန်သော အိမ်းကို ရယူရာ ကျော်လွှားခဲ့ပါသည်။</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3172"/>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>การบันทึกล้มเหลว กรุณาบันทึกไฟล์ในโฟลเดอร์บ้านของคุณ</translation>
+        <translation>သိမ်းဆည်းရာ ကျော်လွှားခဲ့ပါ။ ကျွန်ုပ်တို့၏ အိမ်မှူးနေရာတွင် ပြန်လည်သိမ်းဆည်းပါ။</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3195"/>
         <source>Clipboard</source>
-        <translation>คลิปบอร์ด</translation>
+        <translation>ကြိုတင်သိမ်းဆည်းမှု</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3196"/>
         <source>View</source>
-        <translation>ดู</translation>
+        <translation>မြင်ကွင်း</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3197"/>
         <source>Open Folder</source>
-        <translation>เปิดโฟลเดอร์</translation>
+        <translation>မှန်ကန်သော အိမ်းကို ဖွင့်ပါ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3203"/>
         <source>Saved to %1</source>
-        <translation>บันทึกไว้ที่ %1</translation>
+        <translation>သင့်ရဲ့ %1 သို့ သိမ်းဆည်းပြီးပါပြီ။</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3221"/>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>ภาพหน้าจอเสร็จสิ้นและคัดลอกไปยังคลิปบอร์ด</translation>
+        <translation>ဓာတ်ပုံကို ပြီးပြီးပါပြီ။ ကြိုတင်သိမ်းဆည်းပါ။</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3223"/>
         <source>Screenshot finished</source>
-        <translation>ภาพหน้าจอเสร็จสิ้น</translation>
+        <translation>ဓာတ်ပုံကို ပြီးပြီးပါပြီ။</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3253"/>
         <source>Screenshot</source>
-        <translation>ภาพหน้าจอ</translation>
+        <translation>ဓာတ်ပုံကို ရယူပါ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3255"/>
         <source>Scrollshot</source>
-        <translation>การบันทึกหน้าจอแบบเลื่อน</translation>
+        <translation>တိုက်ရိုက်ကို ပြန်လည်ရယူပါ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3313"/>
         <source>Save</source>
-        <translation>บันทึก</translation>
+        <translation>သိမ်းဆည်းပါ</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3314"/>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3319"/>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3324"/>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="4031"/>
         <source>select-area</source>
-        <translation>เลือกพื้นที่</translation>
+        <translation>ဧရိယာကို ရွေးပါ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/mainwindow.cpp" line="627"/>
         <source>Pin Screenshots</source>
-        <translation>ตรึงภาพหน้าจอ</translation>
+        <translation>ဓာတ်ပုံကို အိမ်းကို တိုက်ရိုက်ပြုပါ</translation>
     </message>
     <message>
         <location filename="../src/main.cpp" line="186"/>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -156,17 +154,17 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="72"/>
         <source>Undo</source>
-        <translation>ยกเลิก</translation>
+        <translation>ပြန်လည်ပြုပါ</translation>
     </message>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="79"/>
         <source>Save</source>
-        <translation>บันทึก</translation>
+        <translation>သိမ်းဆည်းပါ</translation>
     </message>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="86"/>
         <source>Exit</source>
-        <translation>ออก</translation>
+        <translation>ထွက်ပါ</translation>
     </message>
 </context>
 <context>
@@ -174,7 +172,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/pin_screenshots/main.cpp" line="63"/>
         <source>Pin Screenshots</source>
-        <translation>ยึดภาพหน้าจอ</translation>
+        <translation>ဓာတ်ပုံများကို တပ်ဆိုင်းထားပါ</translation>
     </message>
 </context>
 <context>
@@ -182,12 +180,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/quickpanelwidget.cpp" line="15"/>
         <source>Screenshot</source>
-        <translation>ภาพหน้าจอ</translation>
+        <translation>ဓာတ်ပုံရယူမှု</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/quickpanelwidget.cpp" line="22"/>
         <source>Record</source>
-        <translation>บันทึก</translation>
+        <translation>တိုင်းတာမှု</translation>
     </message>
 </context>
 <context>
@@ -195,12 +193,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/recordiconwidget.cpp" line="52"/>
         <source>Screenshot</source>
-        <translation>ภาพหน้าจอ</translation>
+        <translation>ဓာတ်ပုံရယူမှု</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/recordiconwidget.cpp" line="58"/>
         <source>Recording</source>
-        <translation>การบันทึก</translation>
+        <translation>တိုင်းတာမှုနောက်ဆုံး</translation>
     </message>
 </context>
 <context>
@@ -208,27 +206,27 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/record_process.cpp" line="443"/>
         <source>Record</source>
-        <translation>บันทึก</translation>
+        <translation>တိုင်းတာမှု</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="759"/>
         <source>View</source>
-        <translation>ดู</translation>
+        <translation>ကြည့်ရှုမှု</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="760"/>
         <source>Open Folder</source>
-        <translation>เปิดโฟลเดอร์</translation>
+        <translation>မိုးကြိုးပိုင်းကို ဖွင့်ပါ</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="773"/>
         <source>Recording finished</source>
-        <translation>การบันทึกเสร็จสิ้น</translation>
+        <translation>တိုင်းတာမှုအဆုံးသတ်ပြီ</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="774"/>
         <source>Saved to %1</source>
-        <translation>บันทึกไว้ที่ %1</translation>
+        <translation>သိမ်းဆည်းထားသည် %1</translation>
     </message>
 </context>
 <context>
@@ -236,7 +234,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/screenshot.cpp" line="45"/>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>การถ่ายภาพหน้าจอจะเริ่มใน %1 วินาที</translation>
+        <translation>ဓာတ်ပုံရယူမှုသည် %1 စက်ရုပ်များအတွင်း စတင်သွားမည်</translation>
     </message>
 </context>
 <context>
@@ -244,42 +242,42 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="55"/>
         <source>Get help.</source>
-        <translation>ขอความช่วยเหลือ</translation>
+        <translation>ကူညီပေးပါ</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="62"/>
         <source>adjust the capture area</source>
-        <translation>ปรับพื้นที่การถ่ายภาพ</translation>
+        <translation>ဓာတ်ပုံရယူမှုဧရိယာကို ထိန်းသိမ်းပါ</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="224"/>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>เลื่อนล้อแม우สหรือคลิกเพื่อถ่ายภาพหน้าจอแบบเลื่อน</translation>
+        <translation>မိမိ၏ ကြိုတင်ကူးယူမှုကိန်းကြိုးကို လှဲပြောင်က သိမ်းဆည်းပါ</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="242"/>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>ไม่สามารถถ่ายภาพหน้าจอแบบต่อเนื่องได้</translation>
+        <translation>တိုင်းတာမှုကို အဆုံးသတ်ရန် ကြိုးစားရာတွင် မျှော်လင့်မှု ကြိုးစားရာတွင် ကန့်ကွက်ခံရပါသည်</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="265"/>
         <source>Reached the bottom of the scroll area</source>
-        <translation>ถึงก้นพื้นที่เลื่อน</translation>
+        <translation>လှဲပြောင်ကို အဆုံးသတ်ပြီ</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="283"/>
         <source>Reached the maximum length</source>
-        <translation>ถึงความยาวสูงสุด</translation>
+        <translation>အကြီးဆုံးအရှည်နောက်ဆုံး</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="301"/>
         <source>Slow down the scrolling speed</source>
-        <translation>ช้าลงความเร็วการเลื่อน</translation>
+        <translation>လှဲပြောင်နှုန်းကို အလွန်အမင်း နှေးကွေးပါ</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="317"/>
         <source>Invalid area, click to </source>
-        <translation>พื้นที่ไม่ถูกต้อง คลิกเพื่อ </translation>
+        <translation>မှန်ကန်မှု ဧရိယာများကို နှိပ်ပါ</translation>
     </message>
 </context>
 <context>
@@ -287,7 +285,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/shapeswidget.cpp" line="199"/>
         <source>Input text here</source>
-        <translation>ป้อนข้อความที่นี่</translation>
+        <translation>စာကို ဒီနေရာမှာ ထည့်ပါ</translation>
     </message>
 </context>
 <context>
@@ -295,207 +293,207 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="26"/>
         <source>Start/Screenshot</source>
-        <translation>เริ่ม/ภาพหน้าจอ</translation>
+        <translation>စတင်/ဓာတ်ပုံရယူမှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="27"/>
         <source>Exit/Save</source>
-        <translation>ออก/บันทึก</translation>
+        <translation>ထွက်/သိမ်းဆည်း</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="28"/>
         <source>Tools</source>
-        <translation>เครื่องมือ</translation>
+        <translation>ကိရိယာများ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="29"/>
         <source>Start/Recording</source>
-        <translation>เริ่ม/การบันทึก</translation>
+        <translation>စတင်/တိုင်းတာမှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="30"/>
         <source>Size Adjustment</source>
-        <translation>การปรับขนาด</translation>
+        <translation>အရွယ်အစရှိရေး</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="31"/>
         <source>Settings</source>
-        <translation>ตั้งค่า</translation>
+        <translation>ပြင်ဆင်မှုများ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="33"/>
         <source>Quick start</source>
-        <translation>เริ่มเร็ว</translation>
+        <translation>မြန်မြန်စတင်မှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="34"/>
         <source>Window screenshot</source>
-        <translation>ภาพหน้าต่าง</translation>
+        <translation>အမှုန်ကို ဓာတ်ပုံရယူမှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="35"/>
         <source>Delay screenshot</source>
-        <translation>เลื่อนเวลาถ่ายภาพ</translation>
+        <translation>နှေးနှေးဓာတ်ပုံရယူမှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="36"/>
         <source>Full screenshot</source>
-        <translation>ภาพหน้าจอเต็ม</translation>
+        <translation>ပြည့်စုံဓာတ်ပုံရယူမှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="37"/>
         <source>Start scrollshot</source>
-        <translation>เริ่มต้น scrollshot</translation>
+        <translation>စာပိုဒ်ကြိုးကိုစတင်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="38"/>
         <source>Start OCR</source>
-        <translation>เริ่มต้น OCR</translation>
+        <translation>OCR ကိုစတင်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="40"/>
         <source>Exit</source>
-        <translation>ออก</translation>
+        <translation>ထွက်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="40"/>
         <source>Save</source>
-        <translation>บันทึก</translation>
+        <translation>သိမ်းဆည်းပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="42"/>
         <source>Scrollshot</source>
-        <translation>Scrollshot</translation>
+        <translation>စာပိုဒ်ကြိုး</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="44"/>
         <source>Pin screenshots</source>
-        <translation>ตรึงหน้าจอกลาง</translation>
+        <translation>ဓာတ်ပုံများကိုသိမ်းဆည်းပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="44"/>
         <source>Rectangle</source>
-        <translation>สี่เหลี่ยม</translation>
+        <translation>တိုင်းရိုင်း</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Ellipse</source>
-        <translation>วงกลม</translation>
+        <translation>အကျုံးအများ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Line</source>
-        <translation>เส้น</translation>
+        <translation>မျှော်မှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Arrow</source>
-        <translation>ลูกศร</translation>
+        <translation>လှည်းကိုင်း</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="46"/>
         <source>Pencil</source>
-        <translation>ดินสอ</translation>
+        <translation>ပြုလုပ်မှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="46"/>
         <source>Text</source>
-        <translation>ข้อความ</translation>
+        <translation>စာသား</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="48"/>
         <source>Extract text</source>
-        <translation>ดึงข้อความ</translation>
+        <translation>စာသားကိုထုတ်ယူပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="50"/>
         <source>Delete</source>
-        <translation>ลบ</translation>
+        <translation>ဖျက်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="50"/>
         <source>Undo</source>
-        <translation>ยกเลิก</translation>
+        <translation>ပြန်လည်ပြုလုပ်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="51"/>
         <source>Options</source>
-        <translation>ตัวเลือก</translation>
+        <translation>အင်အားစု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="53"/>
         <source>Start recording</source>
-        <translation>เริ่มต้นบันทึก</translation>
+        <translation>တိုင်းတာမှုကိုစတင်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="54"/>
         <source>Sound</source>
-        <translation>เสียง</translation>
+        <translation>အသခ်းသွင်းမှု</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="54"/>
         <source>Keystroke</source>
-        <translation>การพิมพ์</translation>
+        <translation>ကိန်းဂဏန်း</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="55"/>
         <source>Webcam</source>
-        <translation>กล้องเว็บแคม</translation>
+        <translation>ဝိုင်ကိမ်း</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="55"/>
         <source>Mouse</source>
-        <translation>เมาส์</translation>
+        <translation>မိုးတံ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="58"/>
         <source>Increase height up</source>
-        <translation>เพิ่มความสูงขึ้น</translation>
+        <translation>အရွယ်အစားကိုမြှင့်တင်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="59"/>
         <source>Increase height down</source>
-        <translation>เพิ่มความสูงลง</translation>
+        <translation>အရွယ်အစားကိုမြှင့်တင်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="60"/>
         <source>Increase width left</source>
-        <translation>เพิ่มความกว้างทางด้านซ้าย</translation>
+        <translation>အရွယ်အစားကိုမြှင့်တင်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="61"/>
         <source>Increase width right</source>
-        <translation>เพิ่มความกว้างทางด้านขวา</translation>
+        <translation>အရွယ်အစားကိုမြှင့်တင်ပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="62"/>
         <source>Decrease height up</source>
-        <translation>ลดความสูงขึ้น</translation>
+        <translation>အရွယ်အစားကိုလျှော့ပေးပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="63"/>
         <source>Decrease height down</source>
-        <translation>ลดความสูงลง</translation>
+        <translation>အရွယ်အစားကိုလျှော့ပေးပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="64"/>
         <source>Decrease width left</source>
-        <translation>ลดความกว้างทางด้านซ้าย</translation>
+        <translation>အရွယ်အစားကိုလျှော့ပေးပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="65"/>
         <source>Decrease width right</source>
-        <translation>ลดความกว้างทางด้านขวา</translation>
+        <translation>အရွယ်အစားကိုလျှော့ပေးပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="67"/>
         <source>Help</source>
-        <translation>ช่วยเหลือ</translation>
+        <translation>ကူညီပါ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="67"/>
         <source>Display shortcuts</source>
-        <translation>បង្ហាញប្រអប់បើកបរ</translation>
+        <translation>တောင်းဆိုချက်များကို ပြပါ</translation>
     </message>
 </context>
 <context>
@@ -503,7 +501,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/shotstartplugin.cpp" line="40"/>
         <source>Screenshot</source>
-        <translation>ថតរូប</translation>
+        <translation>ဓာတ်ပုံရယူမှု</translation>
     </message>
 </context>
 <context>
@@ -511,7 +509,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/shotstartrecordplugin.cpp" line="46"/>
         <source>Record</source>
-        <translation>ថតវីដេអូ</translation>
+        <translation>တောင်းဆိုချက်များကို မှတ်တမ်းတင်ပါ</translation>
     </message>
 </context>
 <context>
@@ -520,37 +518,37 @@ or press the shortcut again to stop recording</source>
         <location filename="../src/widgets/shottoolwidget.cpp" line="118"/>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>កំណាត់ប្រហីប
-ចុចនិងកក់ Shift ដើម្បីបង្កើតកំណាត់ប្រហីប</translation>
+        <translation>တောင်းဆိုချက်များကို မှတ်တမ်းတင်ပါ
+Shift ကို ကိုက်နှိပ်ထားပြီး တောင်းဆိုချက်များကို စတောင်းလုပ်ပါ</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="124"/>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>កំណាត់ប្រាក់
-ចុចនិងកក់ Shift ដើម្បីបង្កើតកំណាត់ប្រាក់</translation>
+        <translation>တောင်းဆိုချက်များကို မှတ်တမ်းတင်ပါ
+Shift ကို ကိုက်နှိပ်ထားပြီး တောင်းဆိုချက်ရှိသော ပုံစံကို မှတ်တမ်းတင်ပါ</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="130"/>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>កំណាត់ប្រដាប់
-ចុចនិងកក់ Shift ដើម្បីបង្កើតប្រដាប់ត្រង់</translation>
+        <translation>အမှတ်တမ်းတင်သည့် အင်္ကျီ
+Shift ကို ကိုက်နှိပ်ထားပြီး မှတ်တမ်းတင်ရေးသည့် မျောက်ကို ကိုက်နှိပ်ပါ</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="141"/>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>កំណត់កម្រិតភ្លឺភ្លើង (វ័ត្ថុដែលអាចកំណត់បាន)</translation>
+        <translation>ပုံစံကို ပြောင်းလဲရန် (အလှည့်ကို ပြောင်းလဲပါ)</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="156"/>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>កំណត់កម្រិតទំហំប្រដាប់ (វ័ត្ថុដែលអាចកំណត់បាន)</translation>
+        <translation>အင်္ဂါရပ်ကို ပြောင်းလဲရန် (အလှည့်ကို ပြောင်းလဲပါ)</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="292"/>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>កំណត់កម្រិតទំហំអក្សរ (វ័ត្ថុដែលអាចកំណត់បាន)</translation>
+        <translation>စာပုံစံကို ပြောင်းလဲရန် (အလှည့်ကို ပြောင်းလဲပါ)</translation>
     </message>
 </context>
 <context>
@@ -559,8 +557,8 @@ Press and hold Shift to draw a straight line</source>
         <location filename="../src/start_tooltip.cpp" line="30"/>
         <source>Click or drag to
 select the area to record</source>
-        <translation>ចុចឬកក់ដើម្បី
-ជ្រើសរើសតំបន់ដែលអាចថតបាន</translation>
+        <translation>နှိပ်ပါ သို့မဟုတ် ဆွဲပါ
+မှတ်တမ်းတင်ရန် ဧရိယာကို ရွေးပါ</translation>
     </message>
 </context>
 <context>
@@ -568,47 +566,47 @@ select the area to record</source>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="39"/>
         <source>Extract Text</source>
-        <translation>ដកអក្សរ</translation>
+        <translation>စာပို့ရေးချက်ကို ထုတ်ယူပါ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="63"/>
         <source>Options</source>
-        <translation>ការជ្រើសរើស</translation>
+        <translation>ရွေးကောက်ချက်များ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="83"/>
         <source>Folder</source>
-        <translation>ថតឃើញ</translation>
+        <translation>မိတ္တူ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="96"/>
         <source>Set a path on save</source>
-        <translation>កំណត់ផ្លូវនៅពេលរក្សាទុក</translation>
+        <translation>သိမ်းယူသည့်အခါ လမ်းကြောင်းကို ဖြစ်ပါသည်</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="109"/>
         <source>Save to</source>
-        <translation>រក្សាទុកនៅ</translation>
+        <translation>သိမ်းယူရန်</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="111"/>
         <source>Desktop</source>
-        <translation>តំបន់ដំណើរការ</translation>
+        <translation>ဒေးဗီးကို</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="114"/>
         <source>Pictures</source>
-        <translation>រូបថត</translation>
+        <translation>ဓာတ်ပုံများကို</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="120"/>
         <source>Clipboard</source>
-        <translation>ថតឃើញ</translation>
+        <translation>ကြိုတင်ချက်များကို</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="134"/>
         <source>Format</source>
-        <translation>ប្រភេទ</translation>
+        <translation>ပုံစံ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="135"/>
@@ -628,17 +626,17 @@ select the area to record</source>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="218"/>
         <source>Change the path on save</source>
-        <translation>ផ្លាស់ប្ដូរផ្លូវនៅពេលរក្សាទុក</translation>
+        <translation>သိမ်းယူသည့်အခါ လမ်းကြောင်းကို ပြောင်းပါ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="205"/>
         <source>Microphone</source>
-        <translation>មូលដ្ឋានសំលុង</translation>
+        <translation>မီကွေးပို့ရေးချက်</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="188"/>
         <source>Format:</source>
-        <translation>ប្រភេទ:</translation>
+        <translation>ပုံစံ:</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="189"/>
@@ -663,7 +661,7 @@ select the area to record</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="267"/>
         <source>Videos</source>
-        <translation>វីដេអូ</translation>
+        <translation>ဗီဒီယိုများကို</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="196"/>
@@ -673,42 +671,42 @@ select the area to record</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="72"/>
         <source>Show keystroke (K)</source>
-        <translation>แสดงการกด (K)</translation>
+        <translation>Show keystroke (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="80"/>
         <source>Hide Keystroke (K)</source>
-        <translation>ซ่อนการกด (K)</translation>
+        <translation>Hide keystroke (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="83"/>
         <source>Show Keystroke (K)</source>
-        <translation>แสดงการกด (K)</translation>
+        <translation>Show keystroke (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="93"/>
         <source>Turn on camera (C)</source>
-        <translation>เปิดกล้อง (C)</translation>
+        <translation>Turn on camera (C)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="101"/>
         <source>Turn off camera (C)</source>
-        <translation>ปิดกล้อง (C)</translation>
+        <translation>Turn off camera (C)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="116"/>
         <source>Screenshot</source>
-        <translation>ภาพหน้าจอ</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="147"/>
         <source>Settings</source>
-        <translation>การตั้งค่า</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="149"/>
         <source>Settings (F3)</source>
-        <translation>การตั้งค่า (F3)</translation>
+        <translation>Settings (F3)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="197"/>
@@ -738,60 +736,64 @@ select the area to record</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="203"/>
         <source>Sound</source>
-        <translation>เสียง</translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="206"/>
         <source>System audio</source>
-        <translation>เสียงระบบ</translation>
+        <translation>System audio</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="211"/>
         <source>Show click</source>
-        <translation>แสดงการคลิก</translation>
+        <translation>Show click</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="507"/>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>สี่เหลี่ยม (R)
-กดและกดร่วม Shift เพื่อวาดกล่อง</translation>
+        <translation>|-
+      တိုင်းရိုင်း (R)
+      ရိုက်နှိပ်ထားသော Shift ကို အသုံးပြု၍ တိုင်းရိုင်းကို ဆွဲခြင်း</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="514"/>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>วงกลม (O)
-กดและกดร่วม Shift ในการวาดวงกลม</translation>
+        <translation>|-
+      အမှုတိုက် (O)
+      ရိုက်နှိပ်ထားသော Shift ကို အသုံးပြု၍ အမှုတိုက်ကို ဆွဲခြင်း</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="523"/>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>เส้น (L)
-กดและกดร่วม Shift เพื่อวาดเส้นแนวตั้งหรือแนวนอน</translation>
+        <translation>|-
+      မျှော် (L)
+      ရိုက်နှိပ်ထားသော Shift ကို အသုံးပြု၍ အထွေထွေ သို့မဟုတ် အလျားတူ မျှော်ကို ဆွဲခြင်း</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="533"/>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>ลูกศร (X)
-กดและกดร่วม Shift เพื่อวาดลูกศรแนวตั้งหรือแนวนอน</translation>
+        <translation>|-
+      လှည်း (X)
+      ရိုက်နှိပ်ထားသော Shift ကို အသုံးပြု၍ အထွေထွေ သို့မဟုတ် အလျားတူ လှည်းကို ဆွဲခြင်း</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="543"/>
         <source>Pencil (P)</source>
-        <translation>ดินสอ (P)</translation>
+        <translation>Pencil (P)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="553"/>
         <source>Blur (B)</source>
-        <translation>เบลอ (B)</translation>
+        <translation>Blur (B)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="564"/>
         <source>Text (T)</source>
-        <translation>ข้อความ (T)</translation>
+        <translation>Text (T)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="577"/>
@@ -801,52 +803,52 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="593"/>
         <source>Extract text (Alt+O）</source>
-        <translation>แยกข้อความ (Alt+O)</translation>
+        <translation>Extract text (Alt+O)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="604"/>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>ตรึงภาพหน้าจอ (Alt+P)</translation>
+        <translation>Pin screenshots (Alt+P)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="615"/>
         <source>Undo (Ctrl+Z)</source>
-        <translation>ยกเลิก (Ctrl+Z)</translation>
+        <translation>Undo (Ctrl+Z)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="631"/>
         <source>Record</source>
-        <translation>บันทึก</translation>
+        <translation>Record</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="792"/>
         <source>Border Effects</source>
-        <translation>ผลลัพธ์ขอบ</translation>
+        <translation>Border Effects</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="793"/>
         <source>None</source>
-        <translation>ไม่มี</translation>
+        <translation>အားလုံး</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="794"/>
         <source>Shadow</source>
-        <translation>เงา</translation>
+        <translation>အလှည့်</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="795"/>
         <source>Border</source>
-        <translation>ขอบ</translation>
+        <translation>နံပါတ်</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="796"/>
         <source>Device</source>
-        <translation>อุปกรณ์</translation>
+        <translation>ကိရိယာ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="210"/>
         <source>Show pointer</source>
-        <translation>แสดงเคอร์เซอร์</translation>
+        <translation>လက်မှတ်ကိုပြပါ</translation>
     </message>
 </context>
 <context>
@@ -854,12 +856,12 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/toolbar.cpp" line="66"/>
         <source>Close (Esc)</source>
-        <translation>ปิด (Esc)</translation>
+        <translation>ပိတ်ပါ (Esc)</translation>
     </message>
     <message>
         <location filename="../src/widgets/toolbar.cpp" line="67"/>
         <source>OK (Enter)</source>
-        <translation>ตกลง (Enter)</translation>
+        <translation>အုံးပါ (Enter)</translation>
     </message>
 </context>
 <context>
@@ -867,7 +869,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/toptips.cpp" line="49"/>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>ปรับพื้นที่บันทึกภายใน %1*%2 เพื่อให้ได้ผลลัพธ์วิดีโอที่ดีขึ้น</translation>
+        <translation>သင့်ရဲ့ မှတ်တမ်းကို အကောင်းဆုံး ဗွီဒီယို အကျိုးအပ်နှီးမှုအတွက် %1*%2 အတွင်း အုံးပါ</translation>
     </message>
 </context>
 <context>
@@ -875,12 +877,12 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/utils.cpp" line="507"/>
         <source>Screen recording is not supported at present</source>
-        <translation>การบันทึกหน้าจอไม่ได้รับการสนับสนุนในขณะนี้</translation>
+        <translation>မျက်နှာပြင် မှတ်တမ်းချက်ကို ယခုအခါ အထောက်အပံ့မပေးပါ</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="509"/>
         <source>Exit</source>
-        <translation>ออก</translation>
+        <translation>ထွက်ပါ</translation>
     </message>
 </context>
 <context>
@@ -888,7 +890,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/voice_record_process.cpp" line="85"/>
         <source>New recording</source>
-        <translation>การบันทึกใหม่</translation>
+        <translation>သစ် မှတ်တမ်း</translation>
     </message>
 </context>
 </TS>

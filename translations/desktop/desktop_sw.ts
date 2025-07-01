@@ -4,27 +4,27 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>Deepin Matoa Matoa</translation>
+        <translation>Mipasifio Mipasifio</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>Matoa Matoa ya Kufanya Ujumbe</translation>
+        <translation>Siku Siku</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>Matoa Matoa ya Kutoa</translation>
+        <translation>Siku Siku</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Record screen</source>
-        <translation>Ongeza Matoa</translation>
+        <translation>Kuzalisha Mipasifio</translation>
     </message>
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>Matoa Matoa</translation>
+        <translation>Mipasifio</translation>
     </message>
 </context>
 </TS>

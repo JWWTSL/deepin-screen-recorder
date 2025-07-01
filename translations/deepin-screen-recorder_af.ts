@@ -4,8 +4,8 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>Klik op die skinkbordikoon
-of druk die snelkort weer om te stop met opname</translation>
+        <translation>Klik op die taakbalk icoon
+of druk op die skortieks weer om te stop met opname</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
@@ -42,7 +42,7 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>Opslaan misluk. Dui dit asseblief in jou huismap op.</translation>
+        <translation>Opslaan misluk. Stoor dit asseblief in jou huismap.</translation>
     </message>
     <message>
         <source>View</source>
@@ -54,15 +54,15 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
@@ -86,11 +86,12 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Beskikbaar word die skermopnamebestand, wag asseblief...</translation>
+        <translation>Beskikbaar maak van die skermopnamebestand, wag asseblief...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>As die venstereffek tydens die proses deaktiveer word, moet die opname gestop word</translation>
+        <translation>As die venster-effek tydens die proses deactiveer is, moet die opname gestop word
+en word gestop</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -98,34 +99,34 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Skermopname het misluk.</translation>
+        <translation>Skermopname misluk.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>Scrollshot</translation>
+        <translation>Scrollskermopname</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Pin skermopnames</translation>
+        <translation>Pin Skermopnames</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Map oopmaak</translation>
+        <translation>Open Folder</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Skermopname voltooi en kopiëer na klipbord</translation>
+        <translation>Skermopname voltooi en kopieer na klipbord</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>Herlaai</translation>
+        <translation>Ongedaan maak</translation>
     </message>
     <message>
         <source>Save</source>
@@ -140,52 +141,52 @@ of druk die snelkort weer om te stop met opname</translation>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Pin skermafspelet</translation>
+        <translation>Pin Screenshots</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Skermafspelet</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Opname</translation>
+        <translation>Record</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Skermafspelet</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Opname</translation>
+        <translation>Recording</translation>
     </message>
 </context>
 <context>
     <name>RecordProcess</name>
     <message>
         <source>View</source>
-        <translation>Weergawe</translation>
+        <translation>View</translation>
     </message>
     <message>
         <source>Recording finished</source>
-        <translation>Opname voltooi</translation>
+        <translation>Recording finished</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>Beskikbaar in %1</translation>
+        <translation>Saved to %1</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Opname</translation>
+        <translation>Record</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Oop map</translation>
+        <translation>Open Folder</translation>
     </message>
 </context>
 <context>
@@ -199,85 +200,85 @@ of druk die snelkort weer om te stop met opname</translation>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>Kry hulp.</translation>
+        <translation>Kry help</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Mislukking om ’n kontinue skermafspelet te neem.</translation>
+        <translation>Failed to take a continuous screenshot</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Gegryp die onderkant van die rolgebied</translation>
+        <translation>Gegemoet die onderkant van die skrollarea</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>Gegryp die maksimum lengte</translation>
+        <translation>Gegemoet die maksimum lengte</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>Pas die opnamegebied aan</translation>
+        <translation>pas die opnamearea aan</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Rol jou mouswiel of klik om ’n geroleerde skermafspelet te neem</translation>
+        <translation>Skrol jou muiswiel of klik om &apos;n skrollende skermopname te neem</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>Verlangsaam die roling snelheid</translation>
+        <translation>Vertraag die skrollingsgrootte</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>Ongeldige gebied, klik om </translation>
+        <translation>Ongeldig gebied, klik om </translation>
     </message>
 </context>
 <context>
     <name>ShapesWidget</name>
     <message>
         <source>Input text here</source>
-        <translation>Voer hier teks in</translation>
+        <translation>Input text here</translation>
     </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>Begin/Skermafspelet</translation>
+        <translation>Start/Screenshot</translation>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>Verlaat/Bespaar</translation>
+        <translation>Exit/Save</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>Grootte aanpassing</translation>
+        <translation>Size Adjustment</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Instellings</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>Quick start</source>
-        <translation>Snel begin</translation>
+        <translation>Quick start</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>Venster skermafspelet</translation>
+        <translation>Window screenshot</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>Vertraag skermafspelet</translation>
+        <translation>Delay screenshot</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>Volledige skermafspelet</translation>
+        <translation>Full screenshot</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Verlaat</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Bespaar</translation>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -289,11 +290,11 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>Lijn</translation>
+        <translation>Lyn</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>Potlood</translation>
+        <translation>Pensel</translation>
     </message>
     <message>
         <source>Text</source>
@@ -301,7 +302,7 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Verwys</translation>
+        <translation>Verwijder</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -309,7 +310,7 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>Verhoog hoogte bo</translation>
+        <translation>Verhoog hoogte boven</translation>
     </message>
     <message>
         <source>Increase height down</source>
@@ -325,7 +326,7 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>Verlaag hoogte bo</translation>
+        <translation>Verlaag hoogte boven</translation>
     </message>
     <message>
         <source>Decrease height down</source>
@@ -345,7 +346,7 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>Toon snelkoppings</translation>
+        <translation>Toon skorteweërs</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -353,7 +354,7 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>Toetsstroom</translation>
+        <translation>Toetsdruk</translation>
     </message>
     <message>
         <source>Webcam</source>
@@ -361,7 +362,7 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation>Start opname</translation>
+        <translation>Begin opname</translation>
     </message>
     <message>
         <source>Options</source>
@@ -369,7 +370,7 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>Start/Opname</translation>
+        <translation>Begin/Opname</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -377,11 +378,11 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Werktygs</translation>
+        <translation>Werkware</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>Draai tekst uit</translation>
+        <translation>Vryeëg tekst</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -389,15 +390,15 @@ of druk die snelkort weer om te stop met opname</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>Pin skermopnames</translation>
+        <translation>Pin screenshots</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>Start OCR</translation>
+        <translation>Begin OCR</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>Start scrollshot</translation>
+        <translation>Begin scrollshot</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -423,32 +424,32 @@ of druk die snelkort weer om te stop met opname</translation>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>Rechthoek
-Hou Shift ingedrukt om een vierkant te teken</translation>
+        <translation>Reghoek
+Hou Shift ingedruk om &apos;n vierkant te teken</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>Ellipse
-Hou Shift ingedrukt om een cirkel te teken</translation>
+        <translation>Elips
+Hou Shift ingedruk om &apos;n sirkel te teken</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>Borstel
-Hou Shift ingedrukt om een rechte lyn te teken</translation>
+        <translation>Bors
+Hou Shift ingedruk om &apos;n reguit lyn te teken</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Pas deursichtigheid aan (rol om dit aan te pas te maken)</translation>
+        <translation>Pas die vaagheid aan (Rol om dit aan te pas)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Pas borstelgrootte aan (rol om dit aan te pas te maken)</translation>
+        <translation>Pas die borsgrootte aan (Rol om dit aan te pas)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Pas teksgrootte aan (rol om dit aan te pas te maken)</translation>
+        <translation>Pas die teksgrootte aan (Rol om dit aan te pas)</translation>
     </message>
 </context>
 <context>
@@ -456,23 +457,23 @@ Hou Shift ingedrukt om een rechte lyn te teken</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Klik of sleur om
-die gebied te kies wat opgenomen moet word</translation>
+        <translation>Klik of trek om
+die gebied te kies wat opgenom moet word</translation>
     </message>
 </context>
 <context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Toon toetskliek (K)</translation>
+        <translation>Toon toets (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Versteek Toetskliek (K)</translation>
+        <translation>Versteek Toets (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Toon Toetskliek (K)</translation>
+        <translation>Toon Toets (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
@@ -480,7 +481,7 @@ die gebied te kies wat opgenomen moet word</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>Skakel kamera af (C)</translation>
+        <translation>Skakel kamera uit (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -552,11 +553,11 @@ die gebied te kies wat opgenomen moet word</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Opties</translation>
+        <translation>Opsies</translation>
     </message>
     <message>
         <source>Show pointer</source>
-        <translation>Toon wysig</translation>
+        <translation>Toon wysigert</translation>
     </message>
     <message>
         <source>Show click</source>
@@ -577,26 +578,26 @@ die gebied te kies wat opgenomen moet word</translation>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>Reël (R)
+        <translation>Reghoek (R)
 Druk en hou Shift in om &apos;n vierkant te teken</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>Els (O)
-Druk en hou Shift in om &apos;n sirkel te teken</translation>
+        <translation>Elips (O)
+Drukg en hou Shift in om &apos;n sirkel te teken</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>Lijn (L)
-Druk en hou Shift in om &apos;n vertikale of horisontale lyn te teken</translation>
+        <translation>Lyn (L)
+Druk en hou Shift in om &apos;n vertikaal of horisontaal lyn te teken</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>Punt (X)
-Druk en hou Shift in om &apos;n vertikale of horisontale punt te teken</translation>
+        <translation>Pyle (X)
+Druk en hou Shift in om &apos;n vertikaal of horisontaal pyle te teken</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -604,7 +605,7 @@ Druk en hou Shift in om &apos;n vertikale of horisontale punt te teken</translat
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>Vergroting (B)</translation>
+        <translation>Vergiet (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -616,23 +617,23 @@ Druk en hou Shift in om &apos;n vertikale of horisontale punt te teken</translat
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>Verkryg tekst (Alt+O)</translation>
+        <translation>Trek tekst (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>Vasteplak beelde (Alt+P)</translation>
+        <translation>Speld beelde (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>Ongedoen maak (Ctrl+Z)</translation>
+        <translation>Ontgeld (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Opname</translation>
+        <translation>Skryf</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Klippie</translation>
+        <translation>Klipsis</translation>
     </message>
     <message>
         <source>Pictures</source>
@@ -640,7 +641,7 @@ Druk en hou Shift in om &apos;n vertikale of horisontale punt te teken</translat
     </message>
     <message>
         <source>Folder</source>
-        <translation>Mappe</translation>
+        <translation>Map</translation>
     </message>
     <message>
         <source>Set a path on save</source>
@@ -668,7 +669,7 @@ Druk en hou Shift in om &apos;n vertikale of horisontale punt te teken</translat
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>Rande Effekte</translation>
+        <translation>Rand Effekte</translation>
     </message>
     <message>
         <source>None</source>
@@ -676,11 +677,11 @@ Druk en hou Shift in om &apos;n vertikale of horisontale punt te teken</translat
     </message>
     <message>
         <source>Shadow</source>
-        <translation>Schaduw</translation>
+        <translation>Skadu</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Rand</translation>
+        <translation>Rond</translation>
     </message>
     <message>
         <source>Device</source>
@@ -688,7 +689,7 @@ Druk en hou Shift in om &apos;n vertikale of horisontale punt te teken</translat
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>Trek Tekst Af</translation>
+        <translation>Trek Tekste</translation>
     </message>
 </context>
 <context>
@@ -706,14 +707,14 @@ Druk en hou Shift in om &apos;n vertikale of horisontale punt te teken</translat
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>Pas die opnamegebied binne %1*%2 aan om &apos;n beter video-effek te verkry</translation>
+        <translation>Pas die opnamearea binne %1*%2 aan om beter video-effek te kry</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>Skermopname word tans nie ondersteun nie</translation>
+        <translation>Skermopname word nie ondersteun nie</translation>
     </message>
     <message>
         <source>Exit</source>

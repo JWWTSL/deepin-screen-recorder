@@ -9,7 +9,7 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>Växla inte skärmen under inspelning</translation>
+        <translation>Var vänlig och var inte med att rotera skärmen under inspelning</translation>
     </message>
 </context>
 <context>
@@ -38,11 +38,11 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>Skärmbild klar</translation>
+        <translation>Skärmbildtagare</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>Sparning misslyckades. Vänligen spara det i din hemkatalog.</translation>
+        <translation>Sparning misslyckades. Var vänlig och spara det i din hemkatalog.</translation>
     </message>
     <message>
         <source>View</source>
@@ -50,97 +50,99 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation>Skärmbildtagning klar</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>Välj område</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
-        <translation>Spara</translation>
+        <translation>Välj område</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sparad till %1</translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>Ignorera</translation>
+        <translation>Sparad till %1</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Urklipp</translation>
+        <translation>Ignorera</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Sparar skärminspelningen, vänligen vänta...</translation>
+        <translation>Urklipp</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Eftersom fönstereffekten är inaktiverad under processen måste inspelningen avbrytas</translation>
+        <translation>Sparar skärminspelningen, var vänlig och vänta...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Skärmbild</translation>
+        <translation>&gt;-
+Eftersom fönstereffekten är inaktiverad under processen måste inspelningen
+sluta</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Skärmbild misslyckades.</translation>
+        <translation>Skärmbild</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Scrollskärmbild</translation>
+        <translation>Skärmbildtagning misslyckades.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>Fäst skärmbilder</translation>
+        <translation>Scrollskärmbild</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation>Fäst skärmbilder</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>Öppna mapp</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Skärmbild klar och kopiera till urklipp</translation>
+        <translation>Öppna mapp</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Återgå</translation>
+        <translation>Skärmbildtagning klar och kopiera till urklipp</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>Spara</translation>
+        <translation>Återgå</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Avsluta</translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Fäst skärmbilder</translation>
+        <translation>Avsluta</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäst skärmbilder</translation>
     </message>
 </context>
 <context>
@@ -192,7 +194,7 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>Skärmbildtagning börjar om %1 sekunder</translation>
+        <translation>Skärmbildstagning börjar om %1 sekunder</translation>
     </message>
 </context>
 <context>
@@ -207,23 +209,23 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Nådde nedre delen av scrollområdet</translation>
+        <translation>Nådd nedanför skrollområdet</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>Nådde maximal längd</translation>
+        <translation>Nådd maximal längd</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>justera bildtagningsområdet</translation>
+        <translation>justera bildområdet</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Rulla musvälaren eller klicka för att ta en scrollad skärmbild</translation>
+        <translation>Rull ditt musväl eller klicka för att ta en skrollbild</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>Sänk scrollhastigheten</translation>
+        <translation>Sänk skrollhastigheten</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
@@ -234,14 +236,14 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     <name>ShapesWidget</name>
     <message>
         <source>Input text here</source>
-        <translation>Skriv text här</translation>
+        <translation>Skriv in text här</translation>
     </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>Start/Skärmbild</translation>
+        <translation>Starta/Skärmbild</translation>
     </message>
     <message>
         <source>Exit/Save</source>
@@ -249,7 +251,7 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>Storleksjustering</translation>
+        <translation>Storleksanpassning</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -265,11 +267,11 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>Försöta skärmbild</translation>
+        <translation>Försening av skärmbild</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>Full skärmbild</translation>
+        <translation>Hela skärmbild</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -309,35 +311,35 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>Öka höjden uppåt</translation>
+        <translation>Öka höjd uppåt</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>Öka höjden neråt</translation>
+        <translation>Öka höjd neråt</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>Öka bredden till vänster</translation>
+        <translation>Öka bredd till vänster</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>Öka bredden till höger</translation>
+        <translation>Öka bredd till höger</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>Minska höjden uppåt</translation>
+        <translation>Minska höjd uppåt</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>Minska höjden neråt</translation>
+        <translation>Minska höjd neråt</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>Minska bredden till vänster</translation>
+        <translation>Minska bredd till vänster</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>Minska bredden till höger</translation>
+        <translation>Minska bredd till höger</translation>
     </message>
     <message>
         <source>Help</source>
@@ -345,7 +347,7 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>Visa snabbkommandon</translation>
+        <translation>Visa snabbtangent</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -369,7 +371,7 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>Starta/Spela in</translation>
+        <translation>Starta/inspelning</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -389,7 +391,7 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>Näspinnar</translation>
+        <translation>Fäst skärmbild</translation>
     </message>
     <message>
         <source>Start OCR</source>
@@ -415,7 +417,7 @@ eller tryck på genvägsknappen igen för att stoppa inspelningen</translation>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Spela in</translation>
+        <translation>Spara</translation>
     </message>
 </context>
 <context>
@@ -438,15 +440,15 @@ Press and hold Shift to draw a straight line</source>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Barnskiva</translation>
+        <translation>Pensel</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Håll ned Shift för att rita en rät linje</translation>
+        <translation>Håll ned Shift för att rita en rak linje</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Justera blurråd (Rull för att justera det)</translation>
+        <translation>Anpassa blurr (Rulla för att anpassa den)</translation>
     </message>
 </context>
 <context>
@@ -462,27 +464,27 @@ välj område att spela in</translation>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Justera barnskivas storlek (Rull för att justera det)</translation>
+        <translation>Anpassa penselstorlek (Rulla för att anpassa den)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Justera textstorlek (Rull för att justera det)</translation>
+        <translation>Anpassa textstorlek (Rulla för att anpassa den)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Visa tangenttryck (K)</translation>
+        <translation>Visa tangent (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>Dölj tangenttryck (K)</translation>
+        <translation>Dölj tangent (K)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>Visa tangenttryck (K)</translation>
+        <translation>Visa tangent (K)</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Aktivera kamera (C)</translation>
+        <translation>Tänd kamera (C)</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -576,25 +578,25 @@ välj område att spela in</translation>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
         <translation>Rektangel (R)
-Håll ned Shift för att rita en kvadrat</translation>
+Håll inne Shift för att rita en kvadrat</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
         <translation>Ellips (O)
-Håll ned Shift för att rita en cirkel</translation>
+Håll inne Shift för att rita en cirkel</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
         <translation>Linje (L)
-Håll ned Shift för att rita en vertikal eller horisontell linje</translation>
+Håll inne Shift för att rita en vertikal eller horisontell linje</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
         <translation>Pil (X)
-Håll ned Shift för att rita en vertikal eller horisontell pil</translation>
+Håll inne Shift för att rita en vertikal eller horisontell pil</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -602,7 +604,7 @@ Håll ned Shift för att rita en vertikal eller horisontell pil</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>Snygg (B)</translation>
+        <translation>Mörkning (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -610,7 +612,7 @@ Håll ned Shift för att rita en vertikal eller horisontell pil</translation>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>Vältak (Alt+I)</translation>
+        <translation>Vältakbild (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
@@ -646,7 +648,7 @@ Håll ned Shift för att rita en vertikal eller horisontell pil</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>Ändra sökvägen vid sparning</translation>
+        <translation>Ändra sögvägen vid sparning</translation>
     </message>
     <message>
         <source>Format</source>
@@ -711,7 +713,7 @@ Håll ned Shift för att rita en vertikal eller horisontell pil</translation>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>Skärminspelning stöds inte vid denna tid</translation>
+        <translation>Skärminspelning stöds inte just nu</translation>
     </message>
     <message>
         <source>Exit</source>

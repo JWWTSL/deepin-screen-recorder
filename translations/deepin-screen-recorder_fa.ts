@@ -9,14 +9,14 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>به زمان ضبط، نورت اسکرین خود را نگه دارید</translation>
+        <translation>لطفاً در طول ضبط صفحه نمایش نور خود را چرخان نکنید</translation>
     </message>
 </context>
 <context>
     <name>IconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>عکس صفحه</translation>
+        <translation>عکس صفحه نمایش</translation>
     </message>
     <message>
         <source>Recording</source>
@@ -31,123 +31,124 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>عکس صفحه</translation>
+        <translation>عکس صفحه نمایش</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>عکس صفحه تمام شد</translation>
+        <translation>گرفتن عکس صفحه نمایش</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation>ذخیره شدن ناکام بود. لطفاً آن را در پوشه خانگی خود ذخیره کنید.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>نمایش</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation>عکس صفحه نمایش تمام شد</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>انتخاب منطقه</translation>
-    </message>
-    <message>
-        <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>ذخیره</translation>
-    </message>
-    <message>
-        <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>ذخیره شد به %1</translation>
-    </message>
-    <message>
-        <source>select-area</source>
-        <translation>نادیده گرفتن</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>کلیپبوار</translation>
-    </message>
-    <message>
-        <source>Saved to %1</source>
-        <translation>ذخیره فایل ضبط صفحه، لطفا صبر کنید...</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clipboard</source>
-        <translation>عکس صفحه</translation>
-    </message>
-    <message>
-        <source>Saving the screen recording file, please wait...</source>
-        <translation>عکس صفحه با شکست مواجه شد.</translation>
-    </message>
-    <message>
-        <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Scrollshot</translation>
-    </message>
-    <message>
-        <source>Screenshot</source>
-        <translation>عکس های صفحه را ثابت کنید</translation>
-    </message>
-    <message>
-        <source>Screenshot failed.</source>
+        <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
         <translation>deepin-screen-recorder</translation>
     </message>
     <message>
-        <source>Scrollshot</source>
-        <translation>پوشه ای را باز کنید</translation>
+        <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pin Screenshots</source>
-        <translation>عکس صفحه تمام شد و به کلیپبوار کپی شد</translation>
+        <source>select-area</source>
+        <translation>منطقه انتخابی</translation>
     </message>
     <message>
-        <source>deepin-screen-recorder</source>
-        <translation>انصراف</translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
+        <source>Save</source>
         <translation>ذخیره</translation>
     </message>
     <message>
+        <source>Saved to %1</source>
+        <translation>ذخیره شد به %1</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>نادیده گرفته شود</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>پیش‌باز</translation>
+    </message>
+    <message>
+        <source>Saving the screen recording file, please wait...</source>
+        <translation>ذخیره فایل ضبط صفحه نمایش، لطفاً منتظر بمانید...</translation>
+    </message>
+    <message>
+        <source>As the window effect is disabled during the process, the recording has to be stopped</source>
+        <translation>&gt;-
+به دلیل غیرواضح شدن اثر پنجره در طول فرآیند، ضبط مجبور به قطع شدن است</translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation>عکس صفحه نمایش</translation>
+    </message>
+    <message>
+        <source>Screenshot failed.</source>
+        <translation>عکس صفحه نمایش ناکام بود.</translation>
+    </message>
+    <message>
+        <source>Scrollshot</source>
+        <translation>Scrollshot</translation>
+    </message>
+    <message>
+        <source>Pin Screenshots</source>
+        <translation>عکس‌های صفحه نمایش را ثابت کن</translation>
+    </message>
+    <message>
+        <source>deepin-screen-recorder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>پوشه را باز کن</translation>
+    </message>
+    <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>خروج</translation>
+        <translation>عکس صفحه نمایش تمام شد و به پیش‌باز کپی شد</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>عکس های صفحه را ثابت کنید</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>ذخیره</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>خروج</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>عکس‌های صفحه نمایش را ثابت کن</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>گرفتن اسکرین شات</translation>
+        <translation>گرفتن تصویر صفحه</translation>
     </message>
     <message>
         <source>Record</source>
@@ -158,7 +159,7 @@ or press the shortcut again to stop recording</source>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>گرفتن اسکرین شات</translation>
+        <translation>گرفتن تصویر صفحه</translation>
     </message>
     <message>
         <source>Recording</source>
@@ -185,14 +186,14 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>پوشه را باز کنید</translation>
+        <translation>پوشه ای را باز کن</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>گرفتن اسکرین شات در %1 ثانیه شروع خواهد شد</translation>
+        <translation>گرفتن تصویر صفحه در %1 ثانیه شروع خواهد شد</translation>
     </message>
 </context>
 <context>
@@ -203,23 +204,23 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>گرفتن اسکرین شات پیوسته با شکست مواجه شد.</translation>
+        <translation>گرفتن تصویر پیوسته با شکست مواجه شد.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>به پایین منطقه اسکرول رسیدید</translation>
+        <translation>به پایین منطقه ای که می‌توان در آن اسکرول کرد رسیدید</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>طول ماکزیمم را به دست آوردید</translation>
+        <translation>طول بیشینه را به دست آوردید</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>منطقه گرفتن را تنظیم کنید</translation>
+        <translation>محدوده گرفتن تصویر را تنظیم کنید</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>ماوس خود را اسکرول کنید یا کلیک کنید تا اسکرین شات اسکرول شده را بگیرید</translation>
+        <translation>می‌توانید چرخ چرخ‌کن موس خود را اسکرول کنید یا کلیک کنید تا تصویر اسکرول شده را گرفته شود</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
@@ -227,7 +228,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>منطقه نامعتبر، کلیک کنید</translation>
+        <translation>منطقه نامعتبر، کلیک کنید تا </translation>
     </message>
 </context>
 <context>
@@ -241,7 +242,7 @@ or press the shortcut again to stop recording</source>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>شروع/گرفتن اسکرین شات</translation>
+        <translation>شروع/گرفتن تصویر صفحه</translation>
     </message>
     <message>
         <source>Exit/Save</source>
@@ -249,7 +250,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation> تنظیم اندازه</translation>
+        <translation>تغییر اندازه</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -261,15 +262,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>اسکرین شات پنجره</translation>
+        <translation> تصویر پنجره</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>تأخير در گرفتن اسکرین شات</translation>
+        <translation> تصویر با تأخیر</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>اسکرین شات کامل</translation>
+        <translation> تصویر کامل</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -281,11 +282,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>مربع</translation>
+        <translation>مستطیل</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation>Elips</translation>
+        <translation>میانه</translation>
     </message>
     <message>
         <source>Line</source>
@@ -293,7 +294,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>قلم</translation>
+        <translation>کلیم</translation>
     </message>
     <message>
         <source>Text</source>
@@ -305,39 +306,39 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation>استرداد</translation>
+        <translation>لغو کردن</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>افزایش ارتفاع بالا</translation>
+        <translation>قد بالا را افزایش دهید</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>افزایش ارتفاع پایین</translation>
+        <translation>قد پایین را افزایش دهید</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>افزایش عرض چپ</translation>
+        <translation>عرض چپ را افزایش دهید</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>افزایش عرض راست</translation>
+        <translation>عرض راست را افزایش دهید</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>کاهش ارتفاع بالا</translation>
+        <translation>قد بالا را کاهش دهید</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>کاهش ارتفاع پایین</translation>
+        <translation>قد پایین را کاهش دهید</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>کاهش عرض چپ</translation>
+        <translation>عرض چپ را کاهش دهید</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>کاهش عرض راست</translation>
+        <translation>عرض راست را کاهش دهید</translation>
     </message>
     <message>
         <source>Help</source>
@@ -345,7 +346,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>نمایش کوتاه‌ترین‌ها</translation>
+        <translation>کلیدهای کمکی را نمâیش دهید</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -353,11 +354,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>فشار دادن کلید</translation>
+        <translation>کلید</translation>
     </message>
     <message>
         <source>Webcam</source>
-        <translation>کاميرای شبکه</translation>
+        <translation>کاميرای وب</translation>
     </message>
     <message>
         <source>Start recording</source>
@@ -369,7 +370,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>شروع/ ضبط</translation>
+        <translation>شروع/ضبط</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -381,7 +382,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>استخراج متن</translation>
+        <translation>متن را استخراج کنید</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -389,15 +390,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>فیکس تصاویر</translation>
+        <translation>تصاویر لمسی را ثابت کنید</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>شروع OCR</translation>
+        <translation>OCR را شرو کنید</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>شروع Scrollshot</translation>
+        <translation>Scrollshot را شروع کنید</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -408,7 +409,7 @@ or press the shortcut again to stop recording</source>
     <name>ShotStartPlugin</name>
     <message>
         <source>Screenshot</source>
-        <translation>تصویر گرفته شده</translation>
+        <translation>تصویر لمسی</translation>
     </message>
 </context>
 <context>
@@ -424,7 +425,7 @@ or press the shortcut again to stop recording</source>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>مستطیل
-فشار دادن و نگه داشتن Shift برای رسم مربع</translation>
+کلید Shift را فشار دهید و نگه دارید تا مربعی رسم کنید</translation>
     </message>
     <message>
         <source>Ellipse
@@ -434,19 +435,19 @@ Press and hold Shift to draw a circle</source>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>فشار را در حالت نگه داشته و دایره ای رسم کنید</translation>
+        <translation>Shift را فشار داده و نگه دارید تا دایره ای رسم کنید</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>نوار قلم</translation>
+        <translation>فرش</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>فشار را در حالت نگه داشته و خط مستقیم رسم کنید</translation>
+        <translation>Shift را فشار داده و نگه دارید تا خط مستقیم رسم کنید</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>میزان گم شدن را تنظیم کنید (برای تنظیم آن از کلید محرک استفاده کنید)</translation>
+        <translation>تیزی سایه را تنظیم کنید (برای تنظیم آن اسکرول کنید)</translation>
     </message>
 </context>
 <context>
@@ -462,11 +463,11 @@ select the area to record</source>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>اندازه قلم را تنظیم کنید (برای تنظیم آن از کلید محرک استفاده کنید)</translation>
+        <translation>اندازه فرش را تنظیم کنید (برای تنظیم آن اسکرول کنید)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>اندازه متن را تنظیم کنید (برای تنظیم آن از کلید محرک استفاده کنید)</translation>
+        <translation>اندازه متن را تنظیم کنید (برای تنظیم آن اسکرول کنید)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
@@ -474,7 +475,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>پنهان کردن کلید (K)</translation>
+        <translation>مخفی کردن کلید (K)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
@@ -482,23 +483,23 @@ select the area to record</source>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>کامیرا را روشن کنید (C)</translation>
+        <translation>کامера را روشن کنید (C)</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>کامیرا را خاموش کنید (C)</translation>
+        <translation>کامера را خاموش کنید (C)</translation>
     </message>
     <message>
         <source>Settings (F3)</source>
-        <translation>عکس صفحه</translation>
+        <translation>گرفتن سکرین شوت</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation>تنظیمات</translation>
+        <translation> تنظیمات</translation>
     </message>
     <message>
         <source>GIF</source>
-        <translation>تنظیمات (F3)</translation>
+        <translation> تنظیمات (F3)</translation>
     </message>
     <message>
         <source>MP4</source>
@@ -558,7 +559,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Show click</source>
-        <translation>گزینه‌ها</translation>
+        <translation>گزینه ها</translation>
     </message>
     <message>
         <source>Save to</source>
@@ -566,35 +567,39 @@ select the area to record</source>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>پیکربندی دسکتاپ</translation>
+        <translation>میز کار</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>فیلم ها</translation>
+        <translation>فیلم‌ها</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation> مستطیل (R)
-کلیک و نگه داشتن Shift برای رسم مربع</translation>
+        <translation>|-
+      مستطیل (R)
+      کلیک و نگه داشتن Shift برای رسم مربع</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>Elips (O)
-کلیک و نگه داشتن Shift برای رسم دایره</translation>
+        <translation>|-
+      بیضی (O)
+      کلیک و نگه داشتن Shift برای رسم دایره</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>خط (L)
-کلیک و نگه داشتن Shift برای رسم خط عمودی یا افقی</translation>
+        <translation>|-
+      خط (L)
+      کلیک و نگه داشتن Shift برای رسم خط عمودی یا افقی</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>نشانه (X)
-کلیک و نگه داشتن Shift برای رسم نشانه عمودی یا افقی</translation>
+        <translation>|-
+      سیم (X)
+      کلیک و نگه داشتن Shift برای رسم سیم عمودی یا افقی</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -602,7 +607,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>میزان تیکه (B)</translation>
+        <translation>محو (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -618,11 +623,11 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>پین تصاویر (Alt+P)</translation>
+        <translation>پین اسکرینشات (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>انصراف (Ctrl+Z)</translation>
+        <translation>غیر کردن (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
@@ -630,7 +635,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>پیشنهاد</translation>
+        <translation>کlipboard</translation>
     </message>
     <message>
         <source>Pictures</source>
@@ -646,7 +651,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>مسیری را در زمان ذخیره تغییر دهید</translation>
+        <translation>مسیر را در زمان ذخیره تغییر دهید</translation>
     </message>
     <message>
         <source>Format</source>
@@ -666,19 +671,19 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>اثر مرز</translation>
+        <translation>تأثیرات خط</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>هیچ</translation>
+        <translation>هیچکدام</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>ظل</translation>
+        <translation>سایه</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>مرز</translation>
+        <translation>خط</translation>
     </message>
     <message>
         <source>Device</source>
@@ -693,7 +698,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>ToolBarWidget</name>
     <message>
         <source>Close (Esc)</source>
-        <translation>ب close (Esc)</translation>
+        <translation>بستن (Esc)</translation>
     </message>
     <message>
         <source>OK (Enter)</source>
@@ -704,14 +709,14 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>منطقه ضبط را در %1*%2 تنظیم کنید تا اثر ویدئو بهتر شود</translation>
+        <translation>اطلاعات ضبط صفحه را در %1*%2 تنظیم کنید تا اثر ویدئو بهتری داشته باشید</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>ضبط صفحه نمایش در حال حاضر پشتیبانی نمی شود</translation>
+        <translation> ضبط صفحه در حال حاضر پشتیبانی نمی‌شود</translation>
     </message>
     <message>
         <source>Exit</source>

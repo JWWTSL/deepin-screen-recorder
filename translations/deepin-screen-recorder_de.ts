@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="de">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ oder drücken Sie die Tastenkombination erneut, um die Aufnahme zu stoppen</tran
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Aufnehmen</translation>
+        <translation type="vanished">Aufnehmen</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Bildschirmaufnahme</translation>
+        <translation type="vanished">Bildschirmaufnahme</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ oder drücken Sie die Tastenkombination erneut, um die Aufnahme zu stoppen</tran
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Bildschirmaufnahme fehlgeschlagen.</translation>
+        <translation type="vanished">Bildschirmaufnahme fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ oder drücken Sie die Tastenkombination erneut, um die Aufnahme zu stoppen</tran
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ oder drücken Sie die Tastenkombination erneut, um die Aufnahme zu stoppen</tran
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Umschalttaste gedrückt halten, um eine gerade Linie zu zeichnen</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Klicken oder ziehen, um den Bildschirmbereich auszuwählen, der aufgenommen wird.</translation>
+        <translation type="vanished">Klicken oder ziehen, um den Bildschirmbereich auszuwählen, der aufgenommen wird.</translation>
     </message>
 </context>
 <context>
@@ -723,7 +725,7 @@ Umschalttaste gedrückt halten, um einen vertikalen oder horizontalen Pfeil zu z
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Neue Aufnahme</translation>
+        <translation type="vanished">Neue Aufnahme</translation>
     </message>
 </context>
 </TS>

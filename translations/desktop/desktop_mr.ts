@@ -4,22 +4,22 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>डीपिन स्क्रीन कैप्चर</translation>
+        <translation>डिपिन स्क्रीन कैप्चर</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>अवधी लावलेली स्कॅनर</translation>
+        <translation>કાલે સ્ક્રીનશોટ</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>पूर्ण स्कॅनर</translation>
+        <translation>पूर्ण स्क्रीनशॉट</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Record screen</source>
-        <translation>स्क्रीन रेकॉर्ड करा</translation>
+        <translation>रेकॉर्ड स्क्रीन</translation>
     </message>
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>

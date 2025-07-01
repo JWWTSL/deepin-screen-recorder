@@ -4,17 +4,17 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>Deepin Zaslonovac</translation>
+        <translation>Deepin Zaslonovni Zapis</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>Zaostanek Zaslonovac</translation>
+        <translation>Zaostavljena Zaslonovna Fotografija</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>Celotna Zaslonovac</translation>
+        <translation>Celotna Zaslonovna Fotografija</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>Zaslonovac</translation>
+        <translation>Zaslonovni Zapis</translation>
     </message>
 </context>
 </TS>

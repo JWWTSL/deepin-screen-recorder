@@ -4,17 +4,17 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>Deepin ამოღება</translation>
+        <translation>Deepin էկրան խորանարար</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>დახურვის დახურვა</translation>
+        <translation>Ժամանակ անց էկրան պատկեր</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>სრული ამოღება</translation>
+        <translation>Ամբողջ էկրան պատկեր</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>ამოღება</translation>
+        <translation>Էկրան խորանարար</translation>
     </message>
 </context>
 </TS>

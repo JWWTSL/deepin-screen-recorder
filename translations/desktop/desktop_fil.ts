@@ -4,7 +4,7 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>Deepin Screen Capture</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>

@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_CN">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ or press the shortcut again to stop recording</source>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>录屏</translation>
+        <translation type="vanished">录屏</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>截图</translation>
+        <translation type="vanished">截图</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>截图失败。</translation>
+        <translation type="vanished">截图失败。</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -452,14 +454,6 @@ Press and hold Shift to draw a straight line</source>
     </message>
 </context>
 <context>
-    <name>StartTooltip</name>
-    <message>
-        <source>Click or drag to
-select the area to record</source>
-        <translation>点击或拖动以选择要录制的区域</translation>
-    </message>
-</context>
-<context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
@@ -723,7 +717,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>新录音</translation>
+        <translation type="vanished">新录音</translation>
     </message>
 </context>
 </TS>

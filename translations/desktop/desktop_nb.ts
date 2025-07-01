@@ -16,7 +16,7 @@
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full screenshot</source>
-        <translation>Fullscreen-bilde</translation>
+        <translation>Fullskjermscreenshot</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

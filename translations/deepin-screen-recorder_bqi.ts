@@ -4,418 +4,418 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>اضغط على رمز ال托盘
-أو اضغط على المختصر مرة أخرى لوقف تسجيل الشاشة</translation>
+        <translation>تېتىك ئىكۆننى ئېتىك
+يا ھەققىدە ئىكۆننى تېتىك كۈرۈڭ</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>لا تدور شاشتك أثناء التسجيل</translation>
+        <translation>ئىكەن بىرلىقىدا شىمۇ شاپۇرۇنى ئۆتكۈزىڭ</translation>
     </message>
 </context>
 <context>
     <name>IconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>الصورة</translation>
+        <translation>شىمۇ شاپۇرۇ</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>التسجيل</translation>
+        <translation>ئىكەن بىرلىقى</translation>
     </message>
 </context>
 <context>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation>ئىكەن بىرلىقى</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>الصورة</translation>
+        <translation>شىمۇ شاپۇرۇ</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>التقاط الشاشة</translation>
+        <translation>شىمۇ شاپۇرۇ</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>فشل الحفظ. يرجى حفظه في دليل المستخدم الخاص بك.</translation>
+        <translation>سەۋەپ قىلغۇن. ئۇنى ئۆزىڭنىڭ دەپارتمېنتىدىكى قىلغۇن</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>عرض</translation>
+        <translation>كۆرۈش</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>تم التقاط الصورة</translation>
+        <translation>شىمۇ شاپۇرۇ تەمىن</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (* . bmp)</translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
-        <translation>اختر منطقة</translation>
+        <translation>ئىكەن بىرلىقىنى چۈشىنىش</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>حفظ</translation>
+        <translation>سەۋەپ قىلىش</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>تم الحفظ في %1</translation>
+        <translation>سەۋەپ قىلغۇن %1</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>تجاهل</translation>
+        <translation>كۆرسەتىش</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>الحافظة</translation>
+        <translation>كۆرسەتىش</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>يتم حفظ ملف تسجيل الشاشة، من فضلك انتظر...</translation>
+        <translation>شىمۇ شاپۇرۇ فايلىنى سەۋەپ قىلىۋاتىدۇ، ئەمەل قىلغۇن...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>بسبب تعطيل تأثير النافذة أثناء العملية، يجب أن تتوقف التسجيل</translation>
+        <translation>ئەپەر پىرۆس بىرە ئىشلەتىلگەن ئىچىن، ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىדە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدىن ھەققىدە ھەققىدە ھەققىدە ۋىزىيەت</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>الصورة</translation>
+        <translation>شىمۇ شاپۇرۇ</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>فشل التقاط الصورة.</translation>
+        <translation>شىمۇ شاپۇرۇ قىلغۇن.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>التمرير</translation>
+        <translation>شىمۇ شاپۇرۇ</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>إرفاق الصور</translation>
+        <translation>شىمۇ شاپۇرۇنى چېكىتىش</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>فتح المجلد</translation>
+        <translation>پەپەكىنى ئېتىك</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>تم التقاط الصورة وتم نسخها إلى الحافظة</translation>
+        <translation>شىمۇ شاپۇرۇ تەمىن ۋە كۆرسەتىش</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>الغاء</translation>
+        <translation>ئەپەل قىلىش</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>حفظ</translation>
+        <translation>سەۋەپ قىلىش</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>الخروج</translation>
+        <translation>چېكىتىش</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>تصفيق صور الشاشة</translation>
+        <translation>Pin Screenshots</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>صورة شاشة</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation>Record</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>صورة شاشة</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>التسجيل</translation>
+        <translation>Recording</translation>
     </message>
 </context>
 <context>
     <name>RecordProcess</name>
     <message>
         <source>View</source>
-        <translation>عرض</translation>
+        <translation>View</translation>
     </message>
     <message>
         <source>Recording finished</source>
-        <translation>التسجيل انتهى</translation>
+        <translation>Recording finished</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>تم حفظه في %1</translation>
+        <translation>Saved to %1</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation>Record</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>فتح المجلد</translation>
+        <translation>Open Folder</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>سيبدأ التقاط الشاشة في %1 ثوانٍ</translation>
+        <translation>ئەپەر %1 سىلەندا بىرە ئىشلەتىلگەن ئىچىن، ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھەققىدە ھىسسى ئىشلەتىلگەن</translation>
     </message>
 </context>
 <context>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>احصل على المساعدة.</translation>
+        <translation>Get help.</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>فشل في التقاط صورة شاشة مستمرة.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>وصلت إلى أسفل منطقة التمرير</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>وصلت إلى الحد الأقصى للطول</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>تعديل منطقة التقاط</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>تمرر عجلة мышиك أو اضغط لأخذ صورة شاشة تمريرية</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>تباطؤ سرعة التمرير</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>منطقة غير صالحة، اضغط لـ</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ShapesWidget</name>
     <message>
         <source>Input text here</source>
-        <translation>أدخل النص هنا</translation>
+        <translation>Input text here</translation>
     </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>بدء/صورة شاشة</translation>
+        <translation>Start/Screenshot</translation>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>الخروج/الحفظ</translation>
+        <translation>Exit/Save</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>تعديل الحجم</translation>
+        <translation>Size Adjustment</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>الإعدادات</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>Quick start</source>
-        <translation>بدء سريع</translation>
+        <translation>Quick start</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>صورة النافذة</translation>
+        <translation>Window screenshot</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>تأخير التقاط الصورة</translation>
+        <translation>Delay screenshot</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>صورة شاشة كاملة</translation>
+        <translation>Full screenshot</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>الخروج</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>الحفظ</translation>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>مستطيل</translation>
+        <translation>Rectangle</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation>овал</translation>
+        <translation>Ellipse</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>خط</translation>
+        <translation>Line</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>قلم</translation>
+        <translation>Pencil</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>نص</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>حذف</translation>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>إلغاء</translation>
+        <translation>Undo</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>زيادة الارتفاع لأعلى</translation>
+        <translation>Increase height up</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>زيادة الارتفاع لأسفل</translation>
+        <translation>Increase height down</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>زيادة العرض لليسار</translation>
+        <translation>Increase width left</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>زياده العرض لليمين</translation>
+        <translation>Increase width right</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>انخفاض الارتفاع لأعلى</translation>
+        <translation>Decrease height up</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>انخفاض الارتفاع لأسفل</translation>
+        <translation>Decrease height down</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>انخفاض العرض لليسار</translation>
+        <translation>Decrease width left</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>انخفاض العرض لليمين</translation>
+        <translation>Decrease width right</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>مساعدة</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>عرض المفاتيح القصيرة</translation>
+        <translation>Display shortcuts</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>صوت</translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>مفتاح</translation>
+        <translation>Keystroke</translation>
     </message>
     <message>
         <source>Webcam</source>
-        <translation>الكاميرا</translation>
+        <translation>Webcam</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation>ابدأ تسجيل</translation>
+        <translation>Start recording</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>خيارات</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>ابدأ/تسجيل</translation>
+        <translation>Start/Recording</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation>الماوس</translation>
+        <translation>Mouse</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>أدوات</translation>
+        <translation>Tools</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>استخراج النص</translation>
+        <translation>Extract text</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>شاشة التمرير</translation>
+        <translation>Scrollshot</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>إرفاق الشاشات</translation>
+        <translation>Pin screenshots</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>ابدأ OCR</translation>
+        <translation>Start OCR</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>ابدأ شاشة التمرير</translation>
+        <translation>Start scrollshot</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation>سنجاب</translation>
+        <translation>سیم</translation>
     </message>
 </context>
 <context>
     <name>ShotStartPlugin</name>
     <message>
         <source>Screenshot</source>
-        <translation>صورة شاشة</translation>
+        <translation>نماکسی</translation>
     </message>
 </context>
 <context>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation>تەکرەر</translation>
     </message>
 </context>
 <context>
@@ -423,32 +423,32 @@ or press the shortcut again to stop recording</source>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>مستطيل
-اضغط وثب Shift لرسم مربع</translation>
+        <translation>چوپەن
+شیفت نەتەن بەکارهێنەوە بۆ کردنەوەی چوپەن</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>овал
-اضغط وثب Shift لرسم دائرة</translation>
+        <translation>سێلیس
+شیفت نەتەن بەکارهێنەوە بۆ کردنەوەی سێلیس</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>فرش
-اضغط وثب Shift لرسم خط مستقيم</translation>
+        <translation>بڕوش
+شیفت نەتەن بەکارهێنëوە بۆ کردنەوەی لاینە چەق</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>تعديل قوة التعتيم (استخدم الماوس لتعديلها)</translation>
+        <translation>بەکارهێنەوەی قوتابی بلو (دەرەوە بەکارهێنەوە بۆ بەدەستهێنەوەی ئەو)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>تعديل حجم الفرش (استخدم الماوس لتعديلها)</translation>
+        <translation>بەکارهێنەوەی چەمەتی بڕوش (دەرەوە بەکارهێنەوە بۆ بەدەستهێنەوەی ئەو)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>تعديل حجم النص (استخدم الماوس لتعديلها)</translation>
+        <translation>بەکارهێنەوەی چەمەتی ناوە (دەرەوە بەکارهێنەوە بۆ بەدەستهێنەوەی ئەو)</translation>
     </message>
 </context>
 <context>
@@ -456,203 +456,203 @@ Press and hold Shift to draw a straight line</source>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>اضغط أو اسحب ل
-اختيار المنطقة التي سيتم تسجيلها</translation>
+        <translation>کلیک کەوە یان دەرەوە بەکارهێنەوە بۆ
+چونەی ئەو کە بەکارهێنەوە بەدەستهێنەوە</translation>
     </message>
 </context>
 <context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>عرض زر التشغيل (K)</translation>
+        <translation>کلیکەکە بەکارهێنەوە (ک)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>إخفاء زر التشغيل (K)</translation>
+        <translation>کلیکەکە نەدەست بەکارهێنەوە (ک)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>عرض زر التشغيل (K)</translation>
+        <translation>کلیکەکە بەکارهێنەوە (ک)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>تشغيل الكاميرا (C)</translation>
+        <translation>کامەرای بەکارهێنەوە (س)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>إيقاف الكاميرا (C)</translation>
+        <translation>کامەرای نەدەست بەکارهێنەوە (س)</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>صورة شاشة</translation>
+        <translation>نماکسی</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>الإعدادات</translation>
+        <translation>کۆنفیگ</translation>
     </message>
     <message>
         <source>Settings (F3)</source>
-        <translation>الإعدادات (F3)</translation>
+        <translation>کۆنفیگ (F3)</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation>التنسيق:</translation>
+        <translation>فرۆمەت:</translation>
     </message>
     <message>
         <source>GIF</source>
-        <translation>GIF</translation>
+        <translation>جیف</translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation>MP4</translation>
+        <translation>مپ4</translation>
     </message>
     <message>
         <source>MKV</source>
-        <translation>MKV</translation>
+        <translation>مکڤ</translation>
     </message>
     <message>
         <source>webm</source>
-        <translation>webm</translation>
+        <translation>ویبم</translation>
     </message>
     <message>
         <source>FPS:</source>
-        <translation>السرعة الإطارية:</translation>
+        <translation>FPS:</translation>
     </message>
     <message>
         <source>5 fps</source>
-        <translation>5 إطارات في الثانية</translation>
+        <translation>5 fps</translation>
     </message>
     <message>
         <source>10 fps</source>
-        <translation>10 إطارات في الثانية</translation>
+        <translation>10 fps</translation>
     </message>
     <message>
         <source>20 fps</source>
-        <translation>20 إطار في الثانية</translation>
+        <translation>20 fps</translation>
     </message>
     <message>
         <source>24 fps</source>
-        <translation>24 إطار في الثانية</translation>
+        <translation>24 fps</translation>
     </message>
     <message>
         <source>30 fps</source>
-        <translation>30 إطار في الثانية</translation>
+        <translation>30 fps</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>الصوت</translation>
+        <translation>سۆند</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation>ميكروفون</translation>
+        <translation>მიკროფონი</translation>
     </message>
     <message>
         <source>System audio</source>
-        <translation>الصوت النظامي</translation>
+        <translation>სისტემური აუდიო</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>الخيارات</translation>
+        <translation>ოპციები</translation>
     </message>
     <message>
         <source>Show pointer</source>
-        <translation>عرض المؤشر</translation>
+        <translation>ნახე ინდექსი</translation>
     </message>
     <message>
         <source>Show click</source>
-        <translation>عرض النقر</translation>
+        <translation>ნახე კლიკი</translation>
     </message>
     <message>
         <source>Save to</source>
-        <translation>حفظ إلى</translation>
+        <translation>შენახვა შემდეგ შესანახად</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>السطح</translation>
+        <translation>დესკტოპი</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>الفيديوهات</translation>
+        <translation>ვიდეოები</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>مستطيل (R)
-اضغط واسمح للنقر بالاستمرار لرسم مربع</translation>
+        <translation>მართკუთხედი (R)
+დაწკაპული შიფტის დაჭერით შესანახად კვადრატი</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>橢圓形 (O)
-اضغط واسمح للنقر بالاستمرار لرسم دائرة</translation>
+        <translation>ელიპსი (O)
+დაწკაპული შიფტის დაჭერით შესანახად წრეწირი</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>خط (L)
-اضغط واسمح للنقر بالاستمرار لرسم خط عمودي أو أفقي</translation>
+        <translation>ხაზი (L)
+დაწკაპული შიფტის დაჭერით შესანახად ვერტიკალური ან ჰორიზონტალური ხაზი</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>سهم (X)
-اضغط واسمح للنقر بالاستمرار لرسم سهم عمودي أو أفقي</translation>
+        <translation>ხელსაწყო (X)
+დაწკაპული შიფტის დაჭერით შესანახად ვერტიკალური ან ჰორიზონტალური ხელსაწყო</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>قلم (P)</translation>
+        <translation>ფიქსი (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>الإبهام (B)</translation>
+        <translation>გამახუდარება (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
-        <translation>النص (T)</translation>
+        <translation>ტექსტი (T)</translation>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>شاشة التمرير (Alt+I)</translation>
+        <translation>სკროლშოტი (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>استخراج النص (Alt+O)</translation>
+        <translation>ტექსტის გამომოყოფა (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>تثبيت صور الشاشة (Alt+P)</translation>
+        <translation>სკრენშოტების ჩართვა (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>إلغاء (Ctrl+Z)</translation>
+        <translation>აბრუნება (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation>ჩაწერა</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>الصينية</translation>
+        <translation>კლიპბორდი</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>الصور</translation>
+        <translation>ფოტოები</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>مجلد</translation>
+        <translation>ფოლდერი</translation>
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>تحديد مسار عند الحفظ</translation>
+        <translation>შენახვისას განსაზღვრეთ გზა</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>تغيير المسار عند الحفظ</translation>
+        <translation>შენახვისას გადაადგილეთ გზა</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>التنسيق</translation>
+        <translation>ფორმატი</translation>
     </message>
     <message>
         <source>PNG</source>
@@ -668,63 +668,63 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>تأثيرات الحواف</translation>
+        <translation>საზღვარის ეფექტები</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>هیچ</translation>
+        <translation>هەن</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>سایه</translation>
+        <translation>شادو</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>کنار</translation>
+        <translation>بۆردر</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation>دستگاه</translation>
+        <translation>دېڤىس</translation>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>متن استخراج کنید</translation>
+        <translation>تېكست ئېكست</translation>
     </message>
 </context>
 <context>
     <name>ToolBarWidget</name>
     <message>
         <source>Close (Esc)</source>
-        <translation>بستن (Esc)</translation>
+        <translation>بېرىش (Esc)</translation>
     </message>
     <message>
         <source>OK (Enter)</source>
-        <translation>تایید (Enter)</translation>
+        <translation>بىر (Enter)</translation>
     </message>
 </context>
 <context>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>دسته‌بندی ضبط منطقه را در %1*%2 تنظیم کنید تا اثر ویدیو بهتری به دست آورد</translation>
+        <translation>دېۋىلىنىڭ %1*%2 ئىچىدىن ئىشلەتىشنى كۆرسىتىڭ، دېۋىلىنىڭ كۆرۈنەرلىكىنى ياخشىلاش ئۈچۈن</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>ضبط صفحه‌ی کلیک‌شده در حال حاضر پشتیبانی نمی‌شود</translation>
+        <translation>ئېكراىنە دېۋىلىنى ئىشلەتىش مۇمكىن بولمىدۇ</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>خروج</translation>
+        <translation>چыقىش</translation>
     </message>
 </context>
 <context>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>ضبط جدید</translation>
+        <translation>يېڭى دېۋىلى</translation>
     </message>
 </context>
 </TS>

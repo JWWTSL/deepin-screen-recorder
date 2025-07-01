@@ -4,22 +4,22 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>தீபின் ஸ்கிரீன் கேப்சர்</translation>
+        <translation>டிபின் ஸ்கிரீன் கேப்சர்</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>தூக்கு ஸ்கிரீன் புகைப்படம்</translation>
+        <translation>தீவிர ஸ்கிரீன் செயலியை தாமதமாக்கவும்</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>முற்றிலும் ஸ்கிரீன் புகைப்படம்</translation>
+        <translation>முழு ஸ்கிரீன் செயலி</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Record screen</source>
-        <translation>ரிகார்ட் ஸ்கிரீன்</translation>
+        <translation>ஸ்கிரீன் செயலியை பதிவு செய்யவும்</translation>
     </message>
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>

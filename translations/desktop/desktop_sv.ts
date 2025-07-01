@@ -4,12 +4,12 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>Deepin skärmbild</translation>
+        <translation>Deepin skärmlapp</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>Försök skärmbild</translation>
+        <translation>Försenade skärmbild</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>Skärmbild</translation>
+        <translation>Skärmlapp</translation>
     </message>
 </context>
 </TS>

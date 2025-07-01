@@ -11,12 +11,12 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay screenshot</source>
-        <translation>Retrasar pantallugrafiya</translation>
+        <translation>Retrasar pantallada</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full screenshot</source>
-        <translation>Pantallugrafiya completa</translation>
+        <translation>Pantallada completa</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

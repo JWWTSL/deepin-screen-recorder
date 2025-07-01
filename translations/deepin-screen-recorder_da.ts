@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="da">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="da">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -9,7 +11,7 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>Und tag din skærm under optagelse</translation>
+        <translation>Ikke drej skærmen under opkald</translation>
     </message>
 </context>
 <context>
@@ -20,18 +22,18 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Optagelse</translation>
+        <translation>Opkald</translation>
     </message>
 </context>
 <context>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Optag</translation>
+        <translation type="vanished">Optag</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Skærmbillede</translation>
+        <translation type="vanished">Skærmbillede</translation>
     </message>
 </context>
 <context>
@@ -86,19 +88,15 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Gemmer skærmbilledoptagelsen, venligst vent...</translation>
+        <translation>Lagrer skærmbilledet, venligst vent...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Da vindueeffekten er deaktivert under processen, skal optagelsen stoppes</translation>
+        <translation>Da vindueseffekten er deaktivert under processen, skal opkaldet stoppes</translation>
     </message>
     <message>
         <source>Screenshot</source>
         <translation>Skærmbillede</translation>
-    </message>
-    <message>
-        <source>Screenshot failed.</source>
-        <translation>Skærmbilledet fejler.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +108,7 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -147,22 +145,22 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Skærmbilled</translation>
+        <translation type="unfinished">Skærmbillede</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Optag</translation>
+        <translation type="unfinished">Optag</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Skærmbilled</translation>
+        <translation type="unfinished">Skærmbillede</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Optagelse</translation>
+        <translation>Opkald</translation>
     </message>
 </context>
 <context>
@@ -203,23 +201,23 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Mislykket med at tage et kontinuerligt skærmbilled.</translation>
+        <translation>Fejl ved at tage et kontinuerligt skærmbillede.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Kom til bunden af scrollområdet</translation>
+        <translation>Er nået til bunden af scrollområdet</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>Kom til maksimærlængde</translation>
+        <translation>Er nået til maksimallængde</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>juster opfangerområdet</translation>
+        <translation>justér opfangningsområdet</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Scroll din musescroll eller klik for at tage et scrollskærmbilled</translation>
+        <translation>Scroll din musehjul eller klik for at tage et scrollskærmbillede</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
@@ -369,7 +367,7 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>Start/Optag</translation>
+        <translation>Start/Oppkald</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -381,7 +379,7 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>Hent tekst</translation>
+        <translation>Udtræk tekst</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -415,7 +413,7 @@ eller tryk på genvejen igen, for at stoppe optagelse</translation>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Opfølg</translation>
+        <translation type="unfinished">Optag</translation>
     </message>
 </context>
 <context>
@@ -440,15 +438,15 @@ Hold Shift nede for at tegne en ret linje</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Justér stærken på uskarp (Scroll for at justere det)</translation>
+        <translation>Justér styrken på grynt (Rul for at justere det)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Justér børstestørrelse (Scroll for at justere det)</translation>
+        <translation>Justér børstestørrelse (Rul for at justere det)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Justér tekstdimension (Scroll for at justere det)</translation>
+        <translation>Justér tekststørrelse (Rul for at justere det)</translation>
     </message>
 </context>
 <context>
@@ -456,7 +454,7 @@ Hold Shift nede for at tegne en ret linje</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Klik eller træk for at
+        <translation type="vanished">Klik eller træk for at
 vælge område som skal optages</translation>
     </message>
 </context>
@@ -595,8 +593,8 @@ Hold Shift nede for at tegne en lodret eller vandret linje</translation>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>Pil (X)
-Tryk og hold Shift for at tegne en vertikal eller horisontal pil</translation>
+        <translation>Pile (X)
+Hold Shift nede for at tegne en lodret eller vandret pil</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -604,7 +602,7 @@ Tryk og hold Shift for at tegne en vertikal eller horisontal pil</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>Måske (B)</translation>
+        <translation>Grynt (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -616,7 +614,7 @@ Tryk og hold Shift for at tegne en vertikal eller horisontal pil</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>Udtræk tekst (Alt+O)</translation>
+        <translation>Ekstrakt tekst (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
@@ -632,7 +630,7 @@ Tryk og hold Shift for at tegne en vertikal eller horisontal pil</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Udskærsplade</translation>
+        <translation>Udklipsholder</translation>
     </message>
     <message>
         <source>Pictures</source>
@@ -648,7 +646,7 @@ Tryk og hold Shift for at tegne en vertikal eller horisontal pil</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>Ændr stien ved opbevaring</translation>
+        <translation>Ændr sti ved opbevaring</translation>
     </message>
     <message>
         <source>Format</source>
@@ -688,7 +686,7 @@ Tryk og hold Shift for at tegne en vertikal eller horisontal pil</translation>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>Udtræk tekst</translation>
+        <translation>Ekstrakt tekst</translation>
     </message>
 </context>
 <context>
@@ -706,7 +704,7 @@ Tryk og hold Shift for at tegne en vertikal eller horisontal pil</translation>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>Justér opfølgningsområdet indenfor %1*%2 for at få bedre videoeffekt</translation>
+        <translation>Justér opfølgingsområdet indenfor %1*%2 for bedre videoeffekt</translation>
     </message>
 </context>
 <context>
@@ -724,7 +722,7 @@ Tryk og hold Shift for at tegne en vertikal eller horisontal pil</translation>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Ny optagelse</translation>
+        <translation type="vanished">Ny optagelse</translation>
     </message>
 </context>
 </TS>

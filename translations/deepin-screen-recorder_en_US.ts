@@ -29,11 +29,11 @@ or press the shortcut again to stop recording</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Record</translation>
+        <translation type="vanished">Record</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Screenshot</translation>
+        <translation type="vanished">Screenshot</translation>
     </message>
 </context>
 <context>
@@ -100,7 +100,7 @@ or press the shortcut again to stop recording</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Screenshot failed.</translation>
+        <translation type="vanished">Screenshot failed.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -112,7 +112,7 @@ or press the shortcut again to stop recording</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>deepin-screen-recorder</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -120,7 +120,7 @@ or press the shortcut again to stop recording</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Screenshot finished and copy to clipboard</translation>
     </message>
 </context>
 <context>
@@ -425,37 +425,32 @@ or press the shortcut again to stop recording</translation>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectangle
+Press and hold Shift to draw a square</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellipse
+Press and hold Shift to draw a circle</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation type="unfinished"></translation>
+        <translation>Brush
+Press and hold Shift to draw a straight line</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjust blur strength (Scroll to adjust it)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjust brush size (Scroll to adjust it)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>StartTooltip</name>
-    <message>
-        <source>Click or drag to
-select the area to record</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjust text size (Scroll to adjust it)</translation>
     </message>
 </context>
 <context>
@@ -514,23 +509,23 @@ select the area to record</source>
     </message>
     <message>
         <source>Show keystroke (K)</source>
-        <translation type="unfinished"></translation>
+        <translation>Show keystroke (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hide Keystroke (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation type="unfinished"></translation>
+        <translation>Show Keystroke (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Turn on camera (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Turn off camera (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -542,7 +537,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Settings (F3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Settings (F3)</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -598,7 +593,7 @@ select the area to record</source>
     </message>
     <message>
         <source>System audio</source>
-        <translation type="unfinished"></translation>
+        <translation>System audio</translation>
     </message>
     <message>
         <source>Show pointer</source>
@@ -606,7 +601,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Show click</source>
-        <translation type="unfinished"></translation>
+        <translation>Show click</translation>
     </message>
     <message>
         <source>Videos</source>
@@ -615,50 +610,54 @@ select the area to record</source>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectangle (R)
+Press and hold Shift to draw a square</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellipse (O)
+Press and hold Shift to draw a circle</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>Line (L)
+Press and hold Shift to draw a vertical or horizontal line</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrow (X)
+Press and hold Shift to draw a vertical or horizontal arrow</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencil (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation type="unfinished"></translation>
+        <translation>Blur (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Text (T)</translation>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrollshot (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation type="unfinished"></translation>
+        <translation>Extract text (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation type="unfinished"></translation>
+        <translation>Pin screenshots (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Undo (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
@@ -666,34 +665,34 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Border Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Border Effects</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>None</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Shadow</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Border</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Device</translation>
     </message>
 </context>
 <context>
     <name>ToolBarWidget</name>
     <message>
         <source>Close (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Close (Esc)</translation>
     </message>
     <message>
         <source>OK (Enter)</source>
-        <translation type="unfinished"></translation>
+        <translation>OK (Enter)</translation>
     </message>
 </context>
 <context>
@@ -712,13 +711,6 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <source>Exit</source>
         <translation>Exit</translation>
-    </message>
-</context>
-<context>
-    <name>VoiceRecordProcess</name>
-    <message>
-        <source>New recording</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

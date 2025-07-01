@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="pl">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="pl">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ lub naciśnij ponownie skrót, aby zatrzymać nagrywanie</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Nagrywanie</translation>
+        <translation type="vanished">Nagrywanie</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Zrzut ekranu</translation>
+        <translation type="vanished">Zrzut ekranu</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ lub naciśnij ponownie skrót, aby zatrzymać nagrywanie</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Zrzut ekranu nie powiódł się.</translation>
+        <translation type="vanished">Zrzut ekranu nie powiódł się.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ lub naciśnij ponownie skrót, aby zatrzymać nagrywanie</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ lub naciśnij ponownie skrót, aby zatrzymać nagrywanie</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Zrzut ekranu zakończony i skopiowany do schowka</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Przytrzymaj Shift, aby rysować prostą linię</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Kliknij lub przeciągnij do zaznaczonego
+        <translation type="vanished">Kliknij lub przeciągnij do zaznaczonego
 obszaru, aby zacząć nagrywać</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Przytrzymaj Shift, aby rysować pionową lub poziomą strzałkę</translation>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Nowe nagranie</translation>
+        <translation type="vanished">Nowe nagranie</translation>
     </message>
 </context>
 </TS>

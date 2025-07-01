@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="nl">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="nl">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ of druk nogmaals op de sneltoets om te stoppen</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Opnemen</translation>
+        <translation type="vanished">Opnemen</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Schermfoto</translation>
+        <translation type="vanished">Schermfoto</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ of druk nogmaals op de sneltoets om te stoppen</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>De schermfoto kan niet worden gemaakt.</translation>
+        <translation type="vanished">De schermfoto kan niet worden gemaakt.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ of druk nogmaals op de sneltoets om te stoppen</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ of druk nogmaals op de sneltoets om te stoppen</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Schermopname voltooid en gekopieerd naar het klembord</translation>
+        <translation>Schermopname voltooid en gekopieerd naar klembord</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Houd Shift ingedrukt om een rechte lijn te trekken</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Klik of sleep om
+        <translation type="vanished">Klik of sleep om
 het opnamegebied te kiezen</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Houd Shift ingedrukt om een verticale of horizontale pijl te tekenen</translatio
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Opname maken</translation>
+        <translation type="vanished">Opname maken</translation>
     </message>
 </context>
 </TS>

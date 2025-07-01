@@ -4,23 +4,22 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>սեղմեք տրեյ իկոնը
-կամ կրկին սեղմեք կրճատագրությունը դադարեցնելու համար</translation>
+        <translation>Տրեյ իկոնը կտանք կամ կրկնեք կրճատագրությունը կասեցնելու համար</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>հաշտեք ձեր էկրանը գրանցման ընթացքում</translation>
+        <translation>Ընթացիկ կրճատագրությունին մի պտտեք ձեր էկրանը</translation>
     </message>
 </context>
 <context>
     <name>IconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Պատման կոպիա</translation>
+        <translation>Սկրինշոոթ</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Գրանցում</translation>
+        <translation>Կրճատագրություն</translation>
     </message>
 </context>
 <context>
@@ -31,42 +30,42 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Պատման կոպիա</translation>
+        <translation>Սկրինշոոթ</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>Էկրանի գրանցում</translation>
+        <translation>Էկրանի կորուստ</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>Պահպանումը անհաջողվել է։ Խնդրում ենք պահպանեք ձեր տունը կատարելու համար</translation>
+        <translation>Պահպանումը սխալ էր։ Խնդրում ենք պահպանեք ձեր տունը կամարանում</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Դիտել</translation>
+        <translation>Տեսական</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>Պատման կոպիան ավարտվել է</translation>
+        <translation>Սկրինշոոթը ավարտված է</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
-        <translation>տիրումը ընտրել</translation>
+        <translation>տողական տիրույթը ընտրել</translation>
     </message>
     <message>
         <source>Save</source>
@@ -74,7 +73,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>Պահպանվել է %1 մեջ</translation>
+        <translation>Պահպանվել է %1</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -82,51 +81,50 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Կոպիավորում</translation>
+        <translation>Փոքրաբանական</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Էկրանի գրանցման նիւթը պահպանում ենք, խնդրում ենք սպասեք...</translation>
+        <translation>Էկրանի կրճատագրության ֆայլը պահպանվում է, խնդրում ենք կանգուն մնաք...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Ինչպես նախատեսված է, գրանցման ընթացքում պատուհանի ազդեցությունը անակտիվ է, և գրանցումը պետք է
-դադարեցնել</translation>
+        <translation>Ընթացիկ ընթացքում պատուհանի արտևարդ անակտիվ է, կրճատագրությունը պետք է կասեցնել</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Պատման կոպիա</translation>
+        <translation>Սկրինշոոթ</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Պատման կոպիան անհաջողվել է։</translation>
+        <translation>Սկրինշոոթը սխալ էր։</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>Շարժանկար</translation>
+        <translation>Շոոլշոոթ</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Փակել պատման կոպիան</translation>
+        <translation>Փակել սկրինշոոթները</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Բացել պատուհանը</translation>
+        <translation>Բացել պայուստը</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Պատման կոպիան ավարտվել է և կոպիավորվել է կոպիային</translation>
+        <translation>Սկրինշոոթը ավարտված է և կապակցված է փոքրաբանականին</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>Չափահասակն անել</translation>
+        <translation>Վերացնել</translation>
     </message>
     <message>
         <source>Save</source>
@@ -141,7 +139,7 @@ or press the shortcut again to stop recording</source>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>կցել սկրինշոթները</translation>
+        <translation>Սկրինշոթները կցել է</translation>
     </message>
 </context>
 <context>
@@ -152,7 +150,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Record</source>
-        <translation>Գրանցում</translation>
+        <translation>Գրանցել</translation>
     </message>
 </context>
 <context>
@@ -170,7 +168,7 @@ or press the shortcut again to stop recording</source>
     <name>RecordProcess</name>
     <message>
         <source>View</source>
-        <translation>Դիտել</translation>
+        <translation>Տեսական</translation>
     </message>
     <message>
         <source>Recording finished</source>
@@ -178,57 +176,57 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>Արхիվավորվել է %1</translation>
+        <translation>Պարզվել է %1</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Գրանցում</translation>
+        <translation>Գրանցել</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Բացել պայում</translation>
+        <translation>Բացել պայմանական</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>Դիտարկումը սկսվի մեկն այս վայրկյաններում</translation>
+        <translation>Սկրինշոթը սկսվի կարող է %1 վայրկյան հետո</translation>
     </message>
 </context>
 <context>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>Ուղեկցություն ստանալ</translation>
+        <translation>Օգնություն ստանալ</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Չի հնարավոր լինում առանցքային սկրինշոթ առանց անընդմեջության</translation>
+        <translation>Կատարվեց ստուգումը շարունակական սկրինշոթը</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Ծանրացել է սլայդի վերջը</translation>
+        <translation>Ծանրաբեռնված է սլայդի վերջը</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>Ծանրացել է առավելագույն երկարությունը</translation>
+        <translation>Ծանրաբեռնված է ամենամեծ երկարությունը</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>խոշորացրեք ստուգման տարածքը</translation>
+        <translation>համապատասխանեցնել ստացման տարածքը</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Փոխանցեք ձեր մուզ կամ սեղմեք, որպեսզի առանցքային սկրինշոթ վերցնեք</translation>
+        <translation>Շարժեք ձեր մուսլի կամ կտտեք համապատասխանեցնելու համար ստուգումը</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>Փոքրացրեք սլայդի արագությունը</translation>
+        <translation>Ուժեղացրեք շարժման արագությունը</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>Անվավեր տարածք, սեղմեք, </translation>
+        <translation>Ուղիղ տարածք, կտտը՝ </translation>
     </message>
 </context>
 <context>
@@ -246,19 +244,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>Ելք/Պահպանել</translation>
+        <translation>Դուրս գալ/Պահպանել</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>Չափերի ավելացումը</translation>
+        <translation>Չափերի համապատասխանում</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Կարգավորումները</translation>
+        <translation>Կարգավորումներ</translation>
     </message>
     <message>
         <source>Quick start</source>
-        <translation>Արագ սկսել</translation>
+        <translation>Արագ սկիզբ</translation>
     </message>
     <message>
         <source>Window screenshot</source>
@@ -266,7 +264,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>Ժամանակահատվածով սկرինշոթ</translation>
+        <translation>Ուշադրություն ստուգում</translation>
     </message>
     <message>
         <source>Full screenshot</source>
@@ -274,7 +272,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Ելք</translation>
+        <translation>Դուրս գալ</translation>
     </message>
     <message>
         <source>Save</source>
@@ -286,15 +284,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation>Էլլիպս</translation>
+        <translation>Բեկուռ</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>Տող</translation>
+        <translation>Տետրաբան</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>Փոքրագույն գրիչ</translation>
+        <translation>Փոքրիկ մատիտ</translation>
     </message>
     <message>
         <source>Text</source>
@@ -310,7 +308,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>Բարձրացնել բարձրությունը վերև</translation>
+        <translation>Բարձրացնել բարձրությունը վեր</translation>
     </message>
     <message>
         <source>Increase height down</source>
@@ -326,19 +324,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>Ծանրացնել բարձրությունը վերև</translation>
+        <translation>Ընթացիկ բարձրությունը վեր նվազել</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>Ծանրացնել բարձրությունը ներքև</translation>
+        <translation>Ընթացիկ բարձրությունը ներքև նվազել</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>Ծանրացնել լայնությունը ձախ</translation>
+        <translation>Ընթացիկ լայնությունը ձախ նվազել</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>Ծանրացնել լայնությունը աջ</translation>
+        <translation>Ընթացիկ լայնությունը աջ նվազել</translation>
     </message>
     <message>
         <source>Help</source>
@@ -346,7 +344,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>Ցույց տալ կարճավորողները</translation>
+        <translation>Ցուցադրել կրճատականները</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -354,7 +352,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>Համապատասխան կոճակը</translation>
+        <translation>Կոճակային արտահայտություն</translation>
     </message>
     <message>
         <source>Webcam</source>
@@ -362,35 +360,35 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Start recording</source>
-        <translation>Սկսել գրանցումը</translation>
+        <translation>Սկսել գրառումը</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Ծանրացումներ</translation>
+        <translation>Ընտրություններ</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>Սկսել/Գրանցումը</translation>
+        <translation>Սկսել/Գրառում</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation>Մուսոր</translation>
+        <translation>Կոմուտ</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Օրոշումներ</translation>
+        <translation>Օրոքներ</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>Ստացել տեքստը</translation>
+        <translation>Առանձնացնել տեքստը</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>Փոքրացված կամերա</translation>
+        <translation>Շոլում կոճատական</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>Ամրապնդել գրաֆիկները</translation>
+        <translation>Փակել սկրինշոթները</translation>
     </message>
     <message>
         <source>Start OCR</source>
@@ -398,25 +396,25 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>Սկսել փոքրացված կամերա</translation>
+        <translation>Սկսել շոլում կոճատական</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation>Ընթացիկ</translation>
+        <translation>Կողմանկյուն</translation>
     </message>
 </context>
 <context>
     <name>ShotStartPlugin</name>
     <message>
         <source>Screenshot</source>
-        <translation>Պատկերացուցակ</translation>
+        <translation>Սկրինշոոթ</translation>
     </message>
 </context>
 <context>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Գրանցել</translation>
+        <translation>Անցանկ</translation>
     </message>
 </context>
 <context>
@@ -425,31 +423,31 @@ or press the shortcut again to stop recording</source>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>Քառակուսի
-Shift-ը տանել էլիկեր է ստեղծելու համար</translation>
+Shift ստանձնելը միացրու և անցանկ ներկել քառակուսի</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
         <translation>Շրջան
-Shift-ը տանել էլիկեր է ստեղծելու համար</translation>
+Shift ստանձնելը միացրու և անցանկ ներկել շրջան</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>Քարանձանիկ
-Shift-ը տանել էլիկեր է ստեղծելու համար</translation>
+        <translation>Բրուշ
+Shift ստանձնելը միացրու և անցանկ ներկել ուղիղ գծի</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Սահմանափակել անթաղանթում ուժը (սահել փոխելու համար)</translation>
+        <translation>Սահմանափակել հանգստի ուժը (սահել դրան համապատասխանաբար)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Սահմանափակել քարանձանիկի չափը (սահել փոխելու համար)</translation>
+        <translation>Սահմանափակել բրուշի չափը (սահել դրան համապատասխանաբար)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Սահմանափակել տեքստի չափը (սահել փոխելու համար)</translation>
+        <translation>Սահմանափակել տեքստի չափը (սահել դրան համապատասխանաբար)</translation>
     </message>
 </context>
 <context>
@@ -457,35 +455,35 @@ Shift-ը տանել էլիկեր է ստեղծելու համար</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Կտտի կամ քաշիր ՝
-ընտրել գրանցման տարածքը</translation>
+        <translation>Ծսկել կամ քաշել ուղղակի
+ընտրել անցանկի տարածքը</translation>
     </message>
 </context>
 <context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Ցույց տալ կոճակային գործողությունը (K)</translation>
+        <translation>Ցույց տալ կոճակի կողմնորոշումը (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Անցույց տալ կոճակային գործողությունը (K)</translation>
+        <translation>Փակել կոճիկի կողմնորոշումը (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Ցույց տալ կոճակային գործողությունը (K)</translation>
+        <translation>Ցույց տալ կոճակի կողմնորոշումը (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>Բացել քամերան (C)</translation>
+        <translation>Ծանրական կանգնեցնել (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>Փակել քամերան (C)</translation>
+        <translation>Ծանրական հանգստացնել (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Պատկերացուցակ</translation>
+        <translation>Սկրինշոոթ</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -497,47 +495,47 @@ select the area to record</source>
     </message>
     <message>
         <source>Format:</source>
-        <translation>Ձևանուակը:</translation>
+        <translation>Ձևանիշ:</translation>
     </message>
     <message>
         <source>GIF</source>
-        <translation>ԳԻՖ</translation>
+        <translation>GIF</translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation>ՄՊ4</translation>
+        <translation>MP4</translation>
     </message>
     <message>
         <source>MKV</source>
-        <translation>ՄԿՎ</translation>
+        <translation>MKV</translation>
     </message>
     <message>
         <source>webm</source>
-        <translation>վեբմ</translation>
+        <translation>webm</translation>
     </message>
     <message>
         <source>FPS:</source>
-        <translation>ՖՊՍ:</translation>
+        <translation>FPS:</translation>
     </message>
     <message>
         <source>5 fps</source>
-        <translation>5 ֆպս</translation>
+        <translation>5 fps</translation>
     </message>
     <message>
         <source>10 fps</source>
-        <translation>10 ֆպս</translation>
+        <translation>10 fps</translation>
     </message>
     <message>
         <source>20 fps</source>
-        <translation>20 ֆպս</translation>
+        <translation>20 fps</translation>
     </message>
     <message>
         <source>24 fps</source>
-        <translation>24 ֆպս</translation>
+        <translation>24 fps</translation>
     </message>
     <message>
         <source>30 fps</source>
-        <translation>30 ֆպս</translation>
+        <translation>30 fps</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -549,19 +547,19 @@ select the area to record</source>
     </message>
     <message>
         <source>System audio</source>
-        <translation>Համակարգի աուդիո</translation>
+        <translation>Սիստեմական ձայն</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Տարբերակներ</translation>
+        <translation>Ընտրանքնախարարություններ</translation>
     </message>
     <message>
         <source>Show pointer</source>
-        <translation>Ցույց տալ ցուցիչը</translation>
+        <translation>Ցույց տալ ցուցիկը</translation>
     </message>
     <message>
         <source>Show click</source>
-        <translation>Ցույց տալ կտտումն ուղղությամբ</translation>
+        <translation>Ցույց տալ կլիկը</translation>
     </message>
     <message>
         <source>Save to</source>
@@ -569,43 +567,43 @@ select the area to record</source>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>Ամրակալ</translation>
+        <translation>Սեղան</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Տեսանյութեր</translation>
+        <translation>Ֆիլմեր</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>Ուղղանկյուն (R)
-Սեղմեք Shift-ը և պահեք կարդալ քառակուսի</translation>
+        <translation>Քառակուսի (R)
+Շիֆթը ճնշելով կարող եք նկարագրել քառակուսի</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>Էլլիպս (O)
-Սեղմեք Shift-ը և պա保持 կարդալ շրջան</translation>
+        <translation>Կառուցվածք (O)
+Շիֆթը ճնշելով կարող եք նկարագրել կլոր</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>Տող (L)
-Սեղմեք Shift-ը և պահեք կարդալ ուղղաձիգ կամ անկյունային տող</translation>
+        <translation>Տանգենտ (L)
+Շիֆթը ճնշելով կարող եք նկարագրել ուղղահայաց կամ հորիզոնական տանգենտ</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>Ծայրագծային (X)
-Սեղմեք Shift-ը և պահեք կարդալ ուղղաձիգ կամ անկյունային գծային</translation>
+        <translation>Ծայրավոր (X)
+Շիֆթը ճնշելով կարող ենք նկարագրել ուղղահայաց կամ հորիզոնական ծայրավոր</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>Փոքրիկ գին (P)</translation>
+        <translation>Կույտ (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>Բլոռել (B)</translation>
+        <translation>Ծայրավոր (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -613,27 +611,27 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>Շարժվող կողմ (Alt+I)</translation>
+        <translation>Շարժվող նկար (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>Բացահայտել տեքստը (Alt+O)</translation>
+        <translation>Ընդունել տվյալներ (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>Փակել կողմը (Alt+P)</translation>
+        <translation>Փակել նկարները (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>Ընթացիկ հետ վերադառնալ (Ctrl+Z)</translation>
+        <translation>Վերադառնալ (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Գրանցել</translation>
+        <translation>Հաստատել</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Կոպիան</translation>
+        <translation>Փոքրաբանական</translation>
     </message>
     <message>
         <source>Pictures</source>
@@ -641,19 +639,19 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Փոքրիկ պահեստարան</translation>
+        <translation>Փաթեթ</translation>
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>Ընտրել ճանա path պահպանման ընթացիկ</translation>
+        <translation>Պահպանելու անց ճանապարհը սահմանել</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>Փոխել ճանա path պահպանման ընթացիկ</translation>
+        <translation>Պահպանելու անց ճանապարհը փոխել</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Ձևանուակ</translation>
+        <translation>Ձևանիշ</translation>
     </message>
     <message>
         <source>PNG</source>
@@ -673,11 +671,11 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>None</source>
-        <translation>Ընտրություն չկա</translation>
+        <translation>Ընտրված</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>Ստորագրություն</translation>
+        <translation>Գունավորում</translation>
     </message>
     <message>
         <source>Border</source>
@@ -685,11 +683,11 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Device</source>
-        <translation>Սարք</translation>
+        <translation>Գործիք</translation>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>Տեքստ հանել</translation>
+        <translation>Տեքստի հանում</translation>
     </message>
 </context>
 <context>
@@ -707,25 +705,25 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>Շարժման տարածքը կարող է ավելի լավ տեսարանի ազդեցություն ստանալ %1*%2-ում</translation>
+        <translation>Խորացրեք ձայնագրման տարածքը %1*%2-ի մեջ, որպեսզի ստացվի ավելի լավ տեսանյութի ազդեցություն</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>Ըստ այս պահի էկրանի շարժումը բացառված է</translation>
+        <translation>Ընթացիկ ընթացքում սքրեեն ձայնագրությունը ստեղծելու հնարավորուность չկա</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Ելք</translation>
+        <translation>Դուրս գալ</translation>
     </message>
 </context>
 <context>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Նոր շարժում</translation>
+        <translation>Նոր ձայնագրություն</translation>
     </message>
 </context>
 </TS>

@@ -4,12 +4,12 @@
     <message>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>Apăsați pe icoana cutiei de coș
-sau apăsați din nou pe scurtcut pentru a opri înregistrarea</translation>
+        <translation>Apăsați pe icoana de panou
+sau apăsați din nou pe atajă pentru a opri înregistrarea</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>Nu rotiți ecranul în timpul înregistrării</translation>
+        <translation>Nu rotați ecranul în timpul înregistrării</translation>
     </message>
 </context>
 <context>
@@ -38,11 +38,11 @@ sau apăsați din nou pe scurtcut pentru a opri înregistrarea</translation>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>Capturare ecran</translation>
+        <translation>Captură ecran</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>Salvarea a eșuat. Vă rugăm să salvați în directorul dvs. de pornire.</translation>
+        <translation>Salvarea a eșuat. Vă rugăm să salvați în directorul dumneavoastră personal.</translation>
     </message>
     <message>
         <source>View</source>
@@ -50,105 +50,105 @@ sau apăsați din nou pe scurtcut pentru a opri înregistrarea</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>Captură ecran finalizată</translation>
-    </message>
-    <message>
-        <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
-    </message>
-    <message>
-        <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
-    </message>
-    <message>
-        <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
-    </message>
-    <message>
-        <source>select-area</source>
-        <translation>select-area</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Salvare</translation>
-    </message>
-    <message>
-        <source>Saved to %1</source>
-        <translation>Salvat în %1</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation>Ignorare</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>Clipboard</translation>
-    </message>
-    <message>
-        <source>Saving the screen recording file, please wait...</source>
-        <translation>Se salvează fișierul de înregistrare ecran, vă rugăm așteptați...</translation>
-    </message>
-    <message>
-        <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>După cum efectul ferestrei este dezactivat în timpul procesului, înregistrarea trebuie
-oprită</translation>
-    </message>
-    <message>
-        <source>Screenshot</source>
         <translation>Captură ecran</translation>
     </message>
     <message>
+        <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
+        <translation>Captură ecran finalizată</translation>
+    </message>
+    <message>
+        <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
+        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+    </message>
+    <message>
+        <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
+        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+    </message>
+    <message>
+        <source>select-area</source>
+        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>select-area</translation>
+    </message>
+    <message>
+        <source>Saved to %1</source>
+        <translation>Salvare</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Salvat în %1</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>Ignorare</translation>
+    </message>
+    <message>
+        <source>Saving the screen recording file, please wait...</source>
+        <translation>Clipboard</translation>
+    </message>
+    <message>
+        <source>As the window effect is disabled during the process, the recording has to be stopped</source>
+        <translation>Salvarea fișierului de înregistrare ecran, vă rugăm așteptați...</translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation>În timpul procesului, efectul ferestrei este dezactivat, înregistrarea trebuie
+să fie opriți</translation>
+    </message>
+    <message>
         <source>Screenshot failed.</source>
-        <translation>Capturarea ecranului a eșuat.</translation>
+        <translation>Captură ecran</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>Scrollshot</translation>
+        <translation>Captură ecran eșuată.</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Fixare capturi ecran</translation>
+        <translation>Scrollshot</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation>Fixare Captură ecran</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Deschideți dosarul</translation>
+        <translation>deepin-screen-recorder</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Captură ecran finalizată și copiată în clipboard</translation>
+        <translation>Deschideți dosarul</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>Anulare</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvare</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Ieșire</translation>
+        <translation>Salvare</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>Fixarea ecranului</translation>
+        <translation>Fixare capture</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Ecran capturat</translation>
+        <translation>Capture</translation>
     </message>
     <message>
         <source>Record</source>
@@ -159,7 +159,7 @@ oprită</translation>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Ecran capturat</translation>
+        <translation>Capture</translation>
     </message>
     <message>
         <source>Recording</source>
@@ -193,7 +193,7 @@ oprită</translation>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>Capturarea ecranului va începe în %1 secunde</translation>
+        <translation>Captura ecranului va începe în %1 secunde</translation>
     </message>
 </context>
 <context>
@@ -204,11 +204,11 @@ oprită</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Eșec la luarea unui ecran continuu.</translation>
+        <translation>Eșec la luarea unei capture continue.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Ați ajuns la partea de jos a zonei de scroll</translation>
+        <translation>Ați ajuns la fundul zonei de derulare</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
@@ -216,37 +216,37 @@ oprită</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>ajustează zona de capturare</translation>
+        <translation>adaugați zona de capturare</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Răsucește roata mouse-ului sau apasă pentru a lua un ecran scroll</translation>
+        <translation>Derulați roata de mouse sau faceți clic pentru a lua o capture derulată</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>Încetinește viteza de scroll</translation>
+        <translation>Ridicați viteza de derulare</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>Zonă invalidă, apasă pentru </translation>
+        <translation>Zonă invalidă, faceți clic pentru </translation>
     </message>
 </context>
 <context>
     <name>ShapesWidget</name>
     <message>
         <source>Input text here</source>
-        <translation>Introdu text aici</translation>
+        <translation>Introduceți textul aici</translation>
     </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>Pornire/Ecran capturat</translation>
+        <translation>Pornire/Capturare</translation>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>Ieșire/Salvare</translation>
+        <translation>Ieșire/ Salvare</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
@@ -262,15 +262,15 @@ oprită</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>Ecranul ferestrei</translation>
+        <translation>Capturare fereastră</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>Ecran capturat cu întârziere</translation>
+        <translation>Capturare întârziată</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>Ecran complet</translation>
+        <translation>Capturare completă</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -346,7 +346,7 @@ oprită</translation>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>Afișează scurtături</translation>
+        <translation>Afișează atajamente</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -354,7 +354,7 @@ oprită</translation>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>Combinare de taste</translation>
+        <translation>Atajament</translation>
     </message>
     <message>
         <source>Webcam</source>
@@ -390,7 +390,7 @@ oprită</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>Fixează screenshot-urile</translation>
+        <translation>Fixează capturile de ecran</translation>
     </message>
     <message>
         <source>Start OCR</source>
@@ -425,31 +425,31 @@ oprită</translation>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>Pătrat
-Apasă și ține apăsat Shift pentru a desena un pătrat</translation>
+Apasați și mențineți Shift pentru a desena un pătrat</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
         <translation>Elipsă
-Apasă și ține apăsat Shift pentru a desena un cerc</translation>
+Apasați și mențineți Shift pentru a desena un cerc</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>Pinsul
-Apasă și ține apăsat Shift pentru a desena o linie dreaptă</translation>
+        <translation>Brașă
+Apasați și mențineți Shift pentru a desena o linie dreaptă</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Ajustează intensitatea de fluer (Derulează pentru a o ajusta)</translation>
+        <translation>Ajustați intensitatea de fluer (Scrollați pentru a ajusta)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Ajustează dimensiunea pinsului (Derulează pentru a o ajusta)</translation>
+        <translation>Ajustați dimensiunea brașei (Scrollați pentru a ajusta)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Ajustează dimensiunea textului (Derulează pentru a o ajusta)</translation>
+        <translation>Ajustați dimensiunea textului (Scrollați pentru a ajusta)</translation>
     </message>
 </context>
 <context>
@@ -457,31 +457,30 @@ Apasă și ține apăsat Shift pentru a desena o linie dreaptă</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Apasă sau trage pentru a
-selecta zona de înregistrare</translation>
+        <translation>Faceți click sau trageți pentru a selecta zona de înregistrare</translation>
     </message>
 </context>
 <context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Arată tasta de acces (K)</translation>
+        <translation>Arată tastă (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Ascunde tasta de acces (K)</translation>
+        <translation>Ascunde tastă (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Arată tasta de acces (K)</translation>
+        <translation>Arată tastă (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>Activează camera (C)</translation>
+        <translation>Activează cameră (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>Dezactivează camera (C)</translation>
+        <translation>Dezactivează cameră (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -549,7 +548,7 @@ selecta zona de înregistrare</translation>
     </message>
     <message>
         <source>System audio</source>
-        <translation>Sunetul sistemului</translation>
+        <translation>Sunet de sistem</translation>
     </message>
     <message>
         <source>Options</source>
@@ -617,11 +616,11 @@ Apasă și ține apăsat Shift pentru a desena o săgeată verticală sau orizon
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>Extrage text (Alt+O)</translation>
+        <translation>Extrage textul (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>Fixează screenshot-urile (Alt+P)</translation>
+        <translation>Fixează capturile de ecran (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -641,7 +640,7 @@ Apasă și ține apăsat Shift pentru a desena o săgeată verticală sau orizon
     </message>
     <message>
         <source>Folder</source>
-        <translation>Folder</translation>
+        <translation>Dosar</translation>
     </message>
     <message>
         <source>Set a path on save</source>
@@ -689,7 +688,7 @@ Apasă și ține apăsat Shift pentru a desena o săgeată verticală sau orizon
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>Extrage text</translation>
+        <translation>Extraudă text</translation>
     </message>
 </context>
 <context>
@@ -707,7 +706,7 @@ Apasă și ține apăsat Shift pentru a desena o săgeată verticală sau orizon
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>Reglează zona de înregistrare în interiorul %1*%2 pentru a obține un efect video mai bun</translation>
+        <translation>Reglează zona de înregistrare în %1*%2 pentru un efect video mai bun</translation>
     </message>
 </context>
 <context>

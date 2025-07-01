@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="bo">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="bo">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ or press the shortcut again to stop recording</source>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>བརྙན་ཕབ།</translation>
+        <translation type="vanished">བརྙན་ཕབ།</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>བརྙན་བཤུས།</translation>
+        <translation type="vanished">བརྙན་བཤུས།</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>པར་དྲས་མ་ཐུབ།</translation>
+        <translation type="vanished">པར་དྲས་མ་ཐུབ།</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation>དེའུ་སྔོན་གྱི་རྗེས་འཇུག་བཟོ་སྒྲིག་ཆ་</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>སྤྱིར་ཟླ་བཞིན་གྱི་རླབས་བྱེད་པ་དང་པོ་སྐྱེད་ཞིང་གི་བེད་སྐྱེད་བྱེད་པ་ཡིན།</translation>
+        <translation>གཞོན་གྱི་སྐྱོང་བཤད་བྱས་ཏེ་པྲིན་ལྷག་གི་གཞོན་གྱི་རྩ་བ་ལ་བཤེར་བཤད་བྱེད་པ།</translation>
     </message>
 </context>
 <context>
@@ -162,7 +164,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Recording</source>
-        <translation>གྱི་རླབས་བྱེད་པ་ཡིན།</translation>
+        <translation type="unfinished">བརྙན་ཕབ།</translation>
     </message>
 </context>
 <context>
@@ -452,14 +454,6 @@ Shiftམནན་ནས་དྲང་ཐིག་འབྲི་ཐུབ།</t
     </message>
 </context>
 <context>
-    <name>StartTooltip</name>
-    <message>
-        <source>Click or drag to
-select the area to record</source>
-        <translation>གྲླབས་བྱེད་པ་དང་པོ་སྐྱེད་ཞིང་གི་རླབས་བྱེད་པ་རེད་འདུག</translation>
-    </message>
-</context>
-<context>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
@@ -717,13 +711,6 @@ Shiftམནན་ནས་ཐད་དཔྱང་དང་ཆུ་སྙོམ
     <message>
         <source>Exit</source>
         <translation>ཕྱིར་འཐེན།</translation>
-    </message>
-</context>
-<context>
-    <name>VoiceRecordProcess</name>
-    <message>
-        <source>New recording</source>
-        <translation>གསར་གྱི་རླབས་བྱེད་པ་ཡིན།</translation>
     </message>
 </context>
 </TS>

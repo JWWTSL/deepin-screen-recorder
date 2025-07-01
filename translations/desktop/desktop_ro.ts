@@ -9,12 +9,12 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>Captură Ecran După</translation>
+        <translation>Captură Ecran întârziată</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>Captură Ecran Completă</translation>
+        <translation>Captură Ecran completă</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

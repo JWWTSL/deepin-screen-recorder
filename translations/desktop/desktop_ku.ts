@@ -4,27 +4,27 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>Deepin ناچووکری</translation>
+        <translation>Deepin Pêşkiriya Ekran</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>نێدەرکردنی ناچووکری</translation>
+        <translation>Bijîn Screenshot</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>ناچووکری کۆمەڵە</translation>
+        <translation>Screenshot Kêmî</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Record screen</source>
-        <translation>بەرکردنی شیان</translation>
+        <translation>Videyo Ekran</translation>
     </message>
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>ناچووکری شیان</translation>
+        <translation>Pêşkiriya Ekran</translation>
     </message>
 </context>
 </TS>

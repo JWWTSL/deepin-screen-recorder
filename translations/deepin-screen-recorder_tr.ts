@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="tr">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ tepsi simgesine tıklayın ya da kısayola yeniden basın</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Kayıt</translation>
+        <translation type="vanished">Kayıt</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Ekran Görüntüsü</translation>
+        <translation type="vanished">Ekran Görüntüsü</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ tepsi simgesine tıklayın ya da kısayola yeniden basın</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Ekran görüntüsü başarısız oldu.</translation>
+        <translation type="vanished">Ekran görüntüsü başarısız oldu.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ tepsi simgesine tıklayın ya da kısayola yeniden basın</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -147,22 +149,22 @@ tepsi simgesine tıklayın ya da kısayola yeniden basın</translation>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Ekran görüntüsü</translation>
+        <translation type="unfinished">Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Kaydet</translation>
+        <translation type="unfinished">Kayıt</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Ekran görüntüsü</translation>
+        <translation type="unfinished">Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Kayıt</translation>
+        <translation type="unfinished">Kaydediyor</translation>
     </message>
 </context>
 <context>
@@ -415,7 +417,7 @@ tepsi simgesine tıklayın ya da kısayola yeniden basın</translation>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Kaydet</translation>
+        <translation type="unfinished">Kayıt</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Düz bir çizgi çizmek için Shift tuşunu basılı tutun</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Kaydedilecek alanı
+        <translation type="vanished">Kaydedilecek alanı
 seçmek için tıklayın ya da sürükleyin</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Dikey veya yatay ok çizmek için Shift tuşunu basılı tutun</translation>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Yeni kayıt</translation>
+        <translation type="vanished">Yeni kayıt</translation>
     </message>
 </context>
 </TS>

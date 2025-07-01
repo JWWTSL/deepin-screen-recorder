@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="gl_ES">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="gl_ES">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ ou prema de novo o atallo para deixar de gravar</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Gravar</translation>
+        <translation type="vanished">Gravar</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Captura de pantalla</translation>
+        <translation type="vanished">Captura de pantalla</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ ou prema de novo o atallo para deixar de gravar</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Produciuse un erro na captura de pantalla.</translation>
+        <translation type="vanished">Produciuse un erro na captura de pantalla.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ ou prema de novo o atallo para deixar de gravar</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ ou prema de novo o atallo para deixar de gravar</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Captura finalizada e copiar ao portapapeles</translation>
+        <translation>Captura de pantalla finalizada e copiar ao portapapeis</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Manteña premida a tecla Maiúsculas para debuxar unha liña recta</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Fai clic ou arrastra
+        <translation type="vanished">Fai clic ou arrastra
 para seleccionar a área a gravar</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Manteña premida a tecla Maiúsculas para debuxar unha frecha vertical ou horizo
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Nova gravación</translation>
+        <translation type="vanished">Nova gravación</translation>
     </message>
 </context>
 </TS>

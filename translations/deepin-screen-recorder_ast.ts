@@ -9,7 +9,7 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>No rotéis la pantalla durante la grabación</translation>
+        <translation>No rotéis ecran duriante la grabación</translation>
     </message>
 </context>
 <context>
@@ -42,7 +42,7 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>El salvu faló. Por favor, guárdalo en el directoriu de tu home</translation>
+        <translation>Error d&apos;almacenamiento. Por favor, guárdalo en tu directorio de inicio.</translation>
     </message>
     <message>
         <source>View</source>
@@ -50,7 +50,7 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
-        <translation>Captura de pantalla terminada</translation>
+        <translation>Captura de pantalla finalizada</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
@@ -66,11 +66,11 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>select-area</source>
-        <translation>seleccionar área</translation>
+        <translation>selecciona un área</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Saved to %1</source>
@@ -86,11 +86,13 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>Guardando el archivo de grabación de pantalla, por favor espera...</translation>
+        <translation>Guardando o fitxero de grabación de pantalla, por favor, espera...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>Como l&apos;efectu de ventana ta desactiváu durante el proceso, la grabación tiene de ser parada</translation>
+        <translation>&gt;-
+Como efeu de ventanu ta desactiváu durante e proceso, la grabación tien de
+ser parada</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -98,7 +100,7 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Captura de pantalla faló.</translation>
+        <translation>Captura de pantalla fallida.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,22 +120,22 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Captura de pantalla terminada y copiada al portapapeles</translation>
+        <translation>Captura de pantalla finalizada y copiada en el portapapeles</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>Deshacer</translation>
+        <translation>Desfacer</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Sair</translation>
     </message>
 </context>
 <context>
@@ -177,7 +179,7 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>Guardáu en %1</translation>
+        <translation>Guardau en %1</translation>
     </message>
     <message>
         <source>Record</source>
@@ -199,53 +201,53 @@ primir nel atayu pa dexar de grabar</translation>
     <name>ScrollShotTip</name>
     <message>
         <source>Get help.</source>
-        <translation>Consulter ayuda.</translation>
+        <translation>Toma ayuda.</translation>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>Falló na toma d&apos;una captura continua.</translation>
+        <translation>Falló na toma de una captura de pantalla continua.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>Llegáu al final de l&apos;área de desplazamiento</translation>
+        <translation>Llegaste al fondo del área de desplazamiento</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>Llegáu al llargor máximo</translation>
+        <translation>Llegaste al máximo de longitud</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>Ajusta l&apos;área de captura</translation>
+        <translation>ajusta el área de captura</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Desplázate col ruedu del ratón o clicar pa tomar una captura de pantalla desplazable</translation>
+        <translation>Desplaza el rodillo del ratón o haz clic pa tomar una captura de pantalla de desplazamiento</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>Amorrece la velocidá de desplazamiento</translation>
+        <translation>Despúes el velocidat del desplazamiento</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>Área inválida, clicar pa </translation>
+        <translation>Área inválida, haz clic pa </translation>
     </message>
 </context>
 <context>
     <name>ShapesWidget</name>
     <message>
         <source>Input text here</source>
-        <translation>Introduzir texto aquí</translation>
+        <translation>Introduzir testo aquí</translation>
     </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
         <source>Start/Screenshot</source>
-        <translation>Empezar/Captura</translation>
+        <translation>Iniciar/Captura de pantalla</translation>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>Salir/Guardar</translation>
+        <translation>Sair/Gardar</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
@@ -261,23 +263,23 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>Captura de ventanu</translation>
+        <translation>Captura de pantalla de ventanu</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>Retardar captura</translation>
+        <translation>Retardu de captura de pantalla</translation>
     </message>
     <message>
         <source>Full screenshot</source>
-        <translation>Captura completa</translation>
+        <translation>Captura de pantalla completa</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Guardar</translation>
+        <translation>Gardar</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -297,7 +299,7 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Texto</translation>
+        <translation>Testu</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -309,47 +311,47 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>Aumentar altura arriba</translation>
+        <translation>Aumenta l&apos;altura arriba</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>Aumentar altura abaxo</translation>
+        <translation>Aumenta l&apos;altura abaxo</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>Aumentar anchura izquierda</translation>
+        <translation>Aumenta l&apos;ancho a esquierda</translation>
     </message>
     <message>
         <source>Increase width right</source>
-        <translation>Aumentar anchura derecha</translation>
+        <translation>Aumenta l&apos;ancho a direita</translation>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>Decreseyar altura arriba</translation>
+        <translation>Disminuye l&apos;altura arriba</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>Decreseyar altura abaxo</translation>
+        <translation>Disminuye l&apos;altura abaxo</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>Reducir anchura izquierda</translation>
+        <translation>Decrease width izquierda</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>Reducir anchura derecha</translation>
+        <translation>Decrease width dereita</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>Axuda</translation>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>Mostrar atajos</translation>
+        <translation>Amosar atajos</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>Son</translation>
+        <translation>Sonu</translation>
     </message>
     <message>
         <source>Keystroke</source>
@@ -369,7 +371,7 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>Empezar/Grabar</translation>
+        <translation>Iniciar/Grabar</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -377,11 +379,11 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Herramientas</translation>
+        <translation>Ferramientas</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>Extraer texto</translation>
+        <translation>Extraer testu</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -389,15 +391,15 @@ primir nel atayu pa dexar de grabar</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>Pegar capturas de pantalla</translation>
+        <translation>Fijar screenshots</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>Empezar OCR</translation>
+        <translation>Iniciar OCR</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>Empezar scrollshot</translation>
+        <translation>Iniciar scrollshot</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -408,7 +410,7 @@ primir nel atayu pa dexar de grabar</translation>
     <name>ShotStartPlugin</name>
     <message>
         <source>Screenshot</source>
-        <translation>Captura de pantalla</translation>
+        <translation>Screenshot</translation>
     </message>
 </context>
 <context>
@@ -423,32 +425,32 @@ primir nel atayu pa dexar de grabar</translation>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>Rectángulu
-Presione y sosténgase Shift pa dibuxar un cuadráu</translation>
+        <translation>Rectangulu
+Presionar y sostener Shift pa dibuxar un cuadráu</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
         <translation>Elipsa
-Presione y sosténgase Shift pa dibuxar un círculu</translation>
+Presionar y sostener Shift pa dibuxar un círculu</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>Pincel
-Presione y sosténgase Shift pa dibuxar una línea recta</translation>
+        <translation>Pincelu
+Presionar y sostener Shift pa dibuxar una liña recta</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Ajustar intensidá de desenfocu (Desplázese pa ajustalo)</translation>
+        <translation>Ajustar intensidá de desenfocu (Deslizar pa ajustala)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Ajustar tamaño del pincel (Desplázese pa ajustalo)</translation>
+        <translation>Ajustar tamañu del pincelu (Deslizar pa ajustala)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Ajustar tamaño del texto (Desplázese pa ajustalo)</translation>
+        <translation>Ajustar tamañu del testu (Deslizar pa ajustala)</translation>
     </message>
 </context>
 <context>
@@ -464,7 +466,7 @@ esbillar l&apos;área a grabar</translation>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Mostrar atajo (K)</translation>
+        <translation>Amosar atajo (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
@@ -472,19 +474,19 @@ esbillar l&apos;área a grabar</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Mostrar atajo (K)</translation>
+        <translation>Amosar atajo (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>Activar camara (C)</translation>
+        <translation>Encender camara (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>Desactivar camara (C)</translation>
+        <translation>Apagar camara (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Captura de pantalla</translation>
+        <translation>Screenshot</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -492,11 +494,11 @@ esbillar l&apos;área a grabar</translation>
     </message>
     <message>
         <source>Settings (F3)</source>
-        <translation>Configuración (F3)</translation>
+        <translation>Axustes (F3)</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation>Formato:</translation>
+        <translation>Formatu:</translation>
     </message>
     <message>
         <source>GIF</source>
@@ -520,35 +522,35 @@ esbillar l&apos;área a grabar</translation>
     </message>
     <message>
         <source>5 fps</source>
-        <translation>5 إطار في الثانية</translation>
+        <translation>5 fps</translation>
     </message>
     <message>
         <source>10 fps</source>
-        <translation>10 إطار في الثانية</translation>
+        <translation>10 fps</translation>
     </message>
     <message>
         <source>20 fps</source>
-        <translation>20 إطار في الثانية</translation>
+        <translation>20 fps</translation>
     </message>
     <message>
         <source>24 fps</source>
-        <translation>24 إطار في الثانية</translation>
+        <translation>24 fps</translation>
     </message>
     <message>
         <source>30 fps</source>
-        <translation>30 إطار في الثانية</translation>
+        <translation>30 fps</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>الصوت</translation>
+        <translation>Sonu</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation>الميكروفون</translation>
+        <translation>Micrófono</translation>
     </message>
     <message>
         <source>System audio</source>
-        <translation>الصوت النظامي</translation>
+        <translation>Sonu del sistema</translation>
     </message>
     <message>
         <source>Options</source>
@@ -556,15 +558,15 @@ esbillar l&apos;área a grabar</translation>
     </message>
     <message>
         <source>Show pointer</source>
-        <translation>عرض المؤشر</translation>
+        <translation>Mostrar punteiro</translation>
     </message>
     <message>
         <source>Show click</source>
-        <translation>عرض النقر</translation>
+        <translation>Mostrar click</translation>
     </message>
     <message>
         <source>Save to</source>
-        <translation>احفظ إلى</translation>
+        <translation>Gardar en</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -572,63 +574,67 @@ esbillar l&apos;área a grabar</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>الفيديوهات</translation>
+        <translation>Vídeos</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>مستطيل (R)
-اضغط واحفظ Shift لرسم مربع</translation>
+        <translation>|-
+Rectángulu (R)
+Presionar y sostener Shift pa dibuxar un cuadráu</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>橢圓形 (O)
-اضغط واحفظ Shift لرسم دائرة</translation>
+        <translation>|-
+Elipsa (O)
+Presionar y sostener Shift pa dibuxar un círculu</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>خط (L)
-اضغط واحفظ Shift لرسم خط عمودي أو أفقي</translation>
+        <translation>|-
+Línia (L)
+Presionar y sostener Shift pa dibuxar una línia vertical o horizontal</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>سهم (X)
-اضغط واحفظ Shift لرسم سهم عمودي أو أفقي</translation>
+        <translation>|-
+Flecha (X)
+Presionar y sostener Shift pa dibuxar una flecha vertical o horizontal</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
-        <translation>قلم (P)</translation>
+        <translation>Lápiz (P)</translation>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>الإبهام (B)</translation>
+        <translation>Desenfocu (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
-        <translation>النص (T)</translation>
+        <translation>Testu (T)</translation>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>شاشة التمرير (Alt+I)</translation>
+        <translation>Scrollshot (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>استخراج النص (Alt+O)</translation>
+        <translation>Extraer testu (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>الصق صور الشاشة (Alt+P)</translation>
+        <translation>Fijar screencapturas (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>الإلغاء (Ctrl+Z)</translation>
+        <translation>Desfacer (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation>Grabar</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -644,15 +650,15 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>تحديد مسار عند الحفظ</translation>
+        <translation>Establecer un camín na guardada</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>تغيير المسار عند الحفظ</translation>
+        <translation>Cambiar el camín na guardada</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>التنسيق</translation>
+        <translation>Formatu</translation>
     </message>
     <message>
         <source>PNG</source>
@@ -668,63 +674,63 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>تأثيرات الحدود</translation>
+        <translation>Efectos de marxe</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>لا شيء</translation>
+        <translation>Ninguén</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>ظلال</translation>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>الحدود</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation>الجهاز</translation>
+        <translation>Dispositivo</translation>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>استخراج النص</translation>
+        <translation>Extraer testo</translation>
     </message>
 </context>
 <context>
     <name>ToolBarWidget</name>
     <message>
         <source>Close (Esc)</source>
-        <translation>Cerrar (Esc)</translation>
+        <translation>Tancar (Esc)</translation>
     </message>
     <message>
         <source>OK (Enter)</source>
-        <translation>موافق (Enter)</translation>
+        <translation>OK (Enter)</translation>
     </message>
 </context>
 <context>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>Ajusta l&apos;área de grabación dientro de %1*%2 pa obtener un efectu de vídeo mellor</translation>
+        <translation> Ajusta l&apos;área de grabación dento de %1*%2 pa tener un efectu de video millor</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>La grabación de pantalla nun ta soportada actualmente</translation>
+        <translation>La grabación de pantalla non ta soportada actualmente</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Sali</translation>
     </message>
 </context>
 <context>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Grabación nueva</translation>
+        <translation>Grabación nova</translation>
     </message>
 </context>
 </TS>

@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="fr">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="fr">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ ou appuyer à nouveau sur le raccourci pour arrêter l&apos;enregistrement</tran
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Enregistrer</translation>
+        <translation type="vanished">Enregistrer</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Capture d&apos;écran</translation>
+        <translation type="vanished">Capture d&apos;écran</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ ou appuyer à nouveau sur le raccourci pour arrêter l&apos;enregistrement</tran
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Échec de la capture d&apos;écran.</translation>
+        <translation type="vanished">Échec de la capture d&apos;écran.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ ou appuyer à nouveau sur le raccourci pour arrêter l&apos;enregistrement</tran
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -456,7 +458,7 @@ Maintenir la touche Maj enfoncée pour dessiner une ligne</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Cliquer ou maintenir le bouton de la souris
+        <translation type="vanished">Cliquer ou maintenir le bouton de la souris
 afin de sélectionner la zone à enregistrer</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Maintenir la touche Maj enfoncée pour dessiner une flèche verticale ou horizon
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Nouveau enregistrement</translation>
+        <translation type="vanished">Nouveau enregistrement</translation>
     </message>
 </context>
 </TS>

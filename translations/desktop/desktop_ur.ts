@@ -4,27 +4,27 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>ڈیپن ڈیسک چھوٹی</translation>
+        <translation>ڈیپن سکرین گریپ</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>متاخر چھوٹی</translation>
+        <translation>روک سکرین شॉٹ</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>پوری چھوٹی</translation>
+        <translation>پورا سکرین شॉٹ</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Record screen</source>
-        <translation>ریکارڈ ڈیسک</translation>
+        <translation>سکرین ریکارڈ کریں</translation>
     </message>
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>ڈیسک چھوٹی</translation>
+        <translation>سکرین گریپ</translation>
     </message>
 </context>
 </TS>

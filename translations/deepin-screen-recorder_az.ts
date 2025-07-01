@@ -110,7 +110,7 @@ və ya qısayolu yenidən basaraaq yazıkmanı dayandırın</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +118,7 @@ və ya qısayolu yenidən basaraaq yazıkmanı dayandırın</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Ekran görüntüsü tamamlandı və klippordaya kopyaladı</translation>
+        <translation>Ekran görüntüsü tamamlandı və klipboard-a kopyalandı</translation>
     </message>
 </context>
 <context>

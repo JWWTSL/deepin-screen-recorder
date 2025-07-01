@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ca">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ca">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ o premeu la drecera de nou per aturar la gravació.</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Grava</translation>
+        <translation type="vanished">Grava</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Captura de pantalla</translation>
+        <translation type="vanished">Captura de pantalla</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ o premeu la drecera de nou per aturar la gravació.</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Ha fallat la captura</translation>
+        <translation type="vanished">Ha fallat la captura</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ o premeu la drecera de nou per aturar la gravació.</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ o premeu la drecera de nou per aturar la gravació.</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>Captura finalitzada i copiada al portapapeles</translation>
+        <translation>Captura finalitzada i copiada al porta-retalls</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Manteniu premuda la tecla Maj per dibuixar una línia recta.</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Cliqueu o arrossegueu
+        <translation type="vanished">Cliqueu o arrossegueu
 per seleccionar l&apos;àrea a gravar</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Manteniu premuda la tecla Maj per dibuixar una fletxa vertical o horitzontal.</t
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Gravació nova</translation>
+        <translation type="vanished">Gravació nova</translation>
     </message>
 </context>
 </TS>

@@ -4,27 +4,27 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>دېپىن شىکر چېپ</translation>
+        <translation>دېپىن ٗسکرېن ٗکیپچر</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>تاخىم شىکر چېپ</translation>
+        <translation>Delay ٗسکرېن ٗکیپچر</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>پۈتكۈچ شىکر چېپ</translation>
+        <translation>Full ٗسکرېن ٗکیپچر</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Record screen</source>
-        <translation>ئېسكىر شىکر</translation>
+        <translation>ریکارڈ ٗسکرېن</translation>
     </message>
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>شىکر چېپ</translation>
+        <translation>سکرېن ٗکیپچر</translation>
     </message>
 </context>
 </TS>

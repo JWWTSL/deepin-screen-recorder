@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="it">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="it">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ o utilizza nuovamente la scorciatoia da tastiera per terminare la registrazione<
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Registrazione</translation>
+        <translation type="vanished">Registrazione</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Screenshot</translation>
+        <translation type="vanished">Screenshot</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ o utilizza nuovamente la scorciatoia da tastiera per terminare la registrazione<
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Screenshot fallito.</translation>
+        <translation type="vanished">Screenshot fallito.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ o utilizza nuovamente la scorciatoia da tastiera per terminare la registrazione<
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ o utilizza nuovamente la scorciatoia da tastiera per terminare la registrazione<
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -147,22 +149,22 @@ o utilizza nuovamente la scorciatoia da tastiera per terminare la registrazione<
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Screenshot</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Registrazione</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Screenshot</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Registrazione in corso</translation>
     </message>
 </context>
 <context>
@@ -415,7 +417,7 @@ o utilizza nuovamente la scorciatoia da tastiera per terminare la registrazione<
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Registrazione</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Tieni premuto Maiusc per tracciare una linea retta</translation>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Clicca o trascina
+        <translation type="vanished">Clicca o trascina
 seleziona l&apos;area da registrare</translation>
     </message>
 </context>
@@ -724,7 +726,7 @@ Tieni premuto Maiusc per disegnare una freccia verticale o orizzontale</translat
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Nuova registrazione</translation>
+        <translation type="vanished">Nuova registrazione</translation>
     </message>
 </context>
 </TS>

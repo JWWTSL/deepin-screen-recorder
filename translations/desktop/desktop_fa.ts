@@ -4,17 +4,17 @@
     <message>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>Deepin Screen Capture</source>
-        <translation>گرفتن صورت پنجره دیپین</translation>
+        <translation>گرفتن تصویر دیپین صفحه</translation>
     </message>
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay Screenshot</source>
-        <translation>عکس گیری با تأخیر</translation>
+        <translation>عکس تاخیری</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full Screenshot</source>
-        <translation>عکس گیری کامل</translation>
+        <translation>عکس کامل</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="Desktop Entry]GenericName" line="0"/>
         <source>Screen Capture</source>
-        <translation>گرفتن صورت پنجره</translation>
+        <translation>گرفتن تصویر صفحه</translation>
     </message>
 </context>
 </TS>

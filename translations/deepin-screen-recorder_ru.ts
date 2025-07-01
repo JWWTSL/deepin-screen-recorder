@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ru">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ru">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ or press the shortcut again to stop recording</source>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Запись</translation>
+        <translation type="vanished">Запись</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Скриншот</translation>
+        <translation type="vanished">Скриншот</translation>
     </message>
 </context>
 <context>
@@ -98,7 +100,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Не удалось создать Снимок экрана</translation>
+        <translation type="vanished">Не удалось создать Снимок экрана</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -110,7 +112,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -147,22 +149,22 @@ or press the shortcut again to stop recording</source>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Скриншот</translation>
+        <translation type="unfinished">Скриншот</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>Запись</translation>
+        <translation type="unfinished">Запись</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>Скриншот</translation>
+        <translation type="unfinished">Скриншот</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Запись</translation>
+        <translation type="unfinished">Запись</translation>
     </message>
 </context>
 <context>
@@ -219,7 +221,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>Прокрутите колесо мыши или щелкните, чтобы сделать прокручиваемый скриншот</translation>
+        <translation>Прокрутите колесо мыши или нажмите, чтобы сделать прокручиваемый скриншот</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
@@ -353,7 +355,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>Клавиатурный ввод</translation>
+        <translation>Клавиша</translation>
     </message>
     <message>
         <source>Webcam</source>
@@ -415,7 +417,7 @@ or press the shortcut again to stop recording</source>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Запись</translation>
+        <translation type="unfinished">Запись</translation>
     </message>
 </context>
 <context>
@@ -440,15 +442,15 @@ Press and hold Shift to draw a straight line</source>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>Настройте силу размытия (прокрутите, чтобы скорректировать)</translation>
+        <translation>Настроить степень размытия (прокрутите, чтобы изменить)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>Настройте размер кисти (прокрутите, чтобы скорректировать)</translation>
+        <translation>Настроить размер кисти (прокрутите, чтобы изменить)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>Настройте размер текста (прокрутите, чтобы скорректировать)</translation>
+        <translation>Настроить размер текста (прокрутите, чтобы изменить)</translation>
     </message>
 </context>
 <context>
@@ -456,7 +458,7 @@ Press and hold Shift to draw a straight line</source>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Щелкните или тащите
+        <translation type="vanished">Щелкните или тащите
 выбранную область записи</translation>
     </message>
 </context>
@@ -464,15 +466,15 @@ select the area to record</source>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>Показать клавиатурный ввод (K)</translation>
+        <translation>Показать клавишу (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>Скрыть клавиатурный ввод (K)</translation>
+        <translation>Скрыть клавишу (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>Показать клавиатурный ввод (K)</translation>
+        <translation>Показать клавишу (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
@@ -560,7 +562,7 @@ select the area to record</source>
     </message>
     <message>
         <source>Show click</source>
-        <translation>Показать щелчок</translation>
+        <translation>Показать клик</translation>
     </message>
     <message>
         <source>Save to</source>
@@ -578,25 +580,25 @@ select the area to record</source>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
         <translation>Прямоугольник (R)
-Нажмите и удерживайте Shift, чтобы нарисовать квадрат</translation>
+Удерживайте Shift, чтобы нарисовать квадрат</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
         <translation>Эллипс (O)
-Нажмите и удерживайте Shift, чтобы нарисовать окружность</translation>
+Удерживайте Shift, чтобы нарисовать окружность</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
         <translation>Линия (L)
-Нажмите и удерживайте Shift, чтобы нарисовать вертикальную или горизонтальную линию</translation>
+Удерживайте Shift, чтобы нарисовать вертикальную или горизонтальную линию</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
         <translation>Стрелка (X)
-Нажмите и удерживайте Shift, чтобы нарисовать вертикальную или горизонтальную стрелку</translation>
+Удерживайте Shift, чтобы нарисовать вертикальную или горизонтальную стрелку</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -724,7 +726,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Новая запись</translation>
+        <translation type="vanished">Новая запись</translation>
     </message>
 </context>
 </TS>

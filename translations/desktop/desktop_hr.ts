@@ -11,12 +11,12 @@
     <message>
         <location filename="X-Delay Shortcut Group]Name" line="0"/>
         <source>Delay screenshot</source>
-        <translation>Poznati snimak</translation>
+        <translation>Pozadi snimanje slike</translation>
     </message>
     <message>
         <location filename="X-Full Shortcut Group]Name" line="0"/>
         <source>Full screenshot</source>
-        <translation>Cijeli snimak</translation>
+        <translation>Puni snimak</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>

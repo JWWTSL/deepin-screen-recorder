@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ar">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ar">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ or press the shortcut again to stop recording</source>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>تسجيل</translation>
+        <translation type="vanished">تسجيل</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>لقطة شاشة</translation>
+        <translation type="vanished">لقطة شاشة</translation>
     </message>
 </context>
 <context>
@@ -98,19 +100,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>فشلت عملية التقاط الشاشة</translation>
+        <translation type="vanished">فشلت عملية التقاط الشاشة</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>التصوير التمرير</translation>
+        <translation>التقاط الشاشة</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>إرفاق صور الشاشة</translation>
+        <translation>إرفاق الشاشات</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation>مُسجل شاشة ديبين</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>تم إتمام الصورة وتم نسخها إلى الحافظة</translation>
+        <translation>تم إنهاء التقاط الشاشة وتم نسخها إلى الحافظة</translation>
     </message>
 </context>
 <context>
@@ -140,7 +142,7 @@ or press the shortcut again to stop recording</source>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>إرفاق صور الشاشة</translation>
+        <translation>إرفاق الشاشات</translation>
     </message>
 </context>
 <context>
@@ -227,7 +229,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Invalid area, click to </source>
-        <translation>المنطقة غير صالحة، انقر لـ</translation>
+        <translation>المنطقة غير صالحة، انقر لـ </translation>
     </message>
 </context>
 <context>
@@ -353,7 +355,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>مفتاح التصوير</translation>
+        <translation>ضربة المفتاح</translation>
     </message>
     <message>
         <source>Webcam</source>
@@ -385,11 +387,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>التصوير التمرير</translation>
+        <translation>التقاط الشاشة</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>إرفاق صور الشاشة</translation>
+        <translation>تثبيت الصور</translation>
     </message>
     <message>
         <source>Start OCR</source>
@@ -397,7 +399,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>بدء التصوير التمرير</translation>
+        <translation>بدء التقاط الشاشة</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -424,19 +426,19 @@ or press the shortcut again to stop recording</source>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>مستطيل
-اضغط واسمح للصيغة لرسم مربع</translation>
+اضغط واحمل Shift لرسم مربع</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>овал
-اضغط واسمح للصيغة لرسم دائرة</translation>
+        <translation>أسطوан
+اضغط واحمل Shift لرسم دائرة</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
         <translation>فرشاة
-اضغط واسمح للصيغة لرسم خط مستقيم</translation>
+اضغط واحمل Shift لرسم خط مستقيم</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
@@ -456,7 +458,7 @@ Press and hold Shift to draw a straight line</source>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>انقر أو اسحب ل
+        <translation type="vanished">انقر أو اسحب ل
 اختيار المنطقة للتسجيل</translation>
     </message>
 </context>
@@ -464,15 +466,15 @@ select the area to record</source>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>عرض مفتاح التصوير (K)</translation>
+        <translation>عرض ضربة المفتاح (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>إخفاء مفتاح التصوير (K)</translation>
+        <translation>إخفاء ضربة المفتاح (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>عرض مفتاح التصوير (K)</translation>
+        <translation>عرض ضربة المفتاح (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
@@ -578,25 +580,25 @@ select the area to record</source>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
         <translation>مستطيل (R)
-اضغط واسمح للصيغة لرسم مربع</translation>
+اضغط واحمل Shift لرسم مربع</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>овал (O)
-اضغط واسمح للصيغة لرسم دائرة</translation>
+        <translation>أسطوан (O)
+اضغط واحمل Shift لرسم دائرة</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
         <translation>خط (L)
-اضغط واسمح للصيغة لرسم خط عمودي أو أفقي</translation>
+اضغط واحمل Shift لرسم خط عمودي أو أفقي</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
         <translation>سهم (X)
-اضغط واسمح للصيغة لرسم سهم عمودي أو أفقي</translation>
+اضغط واحمل Shift لرسم سهم عمودي أو أفقي</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -612,7 +614,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation>التصوير التمرير (Alt+I)</translation>
+        <translation>الجرس (Alt+I)</translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
@@ -620,7 +622,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>إرفاق صور الشاشة (Alt+P)</translation>
+        <translation>تثبيت الصور (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -706,7 +708,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>قم بتعديل منطقة التصوير داخل %1*%2 للحصول على تأثير فيديو أفضل</translation>
+        <translation>استخدم %1*%2 لضبط منطقة التسجيل لتحسين تأثير الفيديو</translation>
     </message>
 </context>
 <context>
@@ -724,7 +726,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>تسجيل جديد</translation>
+        <translation type="vanished">تسجيل جديد</translation>
     </message>
 </context>
 </TS>

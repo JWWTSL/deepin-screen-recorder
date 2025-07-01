@@ -9,36 +9,36 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Do not rotate your screen during recording</source>
-        <translation>אל תסובבו 화면 במהלך הקלטה</translation>
+        <translation>לא להפוך את המסך במהלך הקלט</translation>
     </message>
 </context>
 <context>
     <name>IconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>צילום מסך</translation>
+        <translation>תמונה של מסך</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>הקלטה</translation>
+        <translation>קלט</translation>
     </message>
 </context>
 <context>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>הקלטה</translation>
+        <translation>לצלם</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>צילום מסך</translation>
+        <translation>תמונה של מסך</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Screen Capture</source>
-        <translation>צילום מסך</translation>
+        <translation>תמונה של מסך</translation>
     </message>
     <message>
         <source>Save failed. Please save it in your home directory.</source>
@@ -46,7 +46,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>View</source>
-        <translation>הצגה</translation>
+        <translation>מבט</translation>
     </message>
     <message>
         <source>Screenshot finished</source>
@@ -54,15 +54,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>select-area</source>
@@ -82,15 +82,16 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>לוח גיבוי</translation>
+        <translation>לוח הבקשה</translation>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>האחסון של קובץ הקלטה של המסך, אנא המתן...</translation>
+        <translation>שמירת קובץ הקלט של המסך, אנא המתן...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>כשהטיפוס על החלון אופס, עליך להפסיק את ההקלטה</translation>
+        <translation>&gt;-
+  כפי שהשפעה של החלון מנוטרת במהלך התהליך, יש להפסיק את הקלט</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -98,19 +99,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>הצילום מסך נכשל.</translation>
+        <translation>תמונה של מסך נכשלה.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>צינורטשאט</translation>
+        <translation>צjpeg של מסך</translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>העתקת תמונות מסך</translation>
+        <translation>לצפות בתמונות</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,14 +119,14 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>צילום מסך הושלם והעתק ללוח גיבוי</translation>
+        <translation>תמונה של מסך הושלמה והעתקה ללוח הבקשה</translation>
     </message>
 </context>
 <context>
     <name>MenuController</name>
     <message>
         <source>Undo</source>
-        <translation>בטל</translation>
+        <translation>הקטל</translation>
     </message>
     <message>
         <source>Save</source>
@@ -140,29 +141,29 @@ or press the shortcut again to stop recording</source>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>העתקת תמונות מסך</translation>
+        <translation>לצפות בתמונות</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>צילום מסך</translation>
+        <translation>תמונה של מסך</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>הקלטה</translation>
+        <translation>לצלם</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>צילום מסך</translation>
+        <translation>תמונה של מסך</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>הקלטה</translation>
+        <translation>קלט</translation>
     </message>
 </context>
 <context>
@@ -177,11 +178,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Saved to %1</source>
-        <translation>נשמר ל-%1</translation>
+        <translation>נ.saved ל-%1</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>הקלטה</translation>
+        <translation>לצלם</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -192,7 +193,7 @@ or press the shortcut again to stop recording</source>
     <name>Screenshot</name>
     <message>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>הapture של המסך יתחיל תוך %1 שניות</translation>
+        <translation>הצגת מסך תתחיל תוך %1 שניות</translation>
     </message>
 </context>
 <context>
@@ -203,11 +204,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>נכשל בלקיחת צילום מסך רציף.</translation>
+        <translation>התקלה לקחת צילום מסך מתמשך.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
-        <translation>הגעת לתחתית האזור שיכור</translation>
+        <translation>הגעת לתחתית האזור הסופג</translation>
     </message>
     <message>
         <source>Reached the maximum length</source>
@@ -215,15 +216,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>adjust the capture area</source>
-        <translation>שנה את האזור לapture</translation>
+        <translation>שנה את האזור של הצילום</translation>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>שנה את גלגל העכבר או לחץ כדי לקח צילום מסך שיכור</translation>
+        <translation>נקה את גלגל העכבר או לחץ כדי לקחת צילום מסך מתקדם</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
-        <translation>האט את מהירות השיכור</translation>
+        <translation>האט את מהירות הסופוג</translation>
     </message>
     <message>
         <source>Invalid area, click to </source>
@@ -245,11 +246,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Exit/Save</source>
-        <translation>יציאה/הוספת</translation>
+        <translation>יציאה/сохранить</translation>
     </message>
     <message>
         <source>Size Adjustment</source>
-        <translation>تعديل גודל</translation>
+        <translation> שינוי גודל</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -257,15 +258,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Quick start</source>
-        <translation>התחלה מהירה</translation>
+        <translation>התחלת מהירה</translation>
     </message>
     <message>
         <source>Window screenshot</source>
-        <translation>צילום מסך של החלון</translation>
+        <translation>צילום מסך החלון</translation>
     </message>
     <message>
         <source>Delay screenshot</source>
-        <translation>השהה צילום מסך</translation>
+        <translation>השהיה צילום מסך</translation>
     </message>
     <message>
         <source>Full screenshot</source>
@@ -277,7 +278,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>שמור</translation>
+        <translation>לשמור</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -285,7 +286,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation>אליפסה</translation>
+        <translation>מעגל</translation>
     </message>
     <message>
         <source>Line</source>
@@ -301,23 +302,23 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation>למחוק</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>בטל</translation>
+        <translation>לבטל</translation>
     </message>
     <message>
         <source>Increase height up</source>
-        <translation>הגדל את הגובה מעלה</translation>
+        <translation>הגדל גובה למעלה</translation>
     </message>
     <message>
         <source>Increase height down</source>
-        <translation>הגדל את הגובה למטה</translation>
+        <translation>הגדל גובה למטה</translation>
     </message>
     <message>
         <source>Increase width left</source>
-        <translation>הגדל את הרוחב לשמאל</translation>
+        <translation>הגדל רוחב שמאלה</translation>
     </message>
     <message>
         <source>Increase width right</source>
@@ -325,19 +326,19 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Decrease height up</source>
-        <translation>הקטין גובה למעלה</translation>
+        <translation>הקטין את הגובה למעלה</translation>
     </message>
     <message>
         <source>Decrease height down</source>
-        <translation>הקטין גובה למטה</translation>
+        <translation>הקטין את הגובה למטה</translation>
     </message>
     <message>
         <source>Decrease width left</source>
-        <translation>הקטין רוחב שמאל</translation>
+        <translation>הקטל רוחב שמאל</translation>
     </message>
     <message>
         <source>Decrease width right</source>
-        <translation>הקטין רוחב ימין</translation>
+        <translation>הקטל רוחב ימין</translation>
     </message>
     <message>
         <source>Help</source>
@@ -345,7 +346,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation>הצגת קיצורי מפתח</translation>
+        <translation>הצגת מקשים</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -353,11 +354,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Keystroke</source>
-        <translation>מפתח</translation>
+        <translation>מקש</translation>
     </message>
     <message>
         <source>Webcam</source>
-        <translation>כובע צילום</translation>
+        <translation>קAMERA</translation>
     </message>
     <message>
         <source>Start recording</source>
@@ -369,11 +370,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Start/Recording</source>
-        <translation>הפעלה/녹ום</translation>
+        <translation>הפעלה/녹ימה</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation>עכבר</translation>
+        <translation>мыш</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -385,37 +386,37 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation>스크ראשוט</translation>
+        <translation>צמדת מסך</translation>
     </message>
     <message>
         <source>Pin screenshots</source>
-        <translation>תמונה מוצלפת</translation>
+        <translation>הצמדת תמונות מסך</translation>
     </message>
     <message>
         <source>Start OCR</source>
-        <translation>הפעל OCR</translation>
+        <translation>הפעלה OCR</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation>הפעל סקרראשוט</translation>
+        <translation>הפעלה צמדת מסך</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation>חץ</translation>
+        <translation>화살</translation>
     </message>
 </context>
 <context>
     <name>ShotStartPlugin</name>
     <message>
         <source>Screenshot</source>
-        <translation>תמונה מוצלפת</translation>
+        <translation>תמונה מסך</translation>
     </message>
 </context>
 <context>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>녹ום</translation>
+        <translation>녹음</translation>
     </message>
 </context>
 <context>
@@ -424,31 +425,31 @@ or press the shortcut again to stop recording</source>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
         <translation>مستطيل
-לחץ ושמור על Shift כדי לצייר ריבוע</translation>
+לחץ וחזיק באשעט כדי לשרטט ריבוע</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>אליפסה
-לחץ ושמור על Shift כדי לצייר עיגול</translation>
+        <translation>מעגל
+לחץ וחזיק באשעט כדי לשרטט עיגול</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>עיפרון
-לחץ ושמור על Shift כדי לצייר קוו ישר</translation>
+        <translation>מסור
+לחץ וחזיק באשעט כדי לשרטט קו ישר</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation>התאם עוצמת בור (החליק כדי להתאים)</translation>
+        <translation>שנה את עוצמת האבל (תנשא כדי לשנות)</translation>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>התאם גודל עיפרון (החליק כדי להתאים)</translation>
+        <translation>שנה את גודל המסור (תנשא כדי לשנות)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>התאם גודל טקסט (החליק כדי להתאים)</translation>
+        <translation>שנה את גודל הטקסט (תנשא כדי לשנות)</translation>
     </message>
 </context>
 <context>
@@ -464,91 +465,91 @@ select the area to record</source>
     <name>SubToolWidget</name>
     <message>
         <source>Show keystroke (K)</source>
-        <translation>הצגת מפתח (K)</translation>
+        <translation>הצגת מקש (K)</translation>
     </message>
     <message>
         <source>Hide Keystroke (K)</source>
-        <translation>החבת מפתח (K)</translation>
+        <translation>הסתרת מקש (K)</translation>
     </message>
     <message>
         <source>Show Keystroke (K)</source>
-        <translation>הצגת לחיצה (K)</translation>
+        <translation>הצגת לחצן (K)</translation>
     </message>
     <message>
         <source>Turn on camera (C)</source>
-        <translation>ativar a câmera (C)</translation>
+        <translation>הפעלת מצלמה (C)</translation>
     </message>
     <message>
         <source>Turn off camera (C)</source>
-        <translation>desativar a câmera (C)</translation>
+        <translation>כיבוי מצלמה (C)</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Captura de tela</translation>
+        <translation>תמונה מסך</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Configurações</translation>
+        <translation>הגדרות</translation>
     </message>
     <message>
         <source>Settings (F3)</source>
-        <translation>Configurações (F3)</translation>
+        <translation>הגדרות (F3)</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation>Формат:</translation>
+        <translation>פורמט:</translation>
     </message>
     <message>
         <source>GIF</source>
-        <translation>GIF</translation>
+        <translation>גיפ</translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation>MP4</translation>
+        <translation>אמביפי</translation>
     </message>
     <message>
         <source>MKV</source>
-        <translation>MKV</translation>
+        <translation>אמקוו</translation>
     </message>
     <message>
         <source>webm</source>
-        <translation>webm</translation>
+        <translation>ויבאמ</translation>
     </message>
     <message>
         <source>FPS:</source>
-        <translation>FPS:</translation>
+        <translation>תדר קצף:</translation>
     </message>
     <message>
         <source>5 fps</source>
-        <translation>5 fps</translation>
+        <translation>5 קצפים</translation>
     </message>
     <message>
         <source>10 fps</source>
-        <translation>10 fps</translation>
+        <translation>10 קצפים</translation>
     </message>
     <message>
         <source>20 fps</source>
-        <translation>20 fps</translation>
+        <translation>20 קצפים</translation>
     </message>
     <message>
         <source>24 fps</source>
-        <translation>24 fps</translation>
+        <translation>24 קצפים</translation>
     </message>
     <message>
         <source>30 fps</source>
-        <translation>30 fps</translation>
+        <translation>30 קצפים</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>Sound</translation>
+        <translation>צלילים</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation>Microphone</translation>
+        <translation>מיקרופון</translation>
     </message>
     <message>
         <source>System audio</source>
-        <translation>Áudio do sistema</translation>
+        <translation>צלילים 시스템</translation>
     </message>
     <message>
         <source>Options</source>
@@ -556,47 +557,47 @@ select the area to record</source>
     </message>
     <message>
         <source>Show pointer</source>
-        <translation>Mostrar ponteiro</translation>
+        <translation>הצגת מousing</translation>
     </message>
     <message>
         <source>Show click</source>
-        <translation>Mostrar clique</translation>
+        <translation>הצגת לחיצה</translation>
     </message>
     <message>
         <source>Save to</source>
-        <translation>Salvar para</translation>
+        <translation>שמור ב</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>Desktop</translation>
+        <translation>דסקטופ</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videos</translation>
+        <translation>סרטונים</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>Reactangle (R)
-לחץ וחזיק ב-Shift כדי לצייר ריבוע</translation>
+        <translation>مستطيل (R)
+לחץ וחזיק בShift כדי לצייר ריבוע</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>אליפסה (O)
-לחץ וחזיק ב-Shift כדי לצייר עיגול</translation>
+        <translation>מעגל (O)
+לחץ וחזיק בShift כדי לצייר מעגל</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
         <translation>קו (L)
-לחץ וחזיק ב-Shift כדי לצייר קו אנכי או אופקי</translation>
+לחץ וחזיק בShift כדי לצייר קו אנכית או אופקית</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>סימן מ矢 (X)
-לחץ וחזיק ב-Shift כדי לצייר סימן מ矢 אנכי או אופקי</translation>
+        <translation>화살 (X)
+לחץ וחזיק בShift כדי לצייר 화살 אנכית או אופקית</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -604,7 +605,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>הטיהור (B)</translation>
+        <translation>הספיגה (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -616,19 +617,19 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
-        <translation>הסרת טקסט (Alt+O)</translation>
+        <translation>הוצא טקסט (Alt+O)</translation>
     </message>
     <message>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>חיבוש צלילים (Alt+P)</translation>
+        <translation>תלויה צלמות (Alt+P)</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>לבטל (Ctrl+Z)</translation>
+        <translation>בטל (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>לצפות</translation>
+        <translation>הקלטה</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -644,11 +645,11 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Set a path on save</source>
-        <translation>הגדר מסלול נשמר</translation>
+        <translation>הגדר מסלול בעת שמירה</translation>
     </message>
     <message>
         <source>Change the path on save</source>
-        <translation>לשנות את המסלול בעת שמירה</translation>
+        <translation>שנה את המסלול בעת שמירה</translation>
     </message>
     <message>
         <source>Format</source>
@@ -668,7 +669,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>تأثيرים של גבול</translation>
+        <translation>השפעות גבול</translation>
     </message>
     <message>
         <source>None</source>
@@ -688,7 +689,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     </message>
     <message>
         <source>Extract Text</source>
-        <translation>הסרת טקסט</translation>
+        <translation>הוצא טקסט</translation>
     </message>
 </context>
 <context>
@@ -706,14 +707,14 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>התאמת האזור של ה録制 בתוך %1*%2 כדי לקבל תأثير וידאו טוב יותר</translation>
+        <translation>שנה את האזור של ההקלטה בתוך %1*%2 כדי לקבל אפקט וידאו טוב יותר</translation>
     </message>
 </context>
 <context>
     <name>Utils</name>
     <message>
         <source>Screen recording is not supported at present</source>
-        <translation>ה録制 של מסך אינו נתמך ברגע זה</translation>
+        <translation>הקלטה של מסך אינה נתמכת כרגע</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -724,7 +725,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>録制 חדשה</translation>
+        <translation>הקלטה חדשה</translation>
     </message>
 </context>
 </TS>

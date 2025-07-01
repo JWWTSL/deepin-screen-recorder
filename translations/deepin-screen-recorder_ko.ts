@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ko">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ko">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ or press the shortcut again to stop recording</source>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>녹화하기</translation>
+        <translation type="vanished">녹화하기</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>스크린샷</translation>
+        <translation type="vanished">스크린샷</translation>
     </message>
 </context>
 <context>
@@ -86,19 +88,15 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>화면 녹화 파일을 저장 중입니다, 잠시 기다려 주세요...</translation>
+        <translation>화면 녹화 파일을 저장 중입니다, 기다려 주세요...</translation>
     </message>
     <message>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>녹화 과정 중 창 효과가 비활성화되어 있기 때문에 녹화를 중단해야 합니다</translation>
+        <translation>과정 중 창 효과가 비활성화되었기 때문에 녹화를 중단해야 합니다</translation>
     </message>
     <message>
         <source>Screenshot</source>
         <translation>스크린샷</translation>
-    </message>
-    <message>
-        <source>Screenshot failed.</source>
-        <translation>화면 캡처 실패</translation>
     </message>
     <message>
         <source>Scrollshot</source>
@@ -106,11 +104,11 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Pin Screenshots</source>
-        <translation>고정 화면 캡처</translation>
+        <translation>스크린샷 고정</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +116,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>화면 캡처 완료 및 클립보드에 복사</translation>
+        <translation>스크린샷이 완료되었고 클립보드에 복사되었습니다</translation>
     </message>
 </context>
 <context>
@@ -140,29 +138,29 @@ or press the shortcut again to stop recording</source>
     <name>QObject</name>
     <message>
         <source>Pin Screenshots</source>
-        <translation>고정 화면 캡처</translation>
+        <translation>스크린샷 고정</translation>
     </message>
 </context>
 <context>
     <name>QuickPanelWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>화면 캡처</translation>
+        <translation type="unfinished">스크린샷</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>녹화</translation>
+        <translation type="unfinished">녹화하기</translation>
     </message>
 </context>
 <context>
     <name>RecordIconWidget</name>
     <message>
         <source>Screenshot</source>
-        <translation>화면 캡처</translation>
+        <translation type="unfinished">스크린샷</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>녹화 중</translation>
+        <translation>녹화</translation>
     </message>
 </context>
 <context>
@@ -203,7 +201,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>지속적인 화면 캡처 실패</translation>
+        <translation>연속 스크린샷을 캡처하지 못했습니다.</translation>
     </message>
     <message>
         <source>Reached the bottom of the scroll area</source>
@@ -211,7 +209,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Reached the maximum length</source>
-        <translation>최대 길이에 도달했어요</translation>
+        <translation>최대 길이에 도달했습니다</translation>
     </message>
     <message>
         <source>adjust the capture area</source>
@@ -219,7 +217,7 @@ or press the shortcut again to stop recording</source>
     </message>
     <message>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>마우스 휠을 스크롤하거나 클릭하여 스크롤 화면 캡처를 수행하세요</translation>
+        <translation>마우스 휠을 스크롤하거나 클릭하여 스크롤 스크린샷을 캡처하세요</translation>
     </message>
     <message>
         <source>Slow down the scrolling speed</source>
@@ -415,7 +413,7 @@ or press the shortcut again to stop recording</source>
     <name>ShotStartRecordPlugin</name>
     <message>
         <source>Record</source>
-        <translation>녹화</translation>
+        <translation type="unfinished">녹화하기</translation>
     </message>
 </context>
 <context>
@@ -423,23 +421,20 @@ or press the shortcut again to stop recording</source>
     <message>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation>|-
- 사각형
- Shift를 누르고 놓아 정사각형을 그립니다</translation>
+        <translation>사각형
+Shift를 클릭하고 끌어 정사각형을 그립니다</translation>
     </message>
     <message>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation>|-
- 타원
- Shift를 누르고 놓아 원을 그립니다</translation>
+        <translation>타원
+Shift를 클릭하고 끌어 원을 그립니다</translation>
     </message>
     <message>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation>|-
- 붓
- Shift를 누르고 놓아 직선을 그립니다</translation>
+        <translation>브러시
+Shift를 클릭하고 끌어 직선을 그립니다</translation>
     </message>
     <message>
         <source>Adjust blur strength (Scroll to adjust it)</source>
@@ -447,11 +442,11 @@ Press and hold Shift to draw a straight line</source>
     </message>
     <message>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation>붓 크기 조정 (스크롤하여 조정)</translation>
+        <translation>브러시 크기 조정 (스크롤하여 조정)</translation>
     </message>
     <message>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation>텍스트 크기 조정 (스크롤하여 조정)</translation>
+        <translation>문자 크기 조정 (스크롤하여 조정)</translation>
     </message>
 </context>
 <context>
@@ -459,7 +454,7 @@ Press and hold Shift to draw a straight line</source>
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>클릭하거나 드래그하여
+        <translation type="vanished">클릭하거나 드래그하여
 녹화할 영역 선택</translation>
     </message>
 </context>
@@ -575,34 +570,31 @@ select the area to record</source>
     </message>
     <message>
         <source>Videos</source>
-        <translation>비디오</translation>
+        <translation>동영상</translation>
     </message>
     <message>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>|-
- 사각형 (R)
- Shift를 누르고 놓아 정사각형을 그립니다</translation>
+        <translation>사각형 (R)
+Shift를 클릭하고 끌어 정사각형을 그립니다</translation>
     </message>
     <message>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>|-
- 타원 (O)
- Shift를 누르고 놓아 원을 그립니다</translation>
+        <translation>타원 (O)
+Shift를 클릭하고 끌어 원을 그립니다</translation>
     </message>
     <message>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>|-
- 선 (L)
- Shift를 누르고 놓아 수직 또는 수평 선을 그립니다</translation>
+        <translation>선 (L)
+Shift를 클릭하고 끌어 수직 또는 수평선을 그립니다</translation>
     </message>
     <message>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
         <translation>화살표 (X)
-Shift를 누르고 놓아 수직 또는 수평 화살표를 그립니다</translation>
+Shift를 클릭하고 끌어 수직 또는 수평 화살표를 그립니다</translation>
     </message>
     <message>
         <source>Pencil (P)</source>
@@ -610,7 +602,7 @@ Shift를 누르고 놓아 수직 또는 수평 화살표를 그립니다</transl
     </message>
     <message>
         <source>Blur (B)</source>
-        <translation>흐리게 하기 (B)</translation>
+        <translation>흐림 (B)</translation>
     </message>
     <message>
         <source>Text (T)</source>
@@ -674,7 +666,7 @@ Shift를 누르고 놓아 수직 또는 수평 화살표를 그립니다</transl
     </message>
     <message>
         <source>Border Effects</source>
-        <translation>테두리 효과</translation>
+        <translation>경계 효과</translation>
     </message>
     <message>
         <source>None</source>
@@ -686,7 +678,7 @@ Shift를 누르고 놓아 수직 또는 수평 화살표를 그립니다</transl
     </message>
     <message>
         <source>Border</source>
-        <translation>테두리</translation>
+        <translation>경계</translation>
     </message>
     <message>
         <source>Device</source>
@@ -712,7 +704,7 @@ Shift를 누르고 놓아 수직 또는 수평 화살표를 그립니다</transl
     <name>TopTips</name>
     <message>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation> %1*%2 내에서 녹화 영역을 조정하여 더 나은 영상 효과를 얻을 수 있습니다</translation>
+        <translation> %1*%2 내에서 녹화 영역을 조정하여 더 좋은 화면 효과를 얻을 수 있습니다</translation>
     </message>
 </context>
 <context>
@@ -730,7 +722,7 @@ Shift를 누르고 놓아 수직 또는 수평 화살표를 그립니다</transl
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>새 녹화</translation>
+        <translation type="vanished">새 녹화</translation>
     </message>
 </context>
 </TS>

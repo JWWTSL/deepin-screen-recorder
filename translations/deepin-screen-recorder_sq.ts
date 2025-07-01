@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="sq">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="sq">
 <context>
     <name>CountdownTooltip</name>
     <message>
@@ -27,11 +29,11 @@ klikoni ikonën e panelit, ose rishtypni shkurtoren</translation>
     <name>MainToolWidget</name>
     <message>
         <source>Record</source>
-        <translation>Regjistroje</translation>
+        <translation type="vanished">Regjistroje</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Foto ekrani</translation>
+        <translation type="vanished">Foto ekrani</translation>
     </message>
 </context>
 <context>
@@ -98,11 +100,11 @@ klikoni ikonën e panelit, ose rishtypni shkurtoren</translation>
     </message>
     <message>
         <source>Screenshot failed.</source>
-        <translation>Fotografimi i ekranit dështoi.</translation>
+        <translation type="vanished">Fotografimi i ekranit dështoi.</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pin Screenshots</source>
@@ -110,7 +112,7 @@ klikoni ikonën e panelit, ose rishtypni shkurtoren</translation>
     </message>
     <message>
         <source>deepin-screen-recorder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -118,7 +120,7 @@ klikoni ikonën e panelit, ose rishtypni shkurtoren</translation>
     </message>
     <message>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -385,7 +387,7 @@ klikoni ikonën e panelit, ose rishtypni shkurtoren</translation>
     </message>
     <message>
         <source>Scrollshot</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pin screenshots</source>
@@ -397,7 +399,7 @@ klikoni ikonën e panelit, ose rishtypni shkurtoren</translation>
     </message>
     <message>
         <source>Start scrollshot</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -456,7 +458,7 @@ Shtypni dhe mbani të shtypur tastin Shift që të vizatohet një vijë e drejt�
     <message>
         <source>Click or drag to
 select the area to record</source>
-        <translation>Që të përzgjidhet zona për
+        <translation type="vanished">Që të përzgjidhet zona për
 regjistrim, klikoni, ose tërhiqeni</translation>
     </message>
 </context>
@@ -612,7 +614,7 @@ Shtypni dhe mbani të shtypur tastin Shift, që të vizatohet një shigjetë ver
     </message>
     <message>
         <source>Scrollshot (Alt+I）</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extract text (Alt+O）</source>
@@ -724,7 +726,7 @@ Shtypni dhe mbani të shtypur tastin Shift, që të vizatohet një shigjetë ver
     <name>VoiceRecordProcess</name>
     <message>
         <source>New recording</source>
-        <translation>Regjistrim i ri</translation>
+        <translation type="vanished">Regjistrim i ri</translation>
     </message>
 </context>
 </TS>

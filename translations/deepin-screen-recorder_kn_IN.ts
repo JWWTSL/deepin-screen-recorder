@@ -7,13 +7,13 @@
         <location filename="../src/countdown_tooltip.cpp" line="44"/>
         <source>Click the tray icon 
 or press the shortcut again to stop recording</source>
-        <translation>ನಿಮ್ಮ ಟ್ರೇ ಸಂಕೇತವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ
- ಅಥವಾ ಮತ್ತೆ ಶರ್ಟ್ಕಟ್ ಅನ್ನು ಒತ್ತಿ ರೆಕಾರ್ಡಿಂಗ್ ನ್ನು ನಿಲ್ಲಿಸಿ</translation>
+        <translation>ట్రెయి ఆయకం క్లిక్ చేయండి
+ లేదా రికార్ చేయడానికి శ్రేణి చిహ్నాన్ని మళ్లీ పీట్ చేయండి</translation>
     </message>
     <message>
         <location filename="../src/countdown_tooltip.cpp" line="46"/>
         <source>Do not rotate your screen during recording</source>
-        <translation>ರೆಕಾರ್ಡಿಂಗ್ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಸ್ಕ್ರೀನ್ ನ್ನು ಹಿಂಪುಟ್ಟಿಸಬುದು ಸೂಚಿಸಲಾಗಿದೆ</translation>
+        <translation>రికార్డింగ్ లో మీ స్క్రీన్ ను తిరిగించడం మానేయండి</translation>
     </message>
 </context>
 <context>
@@ -21,12 +21,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/iconwidget.cpp" line="56"/>
         <source>Screenshot</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್</translation>
+        <translation>స్క్రీన్షాట్</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/iconwidget.cpp" line="62"/>
         <source>Recording</source>
-        <translation>ರೆಕಾರ್ಡಿಂಗ್</translation>
+        <translation>రికార్డింగ్</translation>
     </message>
 </context>
 <context>
@@ -34,12 +34,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/maintoolwidget.cpp" line="73"/>
         <source>Record</source>
-        <translation>ರೆಕಾರ್ಡ್ ಮಾಡು</translation>
+        <translation>రికార్డ్ చేయండి</translation>
     </message>
     <message>
         <location filename="../src/widgets/maintoolwidget.cpp" line="86"/>
         <source>Screenshot</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್</translation>
+        <translation>సిరీన్షాట్</translation>
     </message>
 </context>
 <context>
@@ -47,107 +47,108 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/main_window.cpp" line="255"/>
         <source>Screen Capture</source>
-        <translation>ಸ್ಕ್ರೀನ್ ಕ್ಯಾಪ್ಚರ್</translation>
+        <translation>స్క్రీన్ క్యాప్చర్</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="786"/>
         <source>Ignore</source>
-        <translation>ಅವಹೇಳಿಸು</translation>
+        <translation>అయిదు</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="795"/>
         <source>Saving the screen recording file, please wait...</source>
-        <translation>ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್ ಫೈಲ್ ಅನ್ನು ಉಳಿಸುತ್ತಿದ್ದೇವೆ, ಕೊನೆಗೊಳಿಸಲು ಕಾಯಿತು</translation>
+        <translation>స్క్రీన్ రికార్డింగ్ ఫైల్ ను సేవ్ చేస్తున్నాం, ఇప్పుడు వేచి ఉండండి...</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="822"/>
         <source>As the window effect is disabled during the process, the recording has to be stopped</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ವಿಂಡೋ ಪರಿಣಾಮವನ್ನು ನಿಷ್ಕ್ರಮಿಸಲಾಗಿದೆ, ಆದ್ದರಿಂದ ರೆಕಾರ್ಡಿಂಗ್ ನ್ನು ನಿಲ್ಲಿಸಬೇಕು</translation>
+        <translation>ప్రక్రియ సమయంలో విండో ప్రభావం అనుసరించడం కోసం రికార్డింగ్ ఆపాలి
+ ఇప్పుడు ఆపాలి</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="2016"/>
         <source>Screenshot failed.</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್ ಅನ್ನು ಕ್ರಮಿಸಲಾಗಿಲ್ಲ.</translation>
+        <translation>స్క్రీన్షాట్ విఫలమైంది.</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3172"/>
         <source>Save failed. Please save it in your home directory.</source>
-        <translation>ಸೇವ್ ಅನ್ನು ಕ್ರಮಿಸಲಾಗಿಲ್ಲ. ನಿಮ್ಮ ಹೋಮ್ ಡಿರೆಕ್ಟರಿಯಲ್ಲಿ ಇದನ್ನು ಉಳಿಸಲು ಬಯಸುವಿರಾ?</translation>
+        <translation>సేవ్ విఫలమైంది. దాన్ని మీ హోమ్ డిరెక్టరీలో సేవ్ చేయండి.</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3195"/>
         <source>Clipboard</source>
-        <translation>ಕ್ಲಿಪ್ಬ್ರೆಡ್</translation>
+        <translation>క్లిప్బోర్డ్</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3196"/>
         <source>View</source>
-        <translation>ನೋಡು</translation>
+        <translation>వీక్షించండి</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3197"/>
         <source>Open Folder</source>
-        <translation>ಫೋಲ್ಡರ್ ತೆರೆಯು</translation>
+        <translation>ఫోల్డర్ తెరవండి</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3203"/>
         <source>Saved to %1</source>
-        <translation>ನ್ಯೂಕ್ಕಿಟ್ಟಿದೆ %1</translation>
+        <translation>సేవ్ చేయబడింది %1 లో</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3221"/>
         <source>Screenshot finished and copy to clipboard</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್ ಮುಗಿಸಲಾಗಿದೆ ಮತ್ತು ಕ್ಲಿಪ್ಬ್ರೆಡ್ ಗೆ ನಕಲಿಸಲಾಗಿದೆ</translation>
+        <translation>స్క్రీన్షాట్ పూర్తి అయింది మరియు క్లిప్బోర్డ్ కి కాపీ చేయబడింది</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3223"/>
         <source>Screenshot finished</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್ ಮುಗಿಸಲಾಗಿದೆ</translation>
+        <translation>స్క్ రీన్షాట్ పూర్తి అయింది</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3253"/>
         <source>Screenshot</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್</translation>
+        <translation>స్క్రీన్షాట్</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3255"/>
         <source>Scrollshot</source>
-        <translation>ಸ್ಕ್ರೋಲ್ಶೋಟ್</translation>
+        <translation>స్క్రోల్షాట్</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3313"/>
         <source>Save</source>
-        <translation>ಸೇವ್ ಮಾಡು</translation>
+        <translation>సేవ్ చేయండి</translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3314"/>
         <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
-        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3319"/>
         <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
-        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="3324"/>
         <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
-        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/main_window.cpp" line="4031"/>
         <source>select-area</source>
-        <translation>ಆವರ್ತನ ಪ್ರದೇಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ</translation>
+        <translation>ప్రదేశం ఎంచుకోండి</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/mainwindow.cpp" line="627"/>
         <source>Pin Screenshots</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್ ನ್ನು ಪೀನ್ ಮಾಡು</translation>
+        <translation>స్క్రీన్షాట్ ప్యిన్ చేయండి</translation>
     </message>
     <message>
         <location filename="../src/main.cpp" line="186"/>
         <source>deepin-screen-recorder</source>
-        <translation>deepin-screen-recorder</translation>
+        <translation>దీపిన్ స్క్రీన్ రికార్డర్</translation>
     </message>
 </context>
 <context>
@@ -155,17 +156,17 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="72"/>
         <source>Undo</source>
-        <translation>ಅದನ್ನು ಹಿಂಪಡೆಯು</translation>
+        <translation>అందుకు వెళ్లండి</translation>
     </message>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="79"/>
         <source>Save</source>
-        <translation>ಸೇವ್ ಮಾಡು</translation>
+        <translation>సేవ్ చేయండి</translation>
     </message>
     <message>
         <location filename="../src/menucontroller/menucontroller.cpp" line="86"/>
         <source>Exit</source>
-        <translation>ರಿಯಾಯು</translation>
+        <translation>వెళ్లండి</translation>
     </message>
 </context>
 <context>
@@ -173,7 +174,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/pin_screenshots/main.cpp" line="63"/>
         <source>Pin Screenshots</source>
-        <translation>ಸ್ಕ್ರೀನ್ ಚಿತ್ರಗಳನ್ನು ಅಡ್ಡಹಾಕು</translation>
+        <translation>స్క్రీన్ షాట్‌లను పిన్ చేయండి</translation>
     </message>
 </context>
 <context>
@@ -181,12 +182,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/quickpanelwidget.cpp" line="15"/>
         <source>Screenshot</source>
-        <translation>ಸ್ಕ್ರೀನ್ ಚಿತ್ರ</translation>
+        <translation>స్క్రీన్ షాట్</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/quickpanelwidget.cpp" line="22"/>
         <source>Record</source>
-        <translation>ಪ್ರತಿಯೊಂದು</translation>
+        <translation>ప్రసిద్ధి చేయండి</translation>
     </message>
 </context>
 <context>
@@ -194,12 +195,12 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/recordiconwidget.cpp" line="52"/>
         <source>Screenshot</source>
-        <translation>ಸ್ಕ್ರೀನ್ ಚಿತ್ರ</translation>
+        <translation>స్క్రీన్ షాట్</translation>
     </message>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/recordiconwidget.cpp" line="58"/>
         <source>Recording</source>
-        <translation>ಪ್ರತಿಯೊಂದು</translation>
+        <translation>రికార్డింగ్</translation>
     </message>
 </context>
 <context>
@@ -207,27 +208,27 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/record_process.cpp" line="443"/>
         <source>Record</source>
-        <translation>ಪ್ರತಿಯೊಂದು</translation>
+        <translation>ప్రసిద్ధి చేయండి</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="759"/>
         <source>View</source>
-        <translation>ನೋಡು</translation>
+        <translation>చాందు</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="760"/>
         <source>Open Folder</source>
-        <translation>ಪ್ಲೇಟ್ ತೆರೆಯು</translation>
+        <translation>ఫోల్డర్ తెరవండి</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="773"/>
         <source>Recording finished</source>
-        <translation>ಪ್ರತಿಯೊಂದು ಮುಗಿದಿದೆ</translation>
+        <translation>రికార్డింగ్ పండింది</translation>
     </message>
     <message>
         <location filename="../src/record_process.cpp" line="774"/>
         <source>Saved to %1</source>
-        <translation>ಸಂಗ್ರಹಿಸಲಾಗಿದೆ %1</translation>
+        <translation> %1 కు సేవచేయబడింది</translation>
     </message>
 </context>
 <context>
@@ -235,7 +236,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/screenshot.cpp" line="45"/>
         <source>Screen Capture will start in %1 seconds</source>
-        <translation>ಸ್ಕ್ರೀನ್ ಚಿತ್ರಗ್ರಹಣ %1 ಸೆಕೆಂಡ್‌ಗಳಲ್ಲಿ ಆರಂಭಿಸಲಾಗುತ್ತದೆ</translation>
+        <translation>స్క్రీన్ క్యాప్చర్ %1 సెకన్లలో ప్రారంభం అవుతుంది</translation>
     </message>
 </context>
 <context>
@@ -243,42 +244,42 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="55"/>
         <source>Get help.</source>
-        <translation>ಸಹಾಯ ಪಡೆಯಿರಿ.</translation>
+        <translation>సహాయం పొందండి.</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="62"/>
         <source>adjust the capture area</source>
-        <translation>ಚಿತ್ರಗ್ರಹಣ ಪ್ರದೇಶವನ್ನು ಸರಿಯಾಗಿ ಮಾಡಿ</translation>
+        <translation>పట్టుకోవడం ప్రాంతాన్ని అప్‌డేట్ చేయండి</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="224"/>
         <source>Scroll your mouse wheel or click to take a scrolling screenshot</source>
-        <translation>ಮೌಸ್ ವೀಲ್ ಅಥವಾ ಕ್ಲಿಕ್ ಮಾಡಿ ಸ್ಕ್ರೋಲ್ ಸ್ಕ್ರೀನ್ ಚಿತ್ರ ತೆಗೆದುಕೊಳ್ಳಿ</translation>
+        <translation>మీ మౌస్ వీల్ ను క్రాస్ చేయండి లేదా క్లిక్ చేయండి స్క్రోల్ చేసిన స్క్రీన్ షాట్ తీసుకోండి</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="242"/>
         <source>Failed to take a continuous screenshot.</source>
-        <translation>ನಿಯಮಿತ ಸ್ಕ್ರೀನ್ ಚಿತ್ರ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿಲ್ಲ.</translation>
+        <translation>స్క్రీన్ షాట్ కు విఫలం అయింది.</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="265"/>
         <source>Reached the bottom of the scroll area</source>
-        <translation>ಸ್ಕ್ರೋಲ್ ಪ್ರದೇಶದ ಅಂತ್ಯದ ಸ್ಥಾನ</translation>
+        <translation>స్క్రోల్ ప్రాంతం చివరికి చేరుకున్నారు</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="283"/>
         <source>Reached the maximum length</source>
-        <translation>ಅತ್ಯುತ್ತಮ ಉದ್ದವನ್ನು ತಲುಪಿದೆ</translation>
+        <translation>అధిక పొడవుకు చేరుకున్నారు</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="301"/>
         <source>Slow down the scrolling speed</source>
-        <translation>ಸ್ಕ್ರೋಲ್ ವೇಗವನ್ನು ಕಡಿಮೆ ಮಾಡಿ</translation>
+        <translation>స్క్రోల్ వేగం తగ్గించండి</translation>
     </message>
     <message>
         <location filename="../src/widgets/scrollshottip.cpp" line="317"/>
         <source>Invalid area, click to </source>
-        <translation>ಅನುಕೂಲಕರವಾದ ಪ್ರದೇಶ, ಕ್ಲಿಕ್ ಮಾಡಿ </translation>
+        <translation>అయివ్వబడిన ప్రాంతం, క్లిక్ చేయండి </translation>
     </message>
 </context>
 <context>
@@ -286,7 +287,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/widgets/shapeswidget.cpp" line="199"/>
         <source>Input text here</source>
-        <translation>ನಿಮ್ಮ ಪಠ್ಯವನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ</translation>
+        <translation>ఇక్కడ టెక్స్ట్ నింపండి</translation>
     </message>
 </context>
 <context>
@@ -294,207 +295,207 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="26"/>
         <source>Start/Screenshot</source>
-        <translation>ಆರಂಭಿಸಿ/ಸ್ಕ್ರೀನ್ ಚಿತ್ರ</translation>
+        <translation>ప్రారంభం/స్ప్రీన్ షాట్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="27"/>
         <source>Exit/Save</source>
-        <translation>ನಿಂತು/ಸಂಗ್ರಹಿಸಿ</translation>
+        <translation>పూర్వం/సేవ్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="28"/>
         <source>Tools</source>
-        <translation>ಅಂಶಗಳು</translation>
+        <translation>టూల్స్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="29"/>
         <source>Start/Recording</source>
-        <translation>ಆರಂಭಿಸಿ/ಪ್ರತಿಯೊಂದು</translation>
+        <translation>ప్రారంభం/రికార్డింగ్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="30"/>
         <source>Size Adjustment</source>
-        <translation>ಆಕಾರ ಸರಿಹೊಂದಿಕೆ</translation>
+        <translation>విమాన సర్దుబాటు</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="31"/>
         <source>Settings</source>
-        <translation>ಸೆಟ್ಟಿಂಗ್ಸ್</translation>
+        <translation>సెట్టింగ్స్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="33"/>
         <source>Quick start</source>
-        <translation>ತ್ವರಿತ ಆರಂಭಿಸಿ</translation>
+        <translation>స్విఫ్ట్ ప్రారంభం</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="34"/>
         <source>Window screenshot</source>
-        <translation>ವಿಂಡೋ ಚಿತ್ರ</translation>
+        <translation>విండో స్క్రీన్ షాట్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="35"/>
         <source>Delay screenshot</source>
-        <translation>ಅವಘಟ್ಟಿನ ಸ್ಕ್ರೀನ್ ಚಿತ್ರ</translation>
+        <translation>డెలే స్క్రీన్ షాట్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="36"/>
         <source>Full screenshot</source>
-        <translation>ಪೂರ್ಣ ಸ್ಕ್ರೀನ್ ಚಿತ್ರ</translation>
+        <translation>ఫుల్ స్క్రీన్ షాట్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="37"/>
         <source>Start scrollshot</source>
-        <translation>ಪ್ರಾರಂಭಿಸಿ ಸ್ಕ್ರೋಲ್ಶಾಟ್</translation>
+        <translation>స్క్రోল్షాట్ ప్రారంభించండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="38"/>
         <source>Start OCR</source>
-        <translation>OCR ಪ್ರಾರಂಭಿಸಿ</translation>
+        <translation>OCR ప్రారంభించండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="40"/>
         <source>Exit</source>
-        <translation>ನಿರ್ಲಕ್ಷ್ಯ</translation>
+        <translation>విడుదల చేయండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="40"/>
         <source>Save</source>
-        <translation>ಸಂಗ್ರಹಿಸಿ</translation>
+        <translation>ఇంపోర్ట్ చేయండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="42"/>
         <source>Scrollshot</source>
-        <translation>ಸ್ಕ್ರೋಲ್ಶಾಟ್</translation>
+        <translation>స్క్రోల్షాట్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="44"/>
         <source>Pin screenshots</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶಾಟ್ಗಳನ್ನು ಅಡ್ಡಿಮಾಡಿ</translation>
+        <translation>స్క్రీన్షాట్‌లను నిలువుగా చేయండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="44"/>
         <source>Rectangle</source>
-        <translation>ಆಯತ</translation>
+        <translation>చతుర్భుజం</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Ellipse</source>
-        <translation>ವೃತ್ತ</translation>
+        <translation>అల్లిప్పు</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Line</source>
-        <translation>ಗೆರೆ</translation>
+        <translation>రేఖ</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="45"/>
         <source>Arrow</source>
-        <translation>ಕಾಂತಿ</translation>
+        <translation>సూచిక</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="46"/>
         <source>Pencil</source>
-        <translation>ಪೆನ್ಸಿಲ್</translation>
+        <translation>పెన్సిల్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="46"/>
         <source>Text</source>
-        <translation>ಪಠ್ಯ</translation>
+        <translation>టెక్స్ట్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="48"/>
         <source>Extract text</source>
-        <translation>ಪಠ್ಯವನ್ನು ಪಡೆಯಿರಿ</translation>
+        <translation>టెక్స్ట్ ను తీసుకుని వచ్చి టెక్స్ట్ ను తీసుకుని వచ్చి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="50"/>
         <source>Delete</source>
-        <translation>ಅಪಹರಿಸಿ</translation>
+        <translation>తొలగించండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="50"/>
         <source>Undo</source>
-        <translation>ಅನುವರ್ತನ</translation>
+        <translation>అందరికి తిరిగి చేయండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="51"/>
         <source>Options</source>
-        <translation>ಆಯ್ಕೆಗಳು</translation>
+        <translation>ఎంపికలు</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="53"/>
         <source>Start recording</source>
-        <translation>ರೆಕಾರ್ಡಿಂಗ್ ಪ್ರಾರಂಭಿಸಿ</translation>
+        <translation>రికార్డింగ్ ప్రారంభించండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="54"/>
         <source>Sound</source>
-        <translation>ಸೋಂಡ್</translation>
+        <translation>ధ్వని</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="54"/>
         <source>Keystroke</source>
-        <translation>ಕೀಸ್ಟ್ರೋಕ್</translation>
+        <translation>కీస్ట్రోక్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="55"/>
         <source>Webcam</source>
-        <translation>ವೆಬ್ಕ್ಯಾಮ್</translation>
+        <translation>వీడియో కెమెరా</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="55"/>
         <source>Mouse</source>
-        <translation>ಮೌಸ್</translation>
+        <translation>మౌస్</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="58"/>
         <source>Increase height up</source>
-        <translation>ಉದ್ದವನ್ನು ಹೆಚ್ಚಿಸಿ</translation>
+        <translation>ఎత్తును పెంచండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="59"/>
         <source>Increase height down</source>
-        <translation>ಉದ್ದವನ್ನು ಹೆಚ್ಚಿಸಿ</translation>
+        <translation>ఎత్తును పెంచండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="60"/>
         <source>Increase width left</source>
-        <translation>ಅಗಲವನ್ನು ಹೆಚ್ಚಿಸಿ</translation>
+        <translation>వెడల్పును పెంచండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="61"/>
         <source>Increase width right</source>
-        <translation>ಅಗಲವನ್ನು ಹೆಚ್ಚಿಸಿ</translation>
+        <translation>వెడల్పును పెంచండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="62"/>
         <source>Decrease height up</source>
-        <translation>ಉದ್ದವನ್ನು ಕಡಿಮೆ ಮಾಡಿ</translation>
+        <translation>ఎత్తును తగ్గించండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="63"/>
         <source>Decrease height down</source>
-        <translation>ಉದ್ದವನ್ನು ಕಡಿಮೆ ಮಾಡಿ</translation>
+        <translation>ఎత్తును తగ్గించండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="64"/>
         <source>Decrease width left</source>
-        <translation>ಒಂದು ಅಗಲವನ್ನು ಕಡಿಮೆ ಮಾಡಿ</translation>
+        <translation>వెడల్పును తగ్గించండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="65"/>
         <source>Decrease width right</source>
-        <translation>ಒಂದು ಅಗಲವನ್ನು ಕಡಿಮೆ ಮಾಡಿ</translation>
+        <translation>వెడల్పును తగ్గించండి</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="67"/>
         <source>Help</source>
-        <translation>ಸಹಾಯ</translation>
+        <translation>సహాయం</translation>
     </message>
     <message>
         <location filename="../src/utils/shortcut.cpp" line="67"/>
         <source>Display shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>ಚೆಂಡುಗಳನ್ನು ತೋರಿಸಿ</translation>
     </message>
 </context>
 <context>
@@ -502,7 +503,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstart/shotstartplugin.cpp" line="40"/>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>ಸ್ಕ್ರೀನ್ಶಾಟ್</translation>
     </message>
 </context>
 <context>
@@ -510,7 +511,7 @@ or press the shortcut again to stop recording</source>
     <message>
         <location filename="../src/dde-dock-plugins/shotstartrecord/shotstartrecordplugin.cpp" line="46"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>ರೆಕಾರ್ಡ್</translation>
     </message>
 </context>
 <context>
@@ -519,34 +520,37 @@ or press the shortcut again to stop recording</source>
         <location filename="../src/widgets/shottoolwidget.cpp" line="118"/>
         <source>Rectangle
 Press and hold Shift to draw a square</source>
-        <translation type="unfinished"></translation>
+        <translation>ಆಯತ
+ಒಟ್ಟು ಸ್ಥಾಪಿಸಲು Shift ನ್ನು ಒತ್ತಿಡಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="124"/>
         <source>Ellipse
 Press and hold Shift to draw a circle</source>
-        <translation type="unfinished"></translation>
+        <translation>ವೃತ್ತ
+ಒಟ್ಟು ಸ್ಥಾಪಿಸಲು Shift ನ್ನು ಒತ್ತಿಡಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="130"/>
         <source>Brush
 Press and hold Shift to draw a straight line</source>
-        <translation type="unfinished"></translation>
+        <translation>ಚಿಮುಕು
+ಸರಳ ಸ್ಥಾಪನೆಗೆ Shift ನ್ನು ಒತ್ತಿಡಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="141"/>
         <source>Adjust blur strength (Scroll to adjust it)</source>
-        <translation type="unfinished"></translation>
+        <translation>ಬ್ಲರ್ ಬಲವನ್ನು ಸುಧಾರಿಸಿ (ಅದನ್ನು ಸುಧಾರಿಸಲು ಕ್ರಮಾಗತವಾಗಿ ಸ್ಕ್ರೋಲ್ ಮಾಡಿ)</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="156"/>
         <source>Adjust brush size (Scroll to adjust it)</source>
-        <translation type="unfinished"></translation>
+        <translation>ಚಿಮುಕು ಗಾತ್ರವನ್ನು ಸುಧಾರಿಸಿ (ಅದನ್ನು ಸುಧಾರಿಸಲು ಕ್ರಮಾಗತವಾಗಿ ಸ್ಕ್ರೋಲ್ ಮಾಡಿ)</translation>
     </message>
     <message>
         <location filename="../src/widgets/shottoolwidget.cpp" line="292"/>
         <source>Adjust text size (Scroll to adjust it)</source>
-        <translation type="unfinished"></translation>
+        <translation>ಪಠ್ಯ ಗಾತ್ರವು ಸುಧಾರಿಸಲು (ಅದನ್ನು ಸುಧಾರಿಸಲು ಕ್ರಮಾಗತವಾಗಿ ಸ್ಕ್ರೋಲ್ ಮಾಡಿ)</translation>
     </message>
 </context>
 <context>
@@ -555,7 +559,8 @@ Press and hold Shift to draw a straight line</source>
         <location filename="../src/start_tooltip.cpp" line="30"/>
         <source>Click or drag to
 select the area to record</source>
-        <translation type="unfinished"></translation>
+        <translation>ಕ್ಲಿಕ್ ಮಾಡಿ ಅಥವಾ ಡ್ರಾಗ್ ಮಾಡಿ
+ರೆಕಾರ್ಡ್ ಮಾಡಲು ಪ್ರದೇಶವನ್ನು ಆಳಿ</translation>
     </message>
 </context>
 <context>
@@ -563,102 +568,102 @@ select the area to record</source>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="39"/>
         <source>Extract Text</source>
-        <translation type="unfinished"></translation>
+        <translation>ಪಠ್ಯವನ್ನು ತೆಗೆದುಹಾಕಿ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="63"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>ಆಯ್ಕೆಗಳು</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="83"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ಫೋಲ್ಡರ್</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="96"/>
         <source>Set a path on save</source>
-        <translation type="unfinished"></translation>
+        <translation>ಸೇವಿಸುವಾಗ ಪಥವನ್ನು ಸೇಟ್ ಮಾಡಿ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="109"/>
         <source>Save to</source>
-        <translation type="unfinished"></translation>
+        <translation>ಸೇವಿಸುವುದಕ್ಕೆ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="111"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>ಡೆಸ್ಕ್ಟಾಪ್</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="114"/>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>ಚಿತ್ರಗಳು</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="120"/>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>ಕ್ಲಿಪ್ಬ್ಯಾರ್ಡ್</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="134"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>ಆಕಾರ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="135"/>
         <source>PNG</source>
-        <translation type="unfinished"></translation>
+        <translation>ಪಿಎಂಜಿ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="137"/>
         <source>JPG</source>
-        <translation type="unfinished"></translation>
+        <translation>ಜಿಪಿಜಿ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="139"/>
         <source>BMP</source>
-        <translation type="unfinished"></translation>
+        <translation>ಬಿಎಂಪಿ</translation>
     </message>
     <message>
         <location filename="../src/pin_screenshots/ui/subtoolwidget.cpp" line="218"/>
         <source>Change the path on save</source>
-        <translation type="unfinished"></translation>
+        <translation>ಸೇವಿಸುವಾಗ ಪಥವನ್ನು ಬದಲಾಯಿಸಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="205"/>
         <source>Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>ಮಿಕ್ರೋಫೋನ್</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="188"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>ಆಕಾರ:</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="189"/>
         <source>GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>ಜಿಫ್</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="190"/>
         <source>MP4</source>
-        <translation type="unfinished"></translation>
+        <translation>ಎಂಪಿಎಫ್</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="193"/>
         <source>webm</source>
-        <translation type="unfinished"></translation>
+        <translation>ವೆಬ್ಮ್</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="191"/>
         <source>MKV</source>
-        <translation type="unfinished"></translation>
+        <translation>ಎಂಕಿವಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="267"/>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>ವಿಡಿಯೋಗಳು</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="196"/>
@@ -668,32 +673,32 @@ select the area to record</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="72"/>
         <source>Show keystroke (K)</source>
-        <translation>ಸ್ವಿಚ್ ಕೀಸ್ಟ್ರೋಕ್ (K)</translation>
+        <translation>ಕೀಸ್ಟ್ರೋಕ್ ತೋರಿಸಿ (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="80"/>
         <source>Hide Keystroke (K)</source>
-        <translation>ಕೀಸ್ಟ್ರೋಕ್ ಹೈಡ್ (K)</translation>
+        <translation>ಕೀಸ್ಟ್ರೋಕ್ ಗುಪ್ಪು (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="83"/>
         <source>Show Keystroke (K)</source>
-        <translation>ಸ್ವಿಚ್ ಕೀಸ್ಟ್ರೋಕ್ (K)</translation>
+        <translation>ಕೀಸ್ಟ್ರೋಕ್ ತೋರಿಸಿ (K)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="93"/>
         <source>Turn on camera (C)</source>
-        <translation>ಕ್ಯಾಮೆರಾ ಮುಚ್ಚಿಡಿ (C)</translation>
+        <translation>ಕ್ಯಾಮೆರಾ ಅನ್ಯೂನ್ಯ (C)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="101"/>
         <source>Turn off camera (C)</source>
-        <translation>ಕ್ಯಾಮೆರಾ ತೆರೆಯಿಡಿ (C)</translation>
+        <translation>ಕ್ಯಾಮೆರಾ ಆಫ್ ಮಾಡಿ (C)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="116"/>
         <source>Screenshot</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್</translation>
+        <translation>ಸ್ಕ್ರೀನ್ಶಾಟ್</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="147"/>
@@ -738,43 +743,40 @@ select the area to record</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="206"/>
         <source>System audio</source>
-        <translation>ಸಿಸ್ಟೆಮ್ ಆಡಿಯೋ</translation>
+        <translation>ಸಿಸ್ಟಂ ಶಾಂಡ್</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="211"/>
         <source>Show click</source>
-        <translation>ಶೋವ್ ಕ್ಲಿಕ್</translation>
+        <translation>ಕ್ಲಿಕ್ ತೋರಿಸಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="507"/>
         <source>Rectangle (R)
 Press and hold Shift to draw a square</source>
-        <translation>|-
- ಆಯತ (R)
- Shift ನ್ನು ಒತ್ತಿಟ್ಟು ಹೊಳ್ಳಿ ಚೌಕ ಗೆ ಬರೆಯಿರಿ</translation>
+        <translation>ಚೌಕ (R)
+ಶಿಫ್ಟ್ ಅನ್ನು ಒತ್ತಿ ಹಾಳುಮಾಡಿ ಚೌಕವನ್ನು ಬರೆಯಿರಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="514"/>
         <source>Ellipse (O)
 Press and hold Shift to draw a circle</source>
-        <translation>|-
- ವೃತ್ತ (O)
- Shift ನ್ನು ಒತ್ತಿಟ್ಟು ಹೊಳ್ಳಿ ಚೌಕ ಗೆ ಬರೆಯಿರಿ</translation>
+        <translation>ಏಲ್ಲಿಪ್ಸ್ (O)
+ಶಿಫ್ಟ್ ಅನ್ನು ಒತ್ತಿ ಹಾಳುಮಾಡಿ ಬೃಂದಾರಿಯನ್ನು ಬರೆಯಿರಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="523"/>
         <source>Line (L)
 Press and hold Shift to draw a vertical or horizontal line</source>
-        <translation>|-
- ಸರಿಹೊಳ್ಳಿ ಸೀಧಿ ಅಥವಾ ಸಮಾಂತರ ಸರಿಹೊಳ್ಳಿ ಬರೆಯಿರಿ</translation>
+        <translation>ಲೈನ್ (L)
+ಶಿಫ್ಟ್ ಅನ್ನು ಒತ್ತಿ ಹಾಳುಮಾಡಿ ಸ್ಥಿರ ಅಥವಾ ಸಮತಲ ರೇಖೆ ಬರೆಯಿರಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="533"/>
         <source>Arrow (X)
 Press and hold Shift to draw a vertical or horizontal arrow</source>
-        <translation>|-
- ಆರ್ರೋ (X)
- Shift ನ್ನು ಒತ್ತಿಟ್ಟು ಹೊಳ್ಳಿ ಸೀಧಿ ಅಥವಾ ಸಮಾಂತರ ಆರ್ರೋ ಗೆ ಬರೆಯಿರಿ</translation>
+        <translation>ಆರ್ರೋ (X)
+ಶಿಫ್ಟ್ ಅನ್ನು ಒತ್ತಿ ಹಾಳುಮಾಡಿ ಸ್ಥಿರ ಅಥವಾ ಸಮತಲ ಆರ್ರೋ ಬರೆಯಿರಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="543"/>
@@ -794,42 +796,42 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="577"/>
         <source>Scrollshot (Alt+I）</source>
-        <translation>ಸ್ಕ್ರೋಲ್ಶೋಟ್ (Alt+I)</translation>
+        <translation>ಸ್ಕ್ರೋಲ್ಶಾಟ್ (Alt+I)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="593"/>
         <source>Extract text (Alt+O）</source>
-        <translation>ಟೆಕ್ಸ್ಟ್ ಅಗ್ಗಿಟ್ಟು (Alt+O)</translation>
+        <translation>ಟೆಕ್ಸ್ಟ್ ಹೆಳ್ತಿರಿ (Alt+O)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="604"/>
         <source>Pin screenshots (Alt+P）</source>
-        <translation>ಸ್ಕ್ರೀನ್ಶೋಟ್ ಪಿನ್ ಮಾಡಿ (Alt+P)</translation>
+        <translation>ಸ್ಕ್ರೀನ್ಶಾಟ್ಗಳನ್ನು ಬಿಂದುಮಾಡಿ (Alt+P)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="615"/>
         <source>Undo (Ctrl+Z)</source>
-        <translation>ಅನ್ಡೋ (Ctrl+Z)</translation>
+        <translation>ಅರ್ಥಾತ್ (Ctrl+Z)</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="631"/>
         <source>Record</source>
-        <translation>ರೆಕಾರ್ಡ್</translation>
+        <translation>ರೆಕಾರ್ಡ್ ಮಾಡಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="792"/>
         <source>Border Effects</source>
-        <translation>ಬಾರ್ಡರ್ ಎಫೆಕ್ಟ್ಸ್</translation>
+        <translation>ಬಾರ್ಡರ್ ಪರಿಣಾಮಗಳು</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="793"/>
         <source>None</source>
-        <translation>ಅನೇಕ</translation>
+        <translation>ಇಲ್ಲ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="794"/>
         <source>Shadow</source>
-        <translation>ಆಂಘಿ</translation>
+        <translation>ಬೆಂಕಿ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="795"/>
@@ -839,12 +841,12 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="796"/>
         <source>Device</source>
-        <translation>ದೇವಿಸ್</translation>
+        <translation>ಆವಿಷ್ಕಾರ</translation>
     </message>
     <message>
         <location filename="../src/widgets/subtoolwidget.cpp" line="210"/>
         <source>Show pointer</source>
-        <translation>ಪೋಂಟರ್ ತೋರಿಸಿ</translation>
+        <translation>ಇಂಟರ್ ಪೋಂಟರ್ ತೋರಿಸಿ</translation>
     </message>
 </context>
 <context>
@@ -857,7 +859,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/toolbar.cpp" line="67"/>
         <source>OK (Enter)</source>
-        <translation>ಅಂಗೀಕರಿಸಿ (Enter)</translation>
+        <translation>ಆಯ್ಕೆಮಾಡಿ (Enter)</translation>
     </message>
 </context>
 <context>
@@ -865,7 +867,7 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/widgets/toptips.cpp" line="49"/>
         <source> Adjust the recording area within %1*%2 to get better video effect</source>
-        <translation>ನಿಮ್ಮ %1*%2 ನ್ನು ಸುಧಾರಿಸಿ, ಹೆಚ್ಚು ಸೂಚನೆಯ ವಿಡಿಯೋ ಪರಿಣಾಮ ಪಡೆಯಿರಿ</translation>
+        <translation>ಮುಖ್ಯ ವಿಡಿಯೊ ಪರಿಣಾಮಕ್ಕಾಗಿ %1*%2 ಮುಖ್ಯ ಪ್ರದೇಶವನ್ನು ಸುಧಾರಿಸಿ</translation>
     </message>
 </context>
 <context>
@@ -873,12 +875,12 @@ Press and hold Shift to draw a vertical or horizontal arrow</source>
     <message>
         <location filename="../src/utils.cpp" line="507"/>
         <source>Screen recording is not supported at present</source>
-        <translation>ಈ ಸಮಯದಲ್ಲಿ ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್ ಸುಳಿವು ಮಾಡಲಾಗಿಲ್ಲ</translation>
+        <translation>ಈಗಾయಿ ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ಸುಧಾರಿಸಲಾಗಿಲ್ಲ</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="509"/>
         <source>Exit</source>
-        <translation>ಮುಚ್ಚಿ</translation>
+        <translation>ಬಿಡು</translation>
     </message>
 </context>
 <context>
